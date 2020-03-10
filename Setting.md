@@ -1,3 +1,5 @@
+<div dir='rtl'>
+
 # تنظیمات    
 
 **تنظیمات**
@@ -23,3 +25,5 @@
 [CRMشخصی سازی](Setting/Personalizing.md)
 
 [تنظیمات کلی](Setting/TotalSetting.md)
+
+[وبسایت پیام گستر](payamgostar.com)
