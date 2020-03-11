@@ -13,3 +13,5 @@
 قسمت مرتبط با[نسخه پشتیبان](Backup/BackupVersion.md) مطالعه کنید.
 
 [وبسایت پیام‌گستر](payamgostar.com)
+
+[باشگاه مشتریان پیام‌گستر](payamgostar.com/club)
