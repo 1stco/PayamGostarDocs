@@ -25,12 +25,12 @@
 
 6. تنظیمات کاربری: قسمت های ذیل را مطالعه کنید.    
 
-تغییر رمز عبور
+<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5Chome%5Cedit-password%5Cedit-password.md" target="_blank">تغییر رمز عبور</a>
 
-مدیریت کاربران جانشین
+<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5Chome%5CSubstitute-users%5CSubstitute-users.md" target="_blank">مدیریت کاربران جانشین</a>
 
-تنظیمات من
+<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5Chome%5Cmy-setting%5Cmy-setting.md" target="_blank">تنظیمات من</a>
 
-پروفایل من
+<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5Chome%5Cmy-profile%5Cmy-profile.md" target="_blank">پروفایل من</a>
 
 7. پیام های سیستمی، لیست پیام هایی که در نرم افزار برای کاربری شما ایجاد شده است را نمایش می دهد. این پیام ها بر اساس رخدادهایی مانند تخصیص وظیفه ، تنظیم شدن قرار ملاقات، تایید و رد آیتم مالی و ... برای شما ایجاد می شوند. برای فعال کردن و یا تغییر محتوای این پیام ها قسمت مدیریت پیام های سیستم را مطالعه کنید.
