@@ -6,7 +6,7 @@
 
 ![](NotificationWidget.jpg)
 
-در تنظیمات این ویجت می توانید بازه زمانی نمایش یادآورهای سیستم را تعیین کنید.
+در تنظیمات این ویجت می توانید بازه زمانی نمایش[ یادآورهای سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md)را تعیین کنید.
 
 ![](Systemnotifications2.jpg)
 
