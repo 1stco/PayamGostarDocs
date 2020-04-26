@@ -26,4 +26,3 @@
 
 <a href="Language-management%2FLanguage-management.md" target="_blank">مدیریت زبان ها</a>
 
-ت[ست](~/1stco/PayamGostarDocs/master/help%202.5.4/Settings/Personalization-crm/Overview/Overview.md)
