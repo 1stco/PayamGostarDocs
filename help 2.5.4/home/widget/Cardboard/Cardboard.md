@@ -8,15 +8,15 @@
 
 تب های مختلف این کارتابل بر اساس میزان دسترسی کاربر به قسمت های مختلف نرم افزار ممکن است تغییر پیدا کنند.
 
-1.[وظیفه - پیگیری](Task-tracking%2FTask-tracking.md)
+1. [وظیفه - پیگیری](Task-tracking%2FTask-tracking.md)
 
-2.[فرآیندها](widget-processes%2Fwidget-processes.md)
+2. [فرآیندها](widget-processes%2Fwidget-processes.md)
 
-[3.آیتم های مالی (پیش فاکتور، فاکتور و ... ).](Warehouse-transactions-widget%2FWarehouse-transactions-widget.md)
+3. [آیتم های مالی (پیش فاکتور، فاکتور و ... ).](Approved-items%2FApproved-items.md)
 
 [4.قرار ملاقات](Meeting-card%2FMeeting-card.md)
 
-[5.تراکنش های انبار](Approved-items%2FApproved-items.md)
+[5.تراکنش های انبار](Warehouse-transactions-widget%2FWarehouse-transactions-widget.md)
 
  
 
