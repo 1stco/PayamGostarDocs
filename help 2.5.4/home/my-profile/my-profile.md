@@ -2,7 +2,7 @@
 
 این صفحه داشبورد مرتبط با کاربری شما است. مشتریان در باشگاه مشتریان این صفحه را به عنوان تنها دسترسی خود به نرم افزار خواهند 
 
-> نکته: توضیحات ارائه شده در این قسمت به صورت مختصر می باشد، برای توضیحات تکمیلی و اطلاع از جزئیات هر بخش از باشگاه مشتریان به[ داشبورد مشتریان ](https://github.com/1stco/PayamGostarDocs/tree/master/help%202.5.4/Supplementary-modules/customer-club/Customer-dashboard)مراجعه کنید.
+> نکته: توضیحات ارائه شده در این قسمت به صورت مختصر می باشد، برای توضیحات تکمیلی و اطلاع از جزئیات هر بخش از باشگاه مشتریان به[ داشبورد مشتریان ](https://github.com/1stco/PayamGostarDocs/tree/master/help%202.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)مراجعه کنید.
 
 ![](MyProfile.jpg)
 
