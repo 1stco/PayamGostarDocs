@@ -5,6 +5,7 @@
 
  1. کارتابل من: تب های نمایش داده شده در[ کارتابل](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/home/widget/Cardboard/Cardboard.md) خود را در این قسمت می توانید تعیین کنید.
  
+ 
  ![](MySetting.jpg)
  
  2. آخرین فعالیت: سوابقی که در ویجت آخرین فعالیت نمایش داده می شود را می توانید تعیین کنید.
