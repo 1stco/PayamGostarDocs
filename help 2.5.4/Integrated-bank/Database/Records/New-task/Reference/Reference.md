@@ -39,7 +39,7 @@
 
 5. پیام خاتمه: در صورت خاتمه پیدا کردن این وظیفه یک پیام به کاربری که این وظیفه را ارجاع داده است ارسال می کند. این پیام می تواند پیامک، ایمیل، پیام شبکه اجتماعی و یا یک پیام داخل سیستمی باشد.
 
-> نکته: این پیام ها را در قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/tree/master/help%202.5.4/Basic-Information/Manage-system-messages) می توانید تنظیم کنید.
+> نکته: این پیام ها را در قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md) می توانید تنظیم کنید.
 
 6. نوع ارسال: ارسال به سه صورت می تواند انجام شود:
 
