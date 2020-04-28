@@ -2,7 +2,8 @@
 
 زمانی که با یک مشتری تماس حاصل می نمایید و یا مشتری با شما تماس می گیرد می توانید برای آن یک سابقه از نوع تماس تلفنی ثبت نمایید تا تاریخچه ای از زمان های تماس مشتری و مکالمات صورت گرفته، ایجاد شود. در مدیریت سوابق هویت، این آیتم از جایگاه ویژه ای برخوردار است.
 
-نکته مهم: لطفا ابتدا قسمت<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CIntegrated-bank%5CDatabase%5CRecords%5CJoint-record-information%5CJoint-record-information.md" target="_blank"> اطلاعات مشترک سوابق </a>را مطالعه کنید.
+> نکته مهم: لطفا ابتدا قسمت [اطلاعات مشترک سوابق](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md) را مطالعه کنید.
+
 
 ![.](NewCalls1.jfif)
 
