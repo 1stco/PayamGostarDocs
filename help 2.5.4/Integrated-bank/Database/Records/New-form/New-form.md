@@ -4,12 +4,13 @@
 
  فرم تنها سابقه ای است که هیچ فیلد پیش فرضی ندارد و تمامی فیلدهای آن توسط شما تعریف می شود.
 
-برای ساخت یک فرم به قسمت مدیریت فرم ها مراجعه کنید.
+برای ساخت یک فرم به قسمت[ مدیریت فرم ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md) مراجعه کنید.
 
 به طور مثال در تصویر زیر یک فرم نارضایتی را مشاهده میکنید.
 
 > نکته: توجه داشته باشید فرم از سوابقی است که می تواند به پروفایل هیچ هویتی متصل نگردد و با خالی بودن قسمت "مرتبط با" قابل ذخیره کردن است.
 
-> نکته مهم: لطفا ابتدا قسمت<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CIntegrated-bank%5CDatabase%5CRecords%5CJoint-record-information%5CJoint-record-information.md" target="_blank">  اطلاعات مشترک سوابق</a> را مطالعه کنید.
+> نکته مهم: لطفا ابتدا قسمت [ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
+
 
 ![](Form.jpg)
