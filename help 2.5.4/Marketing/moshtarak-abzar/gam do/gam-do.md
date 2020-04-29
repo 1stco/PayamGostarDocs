@@ -13,7 +13,10 @@
 
 > نکته: عدد زیر صفحه ارسال پیام، تعداد کاراکترهای موجود و تعداد پیام های پیامک را نشان می دهد.
 
-2. لیست پارامترها: در این منو شما میتوانید از فیلدهای در دسترس، بعنوان کلمه متغیر (<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5C%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%5Cmatn-hoshmand%5Cmatn-hoshmand.md" target="_blank">متن هوشمند</a>) استفاده نمایید.
+1.     محتوای پیامک : متن پیام برای ارسال به مخاطب از نوع متن ساده می باشد .
+
+در این نوع ارسال می توانید از [متن هوشمند ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/matn-hoshmand/matn-hoshmand.md) استفاده کنید.
+
 
 ![](advertise-tools8.png)
 
@@ -21,7 +24,7 @@
 
 در این نوع از محتوا علاوه بر متن هوشمند می توانید از عکس و یا لینک های ویژه Hyperlink نیز استفاده کنید.
 
-برای اضافه کردن تصویر به ایمیل ارسالی به قسمت طریقه ایجاد ایمیل عکس دار مراجعه کنید .
+برای اضافه کردن تصویر به ایمیل ارسالی به قسمت طریقه[ ایجاد ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/email/Photo-email/Photo-email.md) مراجعه کنید .
 
 ![](7.png)
 
@@ -42,7 +45,7 @@
 
 ![](8.png)
 
- 3. می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند  تنظیم قالب چاپ  میتوانید انجام دهید)
+ 3. می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند[  تنظیم قالب چاپ  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Set%20the-print-template/Set%20the-print-template.md)میتوانید انجام دهید)
  
  
 
