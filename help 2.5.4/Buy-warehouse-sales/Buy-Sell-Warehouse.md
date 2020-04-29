@@ -5,28 +5,28 @@
 
 
 
- 1. دریافت
+1.[ دریافت](receiving-payment%2Freceiving-payment.md)
 
-2. پرداخت
+2.[ پرداخت](receiving-payment%2Freceiving-payment.md)
 
-3. قرارداد
+3.[ قرارداد](Contracts%2FContracts.md)
 
-4. پیش فاکتور فروش
+4.[ پیش فاکتور فروش](Factors%2FFactors.md)
 
-5. فاکتور فروش
+5.[ فاکتور فروش](Factors%2FFactors.md)
 
-6. فاکتور برگشت از فروش
+6.[ فاکتور برگشت از فروش](Factors%2FFactors.md)
 
-7. پیش فاکتور خرید
+7. [پیش فاکتور خرید](Factors%2FFactors.md)
 
-8. فاکتور خرید
+8.[ فاکتور خرید](Factors%2FFactors.md)
 
-9. فاکتور برگشت از خرید
+9.[ فاکتور برگشت از خرید](Factors%2FFactors.md)
 
-10.انبارها
+10.[ انبارها](Store%2FStore.md)
 
-11. معاملات
+11.[ معاملات](Transaction%2Ftransaction.md)
 
-12. اقلام کالا
+12. [اقلام کالا](Search%20for%20item%20pen%2FProductSerial.md)
 
-13. لینک پرداخت 
+13.[ لینک پرداخت](link-pardakht%2FPaymentlinkList.md) 
