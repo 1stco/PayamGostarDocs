@@ -1,6 +1,7 @@
 ﻿## گام3-تنظیم متن
 
- لطفا ابتدا<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5C%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%5Cmoshtarak-abzar%5Cgam%20do%5Cgam-do.md" target="_blank"> به گام دوم - محتوای پیام</a> در اطلاعات مشترک ابزارها مراجعه کنید.
+  لطفا ابتدا به [گام دوم - محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/gam%20do/gam-do.md) در اطلاعات مشترک ابزارها مراجعه کنید.
+
  
  1. حالت رویداد: در حالت تک متنی برای کلیه تاریخ های انتخابی فقط یک متن ارسال می شود و در حالت چند متنی می توانید برای هر تاریخ یک متن مشخص را ویرایش نمایید.
  
