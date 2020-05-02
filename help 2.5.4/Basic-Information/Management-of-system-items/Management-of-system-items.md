@@ -4,10 +4,9 @@
 
 با استفاده از فلش های سبز رنگ می توانید ترتیب بندی لیست مورد نظر را نیز تعیین کنید.
 
-
-عنوان این آیتم ها در نرم افزار پیش فرض است و قابل اضافه کردن نیست. برای اضافه کردن آیتم دلخواه در صفحه مدیریت اطلاعات هویت ها به قسمت[ شخصی سازی](https://github.com/1stco/PayamGostarDocs/edit/master/help%202.5.4/Settings/Price-list-management/Price-list-management.md) هویت مراجعه کنید.
+عنوان این آیتم ها در نرم افزار پیش فرض است و قابل اضافه کردن نیست. برای اضافه کردن آیتم دلخواه در صفحه مدیریت اطلاعات هویت ها به قسمت[ شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) هویت مراجعه کنید.
 
 
 ![](ItemsManagement.jfif)
 
-  [1]: file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5Chome%5Chome.md
+  
