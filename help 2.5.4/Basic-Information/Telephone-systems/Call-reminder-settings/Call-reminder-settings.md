@@ -12,4 +12,4 @@
 
 3. نوع فرم: در صورتی که برای رویداد تماس، ثبت فرم را تنظیم کرده باشید، زیرنوع فرم انتخاب شده در این قسمت نمایش داده می شود.
 
-4. اضافه کردن رویداد تماس: با استفاده از این کلید می توانید یک رویداد تماس جدید اضافه نمایید
+4. اضافه کردن رویداد تماس: با استفاده از این کلید می توانید یک [رویداد تماس جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/Call-reminder-settings/Add-contact-event/Add-contact-event.md) اضافه نمایید
