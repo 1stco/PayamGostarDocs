@@ -1,6 +1,6 @@
 ﻿## مدیریت اتاق ها
 
-در این قسمت اتاق هایی که به عنوان محل ملاقات برایقرار های ملاقات در نظر گرفته می شوند را میتوانید ایجاد و مدیریت کنید.
+در این قسمت اتاق هایی که به عنوان محل ملاقات برای [قرار های ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/new-appointment/new-appointment.md) در نظر گرفته می شوند را میتوانید ایجاد و مدیریت کنید.
 
 
 ![](Roomsmanagement1.png)
