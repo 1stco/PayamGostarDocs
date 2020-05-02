@@ -7,9 +7,10 @@
 > نکته اول: غیر از این قسمت ( مدیریت گروه ها و کاربران) می توانید مجوزهای کاربران را از دو طریق دیگر نیز به آنها اختصاص دهید:
 
 
-الف) مدیریت شعب - دپارتمان و سمت: که در آن مجوزها تعیین و سپس با استفاده از تفویض حکم از<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonnel-command-management%5CPersonnel-command-management.md" target="_blank"> قسمت مدیریت حکم های پرسنلی</a> مجوزهای آن در اختیار کاربر قرار می گیرد.
+الف) مدیریت شعب - دپارتمان و سمت: که در آن مجوزها تعیین و سپس با استفاده از تفویض حکم از قسمت[ مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)مجوزهای آن در اختیار کاربر قرار می گیرد.
 
-ب) شخصی سازی CRM : در شخصی سازی crm امکان تعریف مجوز برای کاربران  بر روی آیتم های موجود در نرم افزار وجود دارد . برای مطالعه بیشتر به بخش <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CItem-permissions%5CItem-permissions.md" target="_blank">شخصی سازی-مجوزهای آیتم</a> مراجعه کنید.
+
+ب) شخصی سازی CRM : در شخصی سازی crm امکان تعریف مجوز برای کاربران  بر روی آیتم های موجود در نرم افزار وجود دارد . برای مطالعه بیشتر به بخش[ شخصی سازی-مجوزهای آیتم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Item-permissions/Item-permissions.md)مراجعه کنید.
 
 > نکته دوم: بدلیل اینکه مجوزها را می توان از چند طریق به کاربران اختصاص داد، همیشه در نظر داشته باشید که یک مجوز به این صورت کار میکند، مجوزی که به خود کاربر اختصاص داده شده باشد، ارجحیت بالاتری از سایر مجوز ها دارد و  همچنین مجور"ندارد" بر مجوز "دارد" ارجحیت دارد.
 
