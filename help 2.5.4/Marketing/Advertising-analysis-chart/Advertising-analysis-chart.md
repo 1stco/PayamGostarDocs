@@ -72,12 +72,12 @@ b.اجرای رویداد تبلیغاتی: در این بخش وضعیت روی
 آمار مراجعان :  به آمار شرکت کنندگان مراجعه کنید .
 
 
-الف - اطلاعات کلی   
+[الف - اطلاعات کلی](etelat-koli%2Fetelatkoli.md)   
 
-ب – نسبت های مهم
+[ب – نسبت های مهم](advertising-importantbalance%2Fadvertising-importantbalance.md)
 
-ج – خطاها
+[ج – خطاها](advertising-importanterrors%2Fadvertising-importanterrors.md)
 
-د – پیشنهاد ما
+[د – پیشنهاد ما](advertising-oursuggestion%2Fadvertising-oursuggestion.md)
 
 
