@@ -131,9 +131,9 @@
 مدیریت محصولات: به منوی[ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)دسترسی پیدا می کند. (می تواند محصولات را وارد کند، بروز کند و یا خروجی بگیرد.)
 
 
-مشاهده لیست معاملات جامع: اجازه دسترسی به مورد معامله و مورد مذاکره در منوی خرید، فروش و انبار را در اختیار کاربر قرار میدهد.
+مشاهده لیست معاملات جامع: اجازه دسترسی به [مورد معامله](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Case%20of%20transaction/Case%20of%20transaction.md) و [مورد مذاکره ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Negotiated/negotiates.md)در منوی خرید، فروش و انبار را در اختیار کاربر قرار میدهد.
 
-مشاهده لیست معاملات مشتری: دسترسی به منوی معاملات را در پروفایل مخاطبان و سرنخ ها در اختیار کاربر می گذارد.
+مشاهده لیست معاملات مشتری: دسترسی به منوی [معاملات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Trades/Trades.md)را در پروفایل مخاطبان و سرنخ ها در اختیار کاربر می گذارد.
 
 8. گزارشات:
 
@@ -147,9 +147,9 @@
 
 ![](Privileges108.png)
 
-مدیر مالی: امکان مشاهده گزارشهای مالی مانند گزارش مانده حساب مشتریان یا جزئیات عملکرد فروش را دارد.
+مدیر مالی: امکان مشاهده گزارشهای مالی مانند[ گزارش مانده حساب مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md) یا[ جزئیات عملکرد فروش ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)را دارد.
 
- با دارا بودن این مجوز میتوان به بخش مدیریت حساب های مالی دسترسی یافت همچنین امکان دریافت گزارش میزان دریافت ماهانه فاکتور ها از قسمت گزارش های محاسبه پور سانت، گزارش مانده حساب مشتریان، گزارش مشتریان غیر فعال و گزارش جزئیات عملکرد    و همچنین گزارش های مجموع عملکرد (به جز مجموع فروش به تفکیک محصولات و ومجموع فروش به تفکیک کارشناسان که نیاز به مجوز مدیر مالی دارند)
+ با دارا بودن این مجوز میتوان به بخش [مدیریت حساب های ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Financial-account-management/Financial-account-management.md)مالی دسترسی یافت همچنین امکان دریافت گزارش میزان دریافت ماهانه فاکتور ها از قسمت گزارش های محاسبه پور سانت، [گزارش مانده حساب ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md)مشتریان، [گزارش مشتریان غیر فعال ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Inactive-customers/Inactive-customers.md)و[ گزارش جزئیات عملکرد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)    و همچنین[ گزارش های مجموع عملکرد ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Total-performance/Performance-details.md)(به جز مجموع فروش به تفکیک محصولات و ومجموع فروش به تفکیک کارشناسان که نیاز به مجوز مدیر مالی دارند)
 
 با دارا بودن این مجوز، در لیست دریافت ها و پرداخت ها، امکان حذف چند آیتم دریافت و پرداخت باهم وجود دارد.
 
@@ -157,9 +157,9 @@
 
 ![](Privileges109.png)
 
-مدیر ارتباط با مشتری: امکان مشاهده گزارشات CRM و گزارشات فرآیندی را به کاربر می دهد.
+مدیر ارتباط با مشتری: امکان مشاهده[ گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/reports-crm.md) CRM و[ گزارشات فرآیندی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Process-reports.md) را به کاربر می دهد.
 
-مدیریت فرم ها: دسترسی یه منوی مدیریت فرم ها در شخصی سازی را به کاربر می دهد.
+مدیریت فرم ها: دسترسی یه منوی [مدیریت فرم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md) ها در شخصی سازی را به کاربر می دهد.
 
 11. مرکز تماس:
 
@@ -167,21 +167,21 @@
 
 برقراری تماس تلفنی: اگر سیستم تلفنی VOIP در اختیار داشته باشید و آن را با نرم افزار پیام گستر به درستی متصل کرده باشید، با فعال کردن این مجوز به کاربران این اجازه داده می شود که بتوانند از داخل نرم افزار با کلیک بر روی شماره تلفن، موبایل یا تلفکس با مخاطب ارتباط برقرار کنند.
 
-تنظیمات یادآوری تماس ها: به منوی تنظیمات یادآوری تماس ها دسترسی می دهد.
+تنظیمات یادآوری تماس ها: به منوی[ تنظیمات یادآوری تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/Call-reminder-settings/Call-reminder-settings.md)ها دسترسی می دهد.
 
-حذف سابقه تماس ها: اجازه حذف سابقه تماس ها از منوی تماس ها و در پروفایل مخاطب تب تماس ها را می دهد.
+حذف سابقه تماس ها: اجازه حذف سابقه تماس ها از منوی[ تماس ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/calls/calls.md)و در پروفایل مخاطب تب[ تماس ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/calls-h/calls-h.md)را می دهد.
 
 مدیریت تماس های ضبط شده: به کاربر اجازه می دهد که تماس های ضبط شده را در اختیار داشته باشد.
 
-مدیریت سیستم های تلفنی: دسترسی به منوی مدیریت سیستم های تلفنی را در اختیار کاربر قرار میدهد. (در این منو میتوانید تنظیمات مرتبط با سیستم تلفن های خود -تعریف داخلی و ...- را انجام دهید.)
+مدیریت سیستم های تلفنی: دسترسی به منوی [مدیریت سیستم های تلفنی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/telephone-systems-Management/telephone-systems-Management.md) را در اختیار کاربر قرار میدهد. (در این منو میتوانید تنظیمات مرتبط با سیستم تلفن های خود -تعریف داخلی و ...- را انجام دهید.)
 
-مشاهده تماس های تمامی داخلی ها: به کاربر اجازه می دهد در ویجت تماس خود تمامی تماس های ورودی را مشاهده کند. (با توجه به داخلی های تنظیم شده در مدیریت سیستم های تلفنی و تنظیمات قسمت امنیتی می توانید مشاهده تماس های ورودی را برای کاربران محدود کنید.)
+مشاهده تماس های تمامی داخلی ها: به کاربر اجازه می دهد در ویجت تماس خود تمامی تماس های ورودی را مشاهده کند. (با توجه به داخلی های تنظیم شده در [مدیریت سیستم های تلفنی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/telephone-systems-Management/telephone-systems-Management.md)و تنظیمات قسمت [امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)می توانید مشاهده تماس های ورودی را برای کاربران محدود کنید.)
 
-مشاهده تماس های دریافتی: به کاربر اجازه می دهد که از منوی تلفن  استفاده کند. (تماس های ورودی را ببیند و بتواند شماره مخاطب یا سوابق او را ثبت کند.)
+مشاهده تماس های دریافتی: به کاربر اجازه می دهد که از منوی[ تلفن ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/home/Storytelling/Phone/Phone.md) استفاده کند. (تماس های ورودی را ببیند و بتواند شماره مخاطب یا سوابق او را ثبت کند.)
 
-مشاهده لیست تماس ها: اجازه مشاهده سوابق تماسی در منوی تماس ها  در قسمت مدیریت ارتباط با مشتریان را به کاربر می دهد.
+مشاهده لیست تماس ها: اجازه مشاهده سوابق تماسی در منوی[ تماس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/calls/calls.md) ها  در قسمت مدیریت ارتباط با مشتریان را به کاربر می دهد.
 
-مشاهده وضعیت مرکز تماس: به منوی وضعیت مرکز تماس دسترسی می دهد. (میتوانید وضعیت داخلی ها را مشاهده کنید و یا درصورت نیاز با کاربر خود از طریق سیستم در حین مکالمه صحبت کنید.)
+مشاهده وضعیت مرکز تماس: به [منوی وضعیت مرکز تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Windows/Windows.md)دسترسی می دهد. (میتوانید وضعیت داخلی ها را مشاهده کنید و یا درصورت نیاز با کاربر خود از طریق سیستم در حین مکالمه صحبت کنید.)
 
 
 
