@@ -1,6 +1,7 @@
 ﻿## تنظیمات مشترک فیلدها
 
-پیش از بررسی تنظیماتی که به صورت مشترک در همه فیلدها وجود دارند ابتدا نحوه<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CAdd-features%5CAdd-features.md" target="_blank"> افزدن مشخصه</a>  را مطالعه کنید.
+پیش از بررسی تنظیماتی که به صورت مشترک در همه فیلدها وجود دارند ابتدا نحوه[ افزودن مشخصه  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)را مطالعه کنید.
+
 
 ![](2020-01-12_10-18-27.png)
 
