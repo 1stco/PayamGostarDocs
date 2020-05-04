@@ -1,6 +1,7 @@
 ﻿## چاپ
 
-لطفا ابتدا قسمت   <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CProcess-design%5CCreate-a-work-cycle%5CActivity%5CSend%20SMS%2C%20email%5CSend%20SMS%2C%20email.md" target="_blank">ارسال پیامک-ایمیل-فکس-چاپ </a>را مطالعه کنید.
+لطفا ابتدا قسمت[   ارسال پیامک-ایمیل-فکس-چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/Send%20SMS%2C%20email.md)را مطالعه کنید.
+
 
 با انتخاب این فعالیت، یک چاپ به صورت خودکار به چاپگر تعریف شده در نرم افزار ارسال می شود و سپس گردش کار به مرحله بعد می رود.
 
