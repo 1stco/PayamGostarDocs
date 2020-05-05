@@ -8,8 +8,10 @@
 
 > نکته: آیتم های 11، 12 و 13 از قسمت  تنظیمات مشترک آیتم های سیستم را مطالعه کنید.
 
-<a href="Create-username%2FCreate-username.md" target="_blank">ایجاد نام کاربری</a>
+[ایجاد نام کاربری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Supplementary-modules/customer-club/Create-username%2FCreate-username.md)
 
-<a href="Customer-dashboard%2FCustomer-dashboard.md" target="_blank">داشبورد مشتریان</a>
+[داشبورد مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)
+
+ 
 
  
