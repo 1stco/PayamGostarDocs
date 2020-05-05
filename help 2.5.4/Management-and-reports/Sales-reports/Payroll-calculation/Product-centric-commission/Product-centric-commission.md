@@ -1,6 +1,6 @@
 ﻿## پورسانت محصول محور
 
-در  مدیریت محصولات می توان برای محصولات پورسانت درصدی و یا قیمتی مشخص کرد(مطابق شکل زیر). 
+در [ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)می توان برای محصولات پورسانت درصدی و یا قیمتی مشخص کرد(مطابق شکل زیر). 
 
 ![](MohasebeyePorsant0.png)
 
