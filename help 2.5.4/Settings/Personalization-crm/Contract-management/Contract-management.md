@@ -4,13 +4,14 @@
 
 قرارداد ها می توانند شامل قراداد پشتیبانی، تعمیر و نگهداری، خدمات پس از فروش، ضمانت تعویض و ... باشند. 
 
-لطفا<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CGeneral-information.md" target="_blank"> ابتدا  اطلاعات کلی </a>را در این خصوص مطالعه فرمایید.
+لطفا ابتدا[  اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
 
 ![](ContractManagement1.png)
 
 ### قرارداد جدید:
 
-علاوه بر تنظیمات <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CLegal%20-financial-items%5CLegal%20-financial-items.md" target="_blank">آیتم های حقوقی/مالی</a>  و تنظیمات عمومی که در<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CShared-information-of-system%20items%5CShared-information-of-system%20items.md" target="_blank"> قسمت تنظیمات مشترک آیتم</a> های سیستم  توضیح داده شد، تنظیمات اختصاصی قرار دادها به شرح زیر می باشد.
+علاوه بر تنظیمات[ آیتم های حقوقی/مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Legal%20-financial-items/Legal%20-financial-items.md) و تنظیمات عمومی که در قسمت[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md) توضیح داده شد، تنظیمات اختصاصی قرار دادها به شرح زیر می باشد.
+
 
 ![](ContractManagement2.png)
 
