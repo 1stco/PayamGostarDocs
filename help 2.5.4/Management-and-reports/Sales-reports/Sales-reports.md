@@ -4,10 +4,12 @@
 
 ![](PreSalesReport.png)
 
-مشتریان
+[مشتریان](Customers%2FCustomers.md)
 
-جزئیات عملکرد
+[جزئیات عملکرد](Performance-details%2FPerformance-details.md)
 
-مجموع عملکرد
+[مجموع عملکرد](Total-performance%2FPerformance-details.md)
 
-محاسبه پورسانت
+[محاسبه پورسانت](Payroll-calculation%2FPayroll-calculation.md)
+
+[گزارشات افتراق](Differentiation-reports%2FDifferentiation-reports.md)
