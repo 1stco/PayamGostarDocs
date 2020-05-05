@@ -8,12 +8,14 @@
 
 ![](PreCustomers.png)
 
-مانده حساب مشتریان
+[مانده حساب مشتریان](Customer-account-balance%2FCustomer-account-balance.md)
 
-مشتریان غیر فعال
+[مشتریان غیر فعال](Inactive-customers%2FInactive-customers.md)
 
-گزارش کلی امتیازات
+[گزارش کلی امتیازات](General-score-report%2FGeneral-score-report.md)
 
-گزارش تراکنش های امتیازات
+[گزارش تراکنش های امتیازات](Report-the-points-consumed%2FReport-the-points-consumed.md)
+
+
 
  
