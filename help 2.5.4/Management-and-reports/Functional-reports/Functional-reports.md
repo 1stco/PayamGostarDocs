@@ -8,10 +8,10 @@
 
 > نکته: برای دریافت گزارش چارت سازمانی، باید مجوز "مدیریت شعب و دفاتر" داشته باشید.    
 
-تقویم عملیاتی کاربران
+[تقویم عملیاتی کاربران](User-Operating-Calendar%2FUser-Operating-Calendar.md)
 
-کارتابل وظایف کاربران
+[کارتابل وظایف کاربران](Cardboard-user-tasks%2FCardboard-user-tasks.md)
 
-کارتابل فرآیندهای کاربران
+[کارتابل فرآیندهای کاربران](Cardboard-user-processes%2FCardboard-user-processes.md)
 
-چارت سازمانی
+[چارت سازمانی](Chart%2FChart.md)
