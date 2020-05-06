@@ -47,51 +47,63 @@
 
 A. دریافت و پرداخت:
 
-به قسمت <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">تنظیمات مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
 
 B. پیش فاکتور و فاکتور و فاکتور برگشت:
 
-به قسمت <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5CFactor-management%5CFactor-management.md" target="_blank">مدیریت فاکتورها </a>مراجعه نمایید.
+به قسمت[ مدیریت فاکتورها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Factor-management/Factor-management.md)مراجعه نمایید.
+
 
 C. تماس تلفنی:
 
-به قسمت<a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank"> تنظیمات مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
 
 D. رسید ها و حواله های انبار:
 
-لطفا به لینک<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5CManagement-warehouse-transactions%5CManagement-warehouse-transactions.md" target="_blank"> مدیریت تراکنش های انبار</a> در بخش تنظیمات مراجعه نمایید.
+لطفا به لینک [مدیریت تراکنش های انبار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Management-warehouse-transactions/Management-warehouse-transactions.md) در بخش تنظیمات مراجعه نمایید.
+
 
 E. درخواست پشتیبانی:
 
-لطفا به لینک<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5CManage-requests%5CManage-requests.md" target="_blank"> مدیریت درخواست ها</a>  در بخش تنظیمات مراجعه نمایید.
+لطفا به لینک[ مدیریت درخواست ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md)  در بخش تنظیمات مراجعه نمایید.
+
 
 F. فایل:
 
-به قسمت <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">تنظیمات مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
 
 G. فرصت:
 
-به قسمت<a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank"> تنظیمات مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
 
 H. فرم:
 
-لطفا به لینک <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5CForm-management%5CForm-management.md" target="_blank">مدیریت فرم ها</a> در بخش تنظیمات مراجعه نمایید.
+لطفا به لینک [مدیریت فرم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md)در بخش تنظیمات مراجعه نمایید.
+
 
 I. قرار ملاقات:
 
-به قسمت تنظیمات <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">مشترک آیتم های سیستم</a> مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
+
 
 J. قرارداد:
-لطفا به لینک <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5CContract-management%5CContract-management.md" target="_blank">مدیریت قراردادها</a>  در بخش تنظیمات مراجعه نمایید.
+
+لطفا به لینک[ مدیریت قراردادها  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Contract-management/Contract-management.md)در بخش تنظیمات مراجعه نمایید.
 
 K. هویت:
 
-به قسمت تنظیمات <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
 
 L. وظیفه:
 
-به قسمت تنظیمات <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
+
 
 M. یادداشت:
 
-به قسمت تنظیمات <a href="Shared-information-of-system%20items%2FShared-information-of-system%20items.md" target="_blank">مشترک آیتم های سیستم </a>مراجعه کنید.
+به قسمت [تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items%2FShared-information-of-system%20items.md) مراجعه کنید.
