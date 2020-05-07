@@ -2,14 +2,17 @@
 
 ![](MngmentAndReports.png)
 
-[گزارشات عملکردی](Functional-reports%2FFunctional-reports.md)
 
-[گزارشهای تحلیلی](Analysis-reports%2FAnalysis-reports.md)
+[گزارشات عملکردی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Functional-reports.md)
 
-[گزارشات فروش](Sales-reports%2FSales-reports.md)
+[گزارشهای تحلیلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Analysis-reports/Analysis-reports.md)
 
-[گزارشات](reports-crm%2Freports-crm.md) CRM
+[گزارشات فروش](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Sales-reports.md)
 
-[گزارش ساز](Report-Builder%2FReport-Builder.md)
+[گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/reports-crm.md) CRM
+
+[گزارش ساز](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)
+
+[دسته بندی گزارش ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Category-reports/Category-reports.md)
 
 
