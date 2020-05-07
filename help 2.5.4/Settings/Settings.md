@@ -2,24 +2,27 @@
 
 منوهای تنظیمات نرم افزار به شرح زیر است:
 
-<a href="Manage-groups-and-users%2FManage-groups-and-users.md" target="_blank">مدیریت گروه ها و کاربران</a>
+[مدیریت گروه ها و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md)
 
-<a href="Personnel-command-management%2FPersonnel-command-management.md" target="_blank">مدیریت حکم های پرسنلی</a>
+[مدیریت حکم های پرسنلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)
 
-<a href="Management-of-customer-club-members%2FManagement-of-customer-club-members.md" target="_blank">مدیریت اعضای باشگاه مشتریان</a>
+[مدیریت اعضای باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)
 
-<a href="Warehouse-management%2FWarehouse-management.md" target="_blank">مدیریت انبارها</a>
+[مدیریت انبارها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)
 
-<a href="Product-originality-management%2FProduct-originality-management.md" target="_blank">مدیریت اصالت کالا</a>
+[مدیریت اصالت کالا](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Product-originality-management/Product-originality-management.md)
 
-<a href="Mass-memory-management%2FMass-memory-management.md" target="_blank">مدیریت یادآوری های انبوه</a>
+[مدیریت یادآوری های انبوه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Mass-memory-management/Mass-memory-management.md)
 
-<a href="Customer-classification-management%2FCustomer-classification-management.md" target="_blank">مدیریت کلاس بندی مشتریان</a>
+[مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Customer-classification-management/Customer-classification-management.md)
 
-<a href="Price-list-management%2FPrice-list-management.md" target="_blank">مدیریت لیست قیمت ها</a>
+[مدیریت لیست قیمت ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Price-list-management/Price-list-management.md)
 
-<a href="Personalization-crm%2FPersonalization-crm.md" target="_blank">CRMشخصی سازی</a>
+[CRMشخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md)
 
-<a href="General-settings%2Fgeneral-settings.md" target="_blank">تنظیمات کلی</a>
+[تنظیمات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/general-settings.md)
+
+[لیست رویدادها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/List-of-events/list-of-events.md)
+
 
    
