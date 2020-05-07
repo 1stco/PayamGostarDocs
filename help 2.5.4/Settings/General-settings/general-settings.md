@@ -4,39 +4,41 @@
 
 سر فصلهای این تنظیمات به ترتیب زیر است.
 
-<a href="system%2Fsystem.md" target="_blank">سیستم</a>
+[سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/system/system.md)
 
-<a href="payamak%2Fpayamak.md" target="_blank">پیامک</a>
+[پیامک](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/payamak/payamak.md)
 
-<a href="email-s%2Femail-s.md" target="_blank">ایمیل</a>
+[ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/email-s/email-s.md)
 
-<a href="fax-s%2Ffax-s.md" target="_blank">فکس</a>
+[فکس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/fax-s/fax-s.md)
 
-<a href="printer%2Fprinter.md" target="_blank">پرینتر</a>
+[پرینتر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/printer/printer.md)
 
-<a href="Automatic-update-of-lines%2FAutomatic-update-of-lines.md" target="_blank">بروزرسانی خودکار خطوط</a>
+[بروزرسانی خودکار خطوط](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Automatic-update-of-lines/Automatic-update-of-lines.md)
 
-<a href="Default-lines%2FDefault-lines.md" target="_blank">خطوط پیش فرض</a>
+[خطوط پیش فرض](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Default-lines/Default-lines.md)
 
-<a href="calls%2Fcalls.md" target="_blank">تماس ها</a>
+[تماس ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/calls/calls.md)
 
-<a href="User-category%2FUser-category.md" target="_blank">دسته بندی کاربران</a>
+[دسته بندی کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/User-category/User-category.md)
 
-<a href="Anonymous-audience%2FAnonymous-audience.md" target="_blank">مخاطبان ناشناس</a>
+[مخاطبان ناشناس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Anonymous-audience/Anonymous-audience.md)
 
-<a href="Customer-card%2FCustomer-card.md" target="_blank">کارت مشتری</a>
+[کارت مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Customer-card/Customer-card.md)
 
-<a href="security%2Fsecurity.md" target="_blank">امنیتی</a>
+[امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)
 
-<a href="Process%2FProcess.md" target="_blank">فرآیند</a>
+[فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Process/Process.md)
 
-<a href="Server-settings%2FServer-settings.md" target="_blank">تنظیمات سرور</a>
+[تنظیمات سرور](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Server-settings/Server-settings.md)
 
-<a href="inventory%2Finventory.md" target="_blank">انبار داری</a>
+[انبار داری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/inventory/inventory.md)
 
-<a href="Sell%2FSell.md" target="_blank">فروش</a>
+[فروش](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Sell/Sell.md)
 
-<a href="payment-pg%2Fpayment-pg.md" target="_blank">پیامگستر پرداخت</a>
+[پیامگستر پرداخت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/payment-pg/payment-pg.md)
 
-<a href="Online-shop%2FOnline-shop.md" target="_blank">فروشگاه آنلاین</a>
+[فروشگاه آنلاین](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Online-shop/Online-shop.md)
+
+
 
