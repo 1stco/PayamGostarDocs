@@ -2,14 +2,16 @@
 
 این قسمت از نرم افزار از نقطه نظر تنظیمات، قلب سیستم محسوب میشود، طراحی و ساخت انواع آیتم ها، ساخت فرآیند، تنظیم مجوزهای هر آیتم جزء کارهایی است که می شود در این قسمت انجام داد. یادگیری خوب این قسمت پیش زمینه اساسی برای طراحی فرآیند و چرخه محسوب می شود.
 
-<a href="Overview%2FOverview.md" target="_blank">نمای کلی</a>
+[نمای کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Overview.md)
 
-<a href="Factor-management%2FFactor-management.md" target="_blank">مدیریت فاکتورها</a>
+[مدیریت فاکتورها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Factor-management/Factor-management.md)
 
-<a href="Form-management%2FForm-management.md" target="_blank">مدیریت فرم ها</a>
+[مدیریت فرم ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md)
 
-<a href="Manage-requests%2FManage-requests.md" target="_blank">مدیریت درخواست ها</a>
+[مدیریت درخواست ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md)
 
-<a href="Management-warehouse-transactions%2FManagement-warehouse-transactions.md" target="_blank">مدیریت حواله های انبار</a>
+[مدیریت حواله های انبار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Management-warehouse-transactions/Management-warehouse-transactions.md)
 
-<a href="Contract-management%2FContract-management.md" target="_blank">مدیریت قراردادها</a>
+[مدیریت قراردادها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Contract-management/Contract-management.md)
+
+
