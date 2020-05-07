@@ -2,7 +2,11 @@
 
 این منو شامل تمامی زیر منوی های مدیریت فاکتورها، فرم ها و ... نیز هست.
 
-<a href="General-information%2FGeneral-information.md" target="_blank">اطلاعات کلی</a>
+[اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md)
 
-<a href="Process-design%2FProcess-design.md" target="_blank">طراحی فرآیند- چرخه کاری</a>
+[طراحی فرآیند- چرخه کاری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Process-design.md)
+
+
+
+
 
