@@ -8,10 +8,11 @@
 
 > نکته: برای دریافت گزارش چارت سازمانی، باید مجوز "مدیریت شعب و دفاتر" داشته باشید.    
 
-[تقویم عملیاتی کاربران](User-Operating-Calendar%2FUser-Operating-Calendar.md)
+[تقویم عملیاتی کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/User-Operating-Calendar/User-Operating-Calendar.md)
 
-[کارتابل وظایف کاربران](Cardboard-user-tasks%2FCardboard-user-tasks.md)
+[کارتابل وظایف کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Cardboard-user-tasks/Cardboard-user-tasks.md)
 
-[کارتابل فرآیندهای کاربران](Cardboard-user-processes%2FCardboard-user-processes.md)
+[کارتابل فرآیندهای کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Cardboard-user-processes/Cardboard-user-processes.md)
 
-[چارت سازمانی](Chart%2FChart.md)
+[چارت سازمانی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Chart/Chart.md)
+
