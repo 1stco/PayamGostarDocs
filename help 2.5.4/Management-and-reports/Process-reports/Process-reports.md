@@ -4,14 +4,14 @@
 
 ![](TitleGozareshFarayandi.png)
 
-[نمایش کانبان](Kanban-Show%2FKanban-Show.md)
+[نمایش کانبان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Kanban-Show/Kanban-Show.md)
 
-[نمایش چارت](Chart-Show%2FChart-Show.md)
+[نمایش چارت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Chart-Show/Chart-Show.md)
 
-[نمایش دیاگرام](View-diagram%2FView-diagram.md)
+[نمایش دیاگرام](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/View-diagram/View-diagram.md)
 
-[به تفکیک فعالیتها](Activities-separately%2FActivities-separately.md)
+[به تفکیک فعالیتها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Activities-separately/Activities-separately.md)
 
-[بر اساس کاربر](Based-%20user%2FBased-%20user.md)
+[بر اساس کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Based-%20user/Based-%20user.md)
 
-[گزارش شرح شغل](Job-Description-Report%2FJob-Description-Report.md)
+ [گزارش شرح شغل](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Job-Description-Report/Job-Description-Report.md)
