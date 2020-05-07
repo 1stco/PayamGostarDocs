@@ -4,12 +4,12 @@
 
 ![](PreSalesReport.png)
 
-[مشتریان](Customers%2FCustomers.md)
+[مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Customers.md)
 
-[جزئیات عملکرد](Performance-details%2FPerformance-details.md)
+[جزئیات عملکرد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)
 
-[مجموع عملکرد](Total-performance%2FPerformance-details.md)
+[مجموع عملکرد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Total-performance/total-performance.md)
 
-[محاسبه پورسانت](Payroll-calculation%2FPayroll-calculation.md)
+[محاسبه پورسانت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Payroll-calculation/Payroll-calculation.md)
 
-[گزارشات افتراق](Differentiation-reports%2FDifferentiation-reports.md)
+[گزارشات فتراق](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Differentiation-reports/Differentiation-reports.md)
