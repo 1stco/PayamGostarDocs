@@ -1,28 +1,28 @@
 ﻿## اطلاعات پایه
 
-<a href="Product%20management%2FProduct-management.md" target="_blank">مدیریت محصولات</a>
+[مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)
 
-<a href="branches-department%2Fbranches-department.md" target="_blank">مدیریت شعب و دفاتر</a>
+[مدیریت شعب و دفاتر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)
 
-<a href="Room-management%2FRoom-management.md" target="_blank">مدیریت اتاق ها</a>
+[مدیریت اتاق ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Room-management/Room-management.md)
 
-<a href="Telephone-systems%2FTelephone-systems.md" target="_blank">سیستم های تلفنی</a>
+[سیستم های تلفنی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/Telephone-systems.md)
 
-<a href="Model-message-management%2FModel-message-management.md" target="_blank">مدیریت قالب پیام ها</a>
+[مدیریت قالب پیام ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Model-message-management/Model-message-management.md)
 
-<a href="Holiday-management-and-occasions%2FHoliday-management-and-occasions.md" target="_blank">مدیریت اعیاد و مناسبت ها</a>
+[مدیریت اعیاد و مناسبت ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)
 
-<a href="Management-of-countries%2C%20provinces-and-cities%2FManagement-of-countries%2C%20provinces-and-cities.md" target="_blank">مدیریت شهرها</a>
+[مدیریت شهرها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)
 
-<a href="Address-management%2FAddress-management.md" target="_blank">مدیریت نشانی ها</a>
+[مدیریت نشانی ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Address-management/Address-management.md)
 
-<a href="Management-of-system-items%2FManagement-of-system-items.md" target="_blank">مدیریت آیتم های سیستم</a>
+[مدیریت آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md)
 
-<a href="Manage-system-messages%2FManage-system-messages.md" target="_blank">مدیریت پیام های سیستم</a>
+[مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md)
 
-<a href="Financial-account-management%2FFinancial-account-management.md" target="_blank">مدیریت حساب های مالی</a>
+[مدیریت حساب های مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Financial-account-management/Financial-account-management.md)
 
-<a href="Calendar-management%2FCalendar-management.md" target="_blank">مدیریت تقویم ها</a>
+[مدیریت تقویم ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)
 
-<a href="Language-management%2FLanguage-management.md" target="_blank">مدیریت زبان ها</a>
+[مدیریت زبان ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Language-management/Language-management.md)
 
