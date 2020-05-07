@@ -9,58 +9,59 @@
 
 با کلیک بر روی دکمه ایجاد فعالیت، می توانید یک فعالیت جدید به فرآیند خود اضافه کنید. لیست انواع فعالیت ها به شرح زیر می باشند:
 
-[1.  تصمیم](Decision%2FDecision.md)
 
-[2.  ارسال پیام کوتاه](Send%20SMS%2C%20email%2Fsend-sms%2Fsend-sms.md)
+[1.  تصمیم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Decision/Decision.md)
 
-[3.  ارسال ایمیل](Send%20SMS%2C%20email%2Fsend-email%2Fsend-email.md)
+[2.  ارسال پیام کوتاه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-sms/send-sms.md)
 
-[4.  ارسال فکس](Send%20SMS%2C%20email%2Fsend-fax%2Fsend-fax.md)
+[3.  ارسال ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-email/send-email.md)
 
-[5.  چاپ](Send%20SMS%2C%20email%2Fprint-send%2Fprint-send.md)
+[4.  ارسال فکس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-email/send-email.md)
 
-[6. مالی - تایید آیتم](taid-rad-item%2Ftaid-rad-item.md)
+[5.  چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/print-send/print-send.md)
 
-[7. تخصیص مقدار](Allocate-the-amount%2FAllocate-the-amount.md)
+[6. مالی - تایید آیتم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/taid-rad-item/taid-rad-item.md)
 
-[8. تعیین مرحله](Determining-the-stage%2FDetermining-the-stage.md)
+[7. تخصیص مقدار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Allocate-the-amount/Allocate-the-amount.md)
 
-[9. مالی - رد آیتم](taid-rad-item%2Ftaid-rad-item.md)
+[8. تعیین مرحله](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Determining-the-stage/Determining-the-stage.md)
 
-[10. فراخوانی سرویس](Call-service%2FCall-service.md)
+[9. مالی - رد آیتم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/taid-rad-item/taid-rad-item.md)
 
-[11. تایید تراکنش انبار](taid-rad-anbar%2Ftaid-rad-anbar.md)
+[10. فراخوانی سرویس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-service/Call-service.md)
 
-[12. رد تراکنش انبار](taid-rad-anbar%2Ftaid-rad-anbar.md)
+[11. تایید تراکنش انبار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-service/Call-service.md)
 
-[13. انتظار](Waiting%2FWaiting.md)
+[12. رد تراکنش انبار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/taid-rad-anbar/taid-rad-anbar.md)
 
-[14. ثبت پیگیری](Keep-trackof-tracking%2FKeep-trackof-tracking.md)
+[13. انتظار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Waiting/Waiting.md)
 
-[15. ثبت وظیفه](Job-registration%2FJob-registration.md)
+[14. ثبت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Keep-trackof-tracking/Keep-trackof-tracking.md)
 
-[16. ایجاد کاربر](Create-a-user%2FCreate-a-user.md)
+[15. ثبت وظیفه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Job-registration/Job-registration.md)
 
-[17. عضویت](Membership%2FMembership.md)
+[16. ایجاد کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Create-a-user/Create-a-user.md)
 
-[18. شرط](Membership%2FMembership.md)
+[17. عضویت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Membership/Membership.md)
 
-[19. شروع فرآیند](Start-the-process%2FStart-the-process.md)
+[18. شرط](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Condition/Condition.md)
 
-[20. افزودن به لیست سیاه](Ad-%20to-blacklist%2FAd-%20to-blacklist.md)
+[19. شروع فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Start-the-process/Start-the-process.md)
 
-[21. به روز رسانی فیلدهای محاسباتی](Computer-field-update%2FComputer-field-update.md)
+[20. افزودن به لیست سیاه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Ad-%20to-blacklist/Ad-%20to-blacklist.md)
 
-[22. ثبت فرصت](Register-Opportunity%2FRegister-Opportunity.md)
+[21. به روز رسانی فیلدهای محاسباتی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Computer-field-update/Computer-field-update.md)
 
-[23. تبدیل نوع](Convert-type%2FConvert-type.md)
+[22. ثبت فرصت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Register-Opportunity/Register-Opportunity.md)
 
-[24. ایجاد قرار ملاقات](Make-appointments%2FMake-appointments.md)
+[23. تبدیل نوع](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Convert-type/Convert-type.md)
 
-[25. تخصیص شماره به مشتری](Allocation-of-customer-number%2FAllocation-of-customer-number.md)
+[24. ایجاد قرار ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Make-appointments/Make-appointments.md)
 
-[26. ایجاد لینک پرداخت](ijad-link-pardakht%2Fijad-link-pardakht.md)
+[25. تخصیص شماره به مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Allocation-of-customer-number/Allocation-of-customer-number.md)
 
-[27. چند شرطی](Conditional-decision%2FConditional-decision.md) 
+[26. ایجاد لینک پرداخت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/ijad-link-pardakht/ijad-link-pardakht.md)
 
-[28. فراخوانی رویداد](Call-the-event%2FCall-the-event.md)
+[27. چند شرطی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Conditional-decision/Conditional-decision.md)
+
+[28. فراخوانی رویدا](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-the-event/Call-the-event.md)د   
