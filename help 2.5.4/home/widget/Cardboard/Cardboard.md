@@ -14,9 +14,9 @@
 
 3. [آیتم های مالی (پیش فاکتور، فاکتور و ... ).](Approved-items%2FApproved-items.md)
 
-[4.قرار ملاقات](Meeting-card%2FMeeting-card.md)
+4. [قرار ملاقات](Meeting-card%2FMeeting-card.md)
 
-[5.تراکنش های انبار](Warehouse-transactions-widget%2FWarehouse-transactions-widget.md)
+5. [تراکنش های انبار](Warehouse-transactions-widget%2FWarehouse-transactions-widget.md)
 
  
 
