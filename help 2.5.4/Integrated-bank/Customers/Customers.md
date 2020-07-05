@@ -16,5 +16,5 @@
 
 4. مدیریت گزارش ها : به بخش[  گزارش ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.  
 
-![](image002.jpg)
+
 
