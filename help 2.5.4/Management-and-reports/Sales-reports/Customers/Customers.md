@@ -8,15 +8,6 @@
 
 ![](PreCustomers.png)
 
-[مانده حساب مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md)
-
-[مشتریان غیر فعال](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Inactive-customers/Inactive-customers.md)
-
-[گزارش کلی امتیازات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/General-score-report/General-score-report.md)
-
-[گزارش تراکنش های امتیازات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Score-transaction-report/Score-transaction-report.md)
-
-[گزارش امتیازات مصرف شد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Report-the-points-consumed/Report-the-points-consumed.md)ه
 
  
 
