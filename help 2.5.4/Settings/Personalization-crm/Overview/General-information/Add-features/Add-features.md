@@ -280,7 +280,7 @@
 
 ![](ParametersAndPersonalInformationManagement37.png)
 
-نمونه فیلد لیست محصول :
+نمونه فیلد لیست محصول : 
 
 
 ![](ParametersAndPersonalInformationManagement39.png)
