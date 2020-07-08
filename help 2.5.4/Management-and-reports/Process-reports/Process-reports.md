@@ -2,6 +2,7 @@
 
 در بخش مدیریت و گزارشات با استفاده از گزارشات فرآیندی میتوانید نحوه عملکرد فرآیندهای پیاده سازی شده روی آیتم های مختلف نرم افزار را مورد بررسی قرار دهید و گلوگاه های فرایندهای خود را بشناسید. یعنی بدانید که فرآیندهای در جریان، بیشتر در کدام کارتابل ها و تحت مالکیت کدام کاربران هستند
 
+
 ![](TitleGozareshFarayandi.png)
 
 [نمایش کانبان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Kanban-Show/Kanban-Show.md)
