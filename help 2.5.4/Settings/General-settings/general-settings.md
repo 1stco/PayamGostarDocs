@@ -16,6 +16,7 @@
 
 [پرینتر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/printer/printer.md)
 
+
 [بروزرسانی خودکار خطوط](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Automatic-update-of-lines/Automatic-update-of-lines.md)
 
 [خطوط پیش فرض](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Default-lines/Default-lines.md)
