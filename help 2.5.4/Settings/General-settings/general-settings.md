@@ -2,6 +2,8 @@
 
 در این قسمت می توانید تنظیمات کلی مرتبط با نرم افزار را انجام دهید.
 
+> نکته :  برای دسترسی به این بخش کاربر نیازمند مجوز مدیریت تنظیمات می باشد.
+
 سر فصلهای این تنظیمات به ترتیب زیر است.
 
 [سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/system/system.md)
