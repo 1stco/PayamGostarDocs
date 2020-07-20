@@ -4,8 +4,8 @@
 
 [گزارش کلی امتیازات](General-score-report%2FGeneral-score-report.md) 
 
-[گزارش تراکنش‌های امتیازات](Report-the-points-consumed%2FReport-the-points-consumed.md)
+[گزارش تراکنش‌های امتیازات](Score-transaction-report%2FScore-transaction-report.md)
 
-[گزارش امتیازات مصرف شده](Score-transaction-report%2FScore-transaction-report.md)
+[گزارش امتیازات مصرف شده](Report-the-points-consumed%2FReport-the-points-consumed.md)
 
 
