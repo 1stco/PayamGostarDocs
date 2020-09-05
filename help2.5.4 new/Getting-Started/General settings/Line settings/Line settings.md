@@ -6,5 +6,5 @@
 
 - **[فکس](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/fax/setting-fax.md)**
 
-- **چاپ**
+- **[چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/print/setting-print.md)**
 
