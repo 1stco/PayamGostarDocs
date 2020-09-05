@@ -3,8 +3,9 @@
 
 در **مدیریت** **شعب، دپارتمان و سمت و مدیریت حکم‎‌های پرسنلی**· به امکانات زیر دسترسی دارید: 
 
--    طراحی چارت سازمانی با **[تعریف شعب، دپارتمان و سمت](%D8%AA%D8%B9%D8%B1%DB%8C%D9%81%20%DA%86%D8%A7%D8%B1%D8%AA%20%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86%DB%8C.md)**
+-    طراحی چارت سازمانی با **[تعریف شعب، دپارتمان و سمت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/manage%20Branches%2C%20departments%20and%20positions/chart.md)**
 
--    **[تعیین سطح دسترسی](file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp2.5.4%20new%5CGetting-Started%5C%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%DA%AF%D8%B1%D9%88%D9%87%E2%80%8C%D8%A7%20%D9%88%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86%5C%D8%AA%D8%B9%DB%8C%DB%8C%D9%86%20%D8%B3%D8%B7%D8%AD%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C.md)** براساس چارت سازمانی  
+-    **[تعیین سطح دسترسی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/Manage%20groups%20and%20users/Determine%20the%20level%20of%20access.md)** براساس چارت سازمانی  
 
--    **[تخصیص حکم‌های پرسنلی](%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5%20%D8%AD%DA%A9%D9%85%20%D8%A8%D9%87%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86.md)** باتوجه به نقش کاربران در سازمان
+-    **[تخصیص حکم‌های پرسنلی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/manage%20Branches%2C%20departments%20and%20positions/Personnel%20ruling.md)** باتوجه به نقش کاربران در سازمان
+
