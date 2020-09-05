@@ -1,6 +1,6 @@
 امکان تنظیم ابزارهای زیر به منظور اجرای برنامه های تبلیغاتی و ارتباط با مشتریان در نرم افزار وجود دارد:
 
-- **پبام‌کوتاه**
+- **[پبام‌کوتاه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/sms/Supported%20lines.md)**
 
 - **[ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/email/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%D8%A7%DB%8C%D9%85%DB%8C%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C%20smtp.md)**
 
