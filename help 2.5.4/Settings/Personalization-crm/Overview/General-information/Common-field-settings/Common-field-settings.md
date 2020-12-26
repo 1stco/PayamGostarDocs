@@ -1,5 +1,7 @@
 ﻿## تنظیمات مشترک فیلدها
 
+> مسیر دسترسی: **تنظیمات** < **شخصی سازی** < **نمای کلی**  < **ویرایش نوع/افزودن زیر نوع**
+
 پیش از بررسی تنظیماتی که به صورت مشترک در همه فیلدها وجود دارند ابتدا نحوه[ افزودن مشخصه  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)را مطالعه کنید.
 
 
