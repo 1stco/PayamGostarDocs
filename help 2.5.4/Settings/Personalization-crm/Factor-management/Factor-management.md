@@ -1,5 +1,7 @@
 ﻿## مدیریت فاکتورها 
 
+> مسیر دسترسی: **تنظیمات** < **شخصی سازی crm** < **مدیریت فاکتورها**
+
 از این قسمت می توانید تنظیمات مرتبط با پیش فاکتورها، فاکتورها و فاکتورهای برگشتی را مشخص نمایید.
 
 لطفا ابتدا[ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md) و آیتم های [حقوقی/مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Legal%20-financial-items/Legal%20-financial-items.md)  را در این خصوص مطالعه فرمایید.
