@@ -1,5 +1,7 @@
 ﻿## پورسانت فرد محور
 
+> مسیر دسترسی: **مدیریت و گزارشات** >**گزارشات فروش** > **محاسبه‌ی پروسانت** > **پورسانت فرد محور**
+
 در [مدیریت گروه و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md) همانطور که در شکل دیده می شود می توان برای هر کدام از کاربران درصد پورسانتی را مشخص کرد. ب
 
 ![](MohasebeyePorsant3.png)
