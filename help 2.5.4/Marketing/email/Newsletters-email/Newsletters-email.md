@@ -10,7 +10,7 @@
 
 <a href="1-avalie-khabarname-email%2F1-avalie-khabarname-email.md" target="_blank">گام1-اطلاعات اولیه خبرنامه</a>
 
-گ<a href="2-tanzimmatn-khabarname-email%2F2-tanzimmatn-khabarname-email.md" target="_blank">ام2- محتوای خبرنامه</a>
+<a href="2-tanzimmatn-khabarname-email%2F2-tanzimmatn-khabarname-email.md" target="_blank">گام2- محتوای خبرنامه</a>
 
 <a href="3-mokhatab-khabarname-email%2F3-mokhatab-khabarname-email.md" target="_blank">گام3-انتخاب مخاطبان</a>
 
