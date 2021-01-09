@@ -1,5 +1,7 @@
 ﻿## شخصی سازی هویت‌ها
 
+مسیر دسترسی: **تنظیمات** > **شخصی سازی crm** >  **نمای کلی** > **ویرایش نوع/افزودن زیرنوع**
+
 از این قسمت می‌توانید تنظیمات مرتبط با هویت‌ها را مشخص نمایید.
 
 لطفا ابتدا [تنظیمات مشترک آیتم‌های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md) را مطالعه کنید.
