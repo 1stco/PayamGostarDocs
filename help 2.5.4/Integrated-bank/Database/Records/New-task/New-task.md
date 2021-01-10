@@ -1,5 +1,7 @@
 ﻿## وظیفه جدید
 
+> مسیر دسترسی:  **صفحه‌ی هویت** >**تب سوابق** > **وظیفه جدید** 
+
 با استفاده از این آیتم می توانید یک وظیفه (Task) برای خود یا کاربر دیگری در نرم افزار ایجاد کنید. این وظیفه ابزار بسیار توانمندی است که به کاربر اجازه می دهد در خصوص هر موضوع مانند پیگیری یک مورد خاص، یا یک درخواست از مدیر یا نیاز به یک راهنمایی در خصوص یک مورد، یک وظیفه را برای کاربر یا کاربران دیگر نرم افزار ارسال کند و پاسخ مناسب به صورت مکتوب و مستند دریافت نماید. وظیفه ها به مدیریت شدن کارها و شفاف سازی سیستم کاری کمک شایانی می کنند. هر کاربری که وظیفه به او ارجاع داده شود می تواند آن را در لیست پیگیری ها و وظایف، [ویجت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/home/widget/Follow-up-today/Follow-up-today.md) هاو همچنین قسمت[ وظیفه،پیگیری ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/home/widget/Cardboard/Task-tracking/Task-tracking.md)در کارتابل مشاهده کند.
 
 > نکته مهم: لطفا ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
