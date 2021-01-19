@@ -28,6 +28,6 @@
 
 6. افزودن عملیات جدید: با انتخاب یکی از کارتابل ها و کلیک روی این دکمه می توانید یک[ اقدام](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Action/Action.md) جدید برای کارتابل مربوطه ایجاد کنید.
 
-7. ترتیب گذاری کارتابل ها و انتظارها: به [ترتیب گذاری کارتابل ها و انتظارها  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/tartibgozari-cartable/tartibgozari-cartable.md)مراجعه کنید.
-
+7. ترتیب گذاری کارتابل ها و انتظارها:  در این قسمت می‌توانید ترتیب گذاری مراحل فرآیند(کارتابل‌ها و انتظارها) را برای نمایش در گزارشات کانبان تعیین کنید.
+این تنظیمات ارتباطی با چگونگی گردش کار ندارد، زیرا چگونگی گردش کار فرآیند با استفاده از اقدام ها و تنظیمات فعالیت ها مشخص می گردد. 
 
