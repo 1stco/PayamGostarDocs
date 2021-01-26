@@ -1,5 +1,7 @@
 ## انبارها
 
+> مسیر دسترسی:  **خرید، فروش و انبار** >**انبارها** 
+
 در صورت داشتن ماژول انبار داری ، در این قسمت مدیریت حواله ها و رسید های انبار های مختلف را می توان انجام داد.
 
 برای استفاده از انبارداری باید ابتدا محصولات در[ قسمت مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)تعریف شده باشند و محصولات هر انبار در قسمت[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)به عنوان محصول مجاز تعیین گردند.
