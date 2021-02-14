@@ -19,6 +19,8 @@
 
 برای اطلاعات بیشتر در خصوص نحوه تنظیم پیام به [اطلاعات مشترک ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md) و برای اطلاع از چگونگی عملکرد پارامترهای هوشمند به متن هوشمند مراجعه کنید.
 
+> لازم به ذکر است ارسال پیام‌ها از خطوط انتخاب شده در بخش [خطوط پیش فرض](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Default-lines/Default-lines.md) ارسال خواهد شد .
+
 
 
 ![](SystemMessagesManagement3.jfif)
