@@ -1,8 +1,6 @@
 ## اپراتورهای قابل پشتیبانی پیام‌کوتاه
 
 
-- ​    [رایان مارکتینگ ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/sms/rayan.md):  اپراتور ارائه کننده **خطوط ثابت** 
-
 -    [مگفا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/sms/magfa.md) : اپراتور ارائه کننده خطوط اینترنتی با سرشماره 3000 
 
 -  [url](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4%20new/Getting-Started/General%20settings/Line%20settings/sms/ur.md) : ارسال پیامک از سایر اپراتورها از طریق url 
