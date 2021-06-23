@@ -14,5 +14,5 @@
 
 2) درصد موفقیت = حاصل نسبت تعداد پیام های رسیده (ستون 5) به مخاطبان هدف انتخاب شده (ستون 3) نشان دهنده موفقیت ارسال پیام و تحویل به مخاطبان مورد نظر می باشد.
 
-![darsad asar](https://user-images.githubusercontent.com/85984198/123056357-1582d280-d41c-11eb-891e-6491f4440501.png)
+![darsad movafagh](https://user-images.githubusercontent.com/85984198/123057697-54fdee80-d41d-11eb-867e-d89e464c4cb9.png)
 
