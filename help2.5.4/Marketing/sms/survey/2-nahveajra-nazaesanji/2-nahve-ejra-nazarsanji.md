@@ -12,7 +12,7 @@
 
 با کلیک بر روی گام 3 وارد مرحله بعدی خواهیم شدیم.
 
-![]( advertising-nazarsanji-31.png) 
+![](advertising-nazarsanji-31.png) 
 
 
 
