@@ -1,6 +1,6 @@
 ﻿## **تنظیم سپتا پرینت**
 
-سپس از طریق برنامه Septa Print Server Configuration برای تنظیم نوع چاپ اقدام کنید.
+از طریق برنامه Septa Print Server Configuration برای تنظیم نوع چاپ اقدام کنید.
 
 ![](printer3.jpg)
 
