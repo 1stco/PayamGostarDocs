@@ -12,8 +12,7 @@
 
 با کلیک بر روی گام 3 وارد مرحله بعدی خواهیم شدیم.
 
-![](advertising-sendingqustionary-secondstep.png)
-
+![](advertisingNAZARSANJI.png)
 
 
 
