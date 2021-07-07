@@ -8,7 +8,7 @@
 
 <div dir="ltr" style="text-align: center">
   
-![darsad poshesh](https://user-images.githubusercontent.com/85984198/123056294-013ed580-d41c-11eb-981b-0ed599a25445.png)
+![](darsadPoshesh.png)
 
   </div>
 
