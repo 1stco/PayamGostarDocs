@@ -5,7 +5,7 @@
 
 برای مشاهده راهنمای مرتبط با کاربر جدید،[ ساخت کاربر جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Manage-groups-and-users/users/Build-a-new-user/Build-a-new-user.md)را مطالعه نمایید. 
 
-برای مشاهده راهنمای باشگاه مشتریان [اینجا ](file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5CSupplementary-modules%5Ccustomer-club%5Ccustomer-club.md)کلیک کنید.
+برای مشاهده راهنمای باشگاه مشتریان [اینجا ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)کلیک کنید.
 
 ![](Customersclubmanagement1.png)
 
