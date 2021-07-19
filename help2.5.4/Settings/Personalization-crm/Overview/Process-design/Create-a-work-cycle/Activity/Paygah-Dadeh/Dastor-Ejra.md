@@ -16,7 +16,6 @@
 ![](exp2.jpg)
 
 
-
 برای اطلاعات بیشتر به قسمت دستورات [Experssion](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom%20Expression.md)  مراجعه کنید.
 
 نکته: Custom Expression در حال حاضر فقط بر روی آیتم‌هایی از نوع فرم، هویت، وظیفه، درخواست پشتیبانی و انواع فاکتور، پیش فاکتور و فاکتورهای برگشت از خرید و فروش قابل استفاده می باشد. لذا به عنوان مثال، در صورتیکه می خواهید از این فعالیت در آیتم "تماس تلفنی"، برای مقداردهی فیلدهای همین موجودیت استفاده کنید، صرفا باید از دستورات SQL استفاده کنید.
