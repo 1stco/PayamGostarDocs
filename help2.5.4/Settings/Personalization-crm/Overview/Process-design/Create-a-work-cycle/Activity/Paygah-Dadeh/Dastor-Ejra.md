@@ -17,13 +17,13 @@
 
 
 
-برای اطلاعات به قسمت دستورات [Experssion](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom%20Expression.md)  مراجعه کنید.
+برای اطلاعات بیشتر به قسمت دستورات [Experssion](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom%20Expression.md)  مراجعه کنید.
 
 نکته: Custom Expression در حال حاضر فقط بر روی آیتم‌هایی از نوع فرم، هویت، وظیفه، درخواست پشتیبانی و انواع فاکتور، پیش فاکتور و فاکتورهای برگشت از خرید و فروش قابل استفاده می باشد. لذا به عنوان مثال، در صورتیکه می خواهید از این فعالیت در آیتم "تماس تلفنی"، برای مقداردهی فیلدهای همین موجودیت استفاده کنید، صرفا باید از دستورات SQL استفاده کنید.
 
 نحوه نوشتن Expression در این فعالیت:
 
-Expression باید به صورت select ; (Expression)@ نوشته شود.
+Expression باید به صورت select  @(Expression) ; نوشته شود.
 
 با فعال کردن چک‌باکس "خروجی دارد" و انتخاب فیلد موردنظر در قسمت پارامتر خروجی می‌توانید اطلاعات مدنظر را از بانک اطلاعاتی دیگر یا بانک اطلاعاتی پیام‌گستر دریافت کرده و در این فیلد مشاهده کنید.
 لازم به ذکر است در صورت عدم فعال بودن چک باکس "خروجی دارد"، فیلدی از آیتم جاری(تحت فرآیند) مقداردهی نمی شود و اطلاعات به آیتم دیگر در پیام‌گستر یا به بانک اطلاعاتی موردنظر مطابق کوئری تعریف شده، منتقل می‌شود. 
