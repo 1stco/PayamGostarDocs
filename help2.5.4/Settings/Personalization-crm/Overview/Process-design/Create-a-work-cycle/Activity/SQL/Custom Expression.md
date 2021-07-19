@@ -1,5 +1,5 @@
 
-##   Expression نحوه نوشتن دستورات 
+##    نحوه نوشتن دستورات  Expression 
 
 در حال حاضر، در فعالیت‌ تخصیص مقدار، چندشرطی و اجرای دستورات پایگاه داده می توان از  Custom Expression استفاده نمود که ساختار کلی آن با زبان C#  در کتابخانه linq مشابهت دارد.
 
@@ -118,44 +118,46 @@ SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).Tak
 
 ; (this.Children.Select(Ticket.EmailAddress))@
 
-**مثال 6:**
+### مثال 6:
 
 ; (this.Parent.Select(Opportunity.RealizedValue))@
 
 با این دستور فیلد مبلغ محقق شده فرصت که آیتم جاری (آیتم تحت فرآیند) در سابقه آن ثبت شده است، برگردانده می‌شود.
 
-**مثال 7:** 
+### مثال 7: 
 
 ; (this.Where(Children.Form.Subject =="فرم دوم" ).Select(Children.Form.polformat))@
 
 با این دستور مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد برگردانده می¬شود، با این شرط که عنوان فرم "فرم دوم" باشد. 
 
 
-**مثال 8:**
+### مثال 8:
 
 ; (this.Where(Children.Form.number == 99).Select(Children.Form.polformat))@
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه آیتم جاری وجود دارد مقداردهی می‌شود، با شرط این که در آن فرم فیلدی با کلید number  دارای مقدار 99 باشد.
 
-**مثال 9:**
+### مثال 9:
 
 ; (this.Where(Children.Form.number == 670 || Children.Form.poljoin == 400).Select(Children.Form.polformat))@
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سوابقه‌ی آیتم جاری وجود دارد مقدار دهی می‌شود، با این شرط که در آن فرم فیلدی با کلید number دارای مقدار 670 باشد یا فیلدی با کلید poljoin دارای مقدار 400 باشد. 
 
-**مثال 10:**
+### مثال 10:
 
-; (this.Form.Where(Children.number == 90 && (Children.poljoin == 30 || Children.numfirst == 18)).Select(Children.Form.polformat));@
+; (this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))@
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد مقداردهی می‌شود، با این شرط که در آن فرم فیلدی با کلید npfali دارای مقدار 90  و فیلدی با کلید poljoin دارای مقدار 30 باشد یا فیلدی با کلید numfirst دارای مقدار 18 باشد. 
 
-**مثال 11:** 
+### مثال 11: 
+
 
 ; (this.Where(Children.Form.ModifyDate >= Convert.ToDateTime("2020-08-31") && Children.Form.ModifyDate <= Convert.ToDateTime("2020-09-01")).Select(Children.Form.polformat))@
 
+
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد مقدار دهی می‌شود با این شرط که تاریخ ویرایش این سابقه بزرگ تر مساوی "2020-08-31" یا کوچیک تر مساوی "2020-09-01" باشد.
 
-**مثال 12:**
+### مثال 12:
 
 ; (this.Where(Children.Type.Code == "FR123").Select(Children.Form.polformat))@
 
@@ -163,13 +165,13 @@ SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).Tak
 
 **توجه:**: در صورت نیاز به نوشتن اکسپرشن، کلید فیلدها و موجودیت¬ها در نرم افزار می بایست یکتا باشند. 
 
-**مثال 13:**
+### مثال 13:
 
 ; (this.Where(Children.Invoice.BillableObjectTypeindex == 8).Select(Children.Invoice.FinalValue))@
 
 با این دستور فیلد مبلغ نهایی فاکتور برگشت از فروش که در سابقه آیتم جاری وجود دارد، برگردانده می شود.
 
-**مثال 14:**
+### مثال 14:
 
 ; (this.Where(Children.Invoice.BillableObjectTypeindex == 7).Select(Children.Invoice.FinalValue))@
 
