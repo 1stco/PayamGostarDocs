@@ -1,4 +1,4 @@
-test docs:
+test docs::
 
 1. a
 2. b
