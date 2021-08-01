@@ -6,7 +6,7 @@
 
 ![](hoghooghii1.png)
 
-پس از انتخاب شرکت، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق صفحه شخصی سازی هویت انجام دهید. 
+پس از انتخاب شرکت، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق [شخصی سازی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) هویت انجام دهید. 
 
 ![](hoghoghi3.png)
   
@@ -16,7 +16,7 @@
 ![](hoghoghi5.png)
 
  
-1. کلاس مشتری: کلاس مشتری را بر حسب خرید (میزان فاکتورها فروش، قراردادهای مالی) تعیین می کند. برای اطلاعات بیشتر می توانید به [ مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Customer-classification-management/Customer-classification-management.md) رجوع کنید.
+1. کلاس مشتری: کلاس مشتری را بر حسب خرید (میزان فاکتورها فروش، قراردادهای مالی) تعیین می کند. برای اطلاعات بیشتر می توانید به [ مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Customer-classification-management/Customer-classification-management.md) رجوع کنید.
 
 > نکته: قرار گیری مخاطبان در کلاس های مختلف به صورت خودکار و بر اساس تنظیمات مشخص شده توسط شما در مدیریت کلاس بندی مشتریان انجام می شود و امکان تغییر آن به صورت دستی وجود ندارد.
 
@@ -26,25 +26,23 @@
 
 > نکته: لازم به ذکر است رنگ انتخاب شده برای هویت مورد نظر، علاوه بر اینکه در پنجره تماس نمایان می شود در تمامی فیلدهایی از نوع شرکت/شخص در نرم افزار نیز پس از انتخاب هویت نمود پیدا می کند.
 
-> نکته: برای تغییر رنگ ها و افزودن رنگ جدید می توانید به [مدیریت رنگ ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Color-management/Color-management.md) مراجعه کنید.
+> نکته: برای تغییر رنگ ها و افزودن رنگ جدید می توانید به [مدیریت رنگ ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Color-management/Color-management.md) مراجعه کنید.
 4.نام هویت حقوقی: نام شرکت را وارد نمایید.
-5.نام مدیر: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Personnel%20%20Companies/Personnel-Companies.md)هویت ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می شود.
+5.نام مدیر: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می شود.
 
-6.نام رابط: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Personnel%20%20Companies/Personnel-Companies.md)هویت ها، شخصی را که به عنوان رابط تعیین کرده اید در این قسمت نمایان می شود.
+6.نام رابط: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت ها، شخصی را که به عنوان رابط تعیین کرده اید در این قسمت نمایان می شود.
 7. .نام تجاری: در این قسمت نام برند تجاری، وارد خواهد شد. 
 8.ایمیل: ایمیلی برای شرکت وارد نمایید.
 9.وب‌سایت: وب¬سایت شرکت را وارد کنید.
 10.ایمیل دوم: در صورت نیاز می توانید ایمیل دیگری را برای این شرکت تعریف نمایید.
 11.نحوه آشنایی: می توانید نحوه جذب هویت به مجموعه خود را تعیین کنید تا در گزارشات و جستجو های نرم افزار از آن استفاده کنید. با تکمیل فیلد نحوه آشنایی می توانید گزارش دقیق تری از برجسته ترین روش های بازاریابی خود در قسمت گزارشات تحلیلی نرم افزار داشته باشید.
 
-برای ویرایش گزینه های نحوه اشنایی و تمام فیلدهای از نوع لیست می توانید به[ مدیریت آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md) مراجعه کنید.
+برای ویرایش گزینه های نحوه اشنایی و تمام فیلدهای از نوع لیست می توانید به[ مدیریت آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md) مراجعه کنید.
 
 12.مسئول فروش، پشتیبانی و متفرقه: می توانید هر یک از کاربران سیستم را به عنوان یکی از این مسئولان مرتبط با این هویت تعیین کنید و از این مسئولان در گزارشات مختلف استفاده کرده و حتی بر اساس آنها محدودیت مشاهده مخاطبان اعمال کنید و یا در چرخه های کاری کارتابل ها را به آن ها اختصاص دهید.
 
-> نکته: محدودیت مشاهده مخاطبان به کاربران مرتبط را می توانید از منوی[ امنیتی ]
-> 
-> 
->(https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)در تنظیمات کلی  اعمال کنید.
+> نکته: محدودیت مشاهده مخاطبان به کاربران مرتبط را می توانید از منوی [امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/security/security.md)
+در تنظیمات کلی اعمال کنید
 
 نکته: مجوزهای مورد نیاز جهت ویرایش مسئول فروش، پشتیبانی و متفرقه‌ی هویت به شرح ذیل می باشد:
 
@@ -70,7 +68,7 @@
 
 > نکته: یک هویت می تواند همزمان در چند دسته بندی باشد.
 
-17.مشخصات اضافه: در قسمت مشخصات اضافه، پارامترهایی که شما با توجه به نیاز کسب و کار خود در ارتباط با مشتریان در قسمت شخصی سازی نرم افزار، از بخش [افزودن مشخصه ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)اضافه کرده اید، نمایش داده خواهند شد.
+17.مشخصات اضافه: در قسمت مشخصات اضافه، پارامترهایی که شما با توجه به نیاز کسب و کار خود در ارتباط با مشتریان در قسمت شخصی سازی نرم افزار، از بخش [افزودن مشخصه ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)اضافه کرده اید، نمایش داده خواهند شد.
 18.از این قسمت می توانید راه های ارتباطی با هویت ( اطلاعات تلفن، تلفن همراه، فکس و تلفکس ) را اضافه کنید.
 19.پیش فرض: می توانید یک شماره را برای هر نوع از راه های ارتباطی(تلفن، موبایل و فکس) به عنوان پیشفرض تعیین کنید. در صورتی که بخواهید برای این هویت یک پیام کوتاه یا فکس از طریق نرم افزار ارسال کنید، این پیام به شماره پیشفرض تعیین شده در این قسمت ارسال خواهد شد. همچنین در صورت قرار دادن پارامتر هوشمند تلفن، موبابل یا فکس در هریک از قالب های چاپی آیتم ها، مقدار مرتبط با شماره پیشفرض درج خواهد شد.
 
@@ -79,7 +77,7 @@
 20. با استفاده از این گزینه می توانید اطلاعاتی که در قسمت ۱ وارد کرده اید را به اطلاعات ارتباطی هویت اضافه کنید و یک ردیف اطلاعاتی ارتباطی جدید بازکنید.
 21.آدرس: می توانید  با تکمیل پارامتر های آدرس، اقدام به ثبت آدرس مورد نظر خود کنید.
 
-> نکته: میتوان برای ویرایش لیست کشور، استان و یا شهر به[ مدیریت شهر ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Management-of-countries%2C%20provinces-and-cities/Management-of-countries%2C%20provinces-and-cities.md)مراجعه کنید.
+> نکته: میتوان برای ویرایش لیست کشور، استان و یا شهر به[ مدیریت شهر ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Management-of-countries-provinces-and-cities/Management-of-countries-provinces-and-cities.md)مراجعه کنید.
 22. آدرس جدید: با استفاده از این گزینه می توانید یک آدرس دیگر  (برای مثال آدرس دفتر مرکزی و یا انبار) برای این هویت ایجاد کنید.
 
 23. توضیحات: می توانید توضیحاتی که در خصوص این هویت مورد نیاز است را در این قسمت وارد کنید. (مانند حوزه فعالیت و یا خدماتی که این مخاطب ارائه می دهد.
