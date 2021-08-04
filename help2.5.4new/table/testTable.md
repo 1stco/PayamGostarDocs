@@ -6,7 +6,6 @@ Block Quotes sample:
 
 
 Grid Tables sample:
-<div dir="ltr" style="text-align: center">
 
 +---------+---------+
 | Header  | Header  |
@@ -24,7 +23,7 @@ Grid Tables sample:
 | one     |         |
 | column  |         | 
 
-</div>
+
 
 pipe Tables  sample: 
 
@@ -49,6 +48,9 @@ Indented Code Blocks  sample:
     }
 
 
+**bold test**
+
+
 Inline Code   sample: 
 ```
 its test , sampletext
@@ -57,4 +59,3 @@ its test , sampletext
 highlight text sample :
 
 `its test , sampletext`
-
