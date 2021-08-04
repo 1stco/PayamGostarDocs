@@ -6,6 +6,7 @@ Block Quotes sample:
 
 
 Grid Tables sample:
+<div dir="ltr" style="text-align: center">
 
 +---------+---------+
 | Header  | Header  |
@@ -23,7 +24,7 @@ Grid Tables sample:
 | one     |         |
 | column  |         | 
 
-
+</div>
 
 pipe Tables  sample: 
 
