@@ -11,9 +11,9 @@ Grid Tables sample:
 | Header  | Header  |
 | Column1 | Column2 |
 +=========+=========+
-| 1. ab   | > This is a quote
-| 2. cde  | > For the second column 
-| 3. f    |
+| 1. ab   |  This is a quote
+| 2. cde  |  For the second column 
+| 3. fgh  |  dsadsa 
 +---------+---------+
 | Second row spanning
 | on two columns
@@ -27,13 +27,15 @@ Grid Tables sample:
 
 pipe Tables  sample: 
 
+<div dir="ltr" style="text-align: center">
 
 |size | material     | color       |
 |---- | ------------ | ------------|
-|9    | leather      | brown **fox**  |
+|9    | leather   s   | brown **fox**  |
 |10   | hemp canvas  | natural |
 |11   | glass        | transparent |
 
+</div>
 
 Indented Code Blocks  sample: 
 
