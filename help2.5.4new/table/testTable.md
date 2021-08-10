@@ -38,12 +38,17 @@ pipe Tables  sample:
 </div>
 
 Indented Code Blocks  sample: 
+<div dir="rtl" style="text-align: right">
+
+
+
 
     صسصث
     ثصثصثصثصثص
     ثصثصثصصثصصثصثصثصث
     ثصصصثثصصثثصصثصثصثصثص
     
+</div>
 
 
 **bold test**
@@ -56,12 +61,13 @@ Indented Code Blocks  sample:
 
 Inline Code   sample: 
 ```
-its test , sampletext
+اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند
+
 
 ```
 highlight text sample :
 
-`its test , sampletext`
+`اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند`
 
 order list test
 1. dsa
