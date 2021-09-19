@@ -71,7 +71,7 @@ highlight text sample :
 
 [`Hyper`](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/connections/email-conect/email-connect.md)
 
-[hyper sample](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4new/table/testTable.md)
+[category test](http://192.168.1.65/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%DB%8C?selectedId=36e34d77-f9e3-4a6a-a0c4-08d8cc1b6de4&menuItemType=2)
 
 <a href="https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4new/table/testTable.md" target="_blank">hyper html</a>
 
