@@ -30,9 +30,7 @@
 
 4.نام هویت حقوقی: نام شرکت را وارد نمایید.
 
-5.نام مدیر: در[  تب پرسنل
-
-](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می شود.
+5.نام مدیر: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می شود.
 
 6.نام رابط: در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت ها، شخصی را که به عنوان رابط تعیین کرده اید در این قسمت نمایان می شود.
 
