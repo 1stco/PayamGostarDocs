@@ -8,7 +8,9 @@
 
 لطفا ابتدا<a href="C%3A%2FUsers%2FH.abasi%2FDesktop%2Fhelp%2Fmd%20help%2F%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%2Fmoshtarak-abzar%2Fmoshtarak-abzar.md" target="_blank">   اطلاعات مشترک ابزارها</a> را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید .
 
-گام 1- [اطلاعات مسابقه]( http://septadocs.1st.co.com/payamgostar/documents/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%BE%DB%8C%D8%A7%D9%85-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87?selectedId=ec470a4c-ca56-423f-9469-09db6a3fb821&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868(
+
+ گام 1- [اطلاعات مسابقه](http://septadocs.1st.co.com/payamgostar/documents/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%BE%DB%8C%D8%A7%D9%85-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87?selectedId=ec470a4c-ca56-423f-9469-09db6a3fb821&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+
 
 گام 2-  [نحوه اجرا]( http://septadocs.1st.co.com/payamgostar/documents/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%AC%D8%B1%D8%A7-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87?selectedId=861e22ea-b4af-4449-a37f-abee4f749f48&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
 
