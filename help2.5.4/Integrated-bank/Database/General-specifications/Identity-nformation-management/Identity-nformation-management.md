@@ -43,7 +43,7 @@
 > نکته: محدودیت مشاهده مخاطبان به کاربران مرتبط را می توانید از منوی[ امنیتی ]
 > 
 > 
->(https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/security/mahdod-moshahede.md)در تنظیمات کلی  اعمال کنید.
+>در [تنظیمات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/security/mahdod-moshahede.md)  اعمال کنید.
 
 نکته: مجوزهای مورد نیاز جهت ویرایش مسئول فروش، پشتیبانی و متفرقه‌ی هویت به شرح ذیل می باشد:
 
