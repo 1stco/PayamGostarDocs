@@ -51,7 +51,7 @@
 
 ![](OpportunitiesList1.png)
 
-> نکته : تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش[ نمایش کانبان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/leveling/leveling.md)مراحل مطالعه کنید.
+> نکته : تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش[ نمایش کانبان ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مراحل مطالعه کنید.
 
 > نکته :  با استفاده از بخش تنظیمات جدول میتوانیم فیلد هایی برای نمایش در لیست و خروجی اکسل انتخاب کنید.
 
