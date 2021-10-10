@@ -134,7 +134,7 @@
 مدیریت محصولات: به منوی[ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)دسترسی پیدا می کند. (می تواند محصولات را وارد کند، بروز کند و یا خروجی بگیرد.)
 
 
-مشاهده لیست معاملات جامع: اجازه دسترسی به [مورد معامله](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Case%20of%20transaction/Case%20of%20transaction.md) و [مورد مذاکره ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Negotiated/negotiates.md)در منوی خرید، فروش و انبار را در اختیار کاربر قرار میدهد.
+مشاهده لیست معاملات جامع: اجازه دسترسی به [مورد معامله](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Buy-warehouse-sales/Transaction/Case-of-transaction/Case-of-transaction.md) و [مورد مذاکره ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Negotiated/negotiates.md)در منوی خرید، فروش و انبار را در اختیار کاربر قرار میدهد.
 
 مشاهده لیست معاملات مشتری: دسترسی به منوی [معاملات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Trades/Trades.md)را در پروفایل مخاطبان و سرنخ ها در اختیار کاربر می گذارد.
 
