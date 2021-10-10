@@ -108,7 +108,7 @@ E. عنوانی به فیلد اختصاص دهید.
 
 23. بازخوانی از قالب: برای برخی از آیتم های (مانند پیش فاکتور یا فاکتور فروش) یک قالب چاپی پیشفرض در نرم افزار پیام گستر طراحی شده است، با استفاده از این دکمه می توان قالب پیشفرض نرم افزار را جایگزین قالب چاپ فعلی کرد.
 
-24. مراحل : برای مطالعه بیشتر به [بخش مرحله بندی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/leveling/leveling.md) مراجعه کنید .
+24. مراحل : برای مطالعه بیشتر به [بخش مرحله بندی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید .
 
 تنظیمات نمایشی فیلد در لیست
 
