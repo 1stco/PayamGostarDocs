@@ -4,7 +4,7 @@
 
 از این قسمت می توانید تنظیمات مرتبط با پیش فاکتورها، فاکتورها و فاکتورهای برگشتی را مشخص نمایید.
 
-لطفا ابتدا[ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system-items/Shared-information-of-system-items.md) و آیتم های [حقوقی/مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md)  را در این خصوص مطالعه فرمایید.
+لطفا ابتدا[ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system-items/Shared-information-of-system-items.md) و آیتم های [حقوقی/مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md)  را در این خصوص مطالعه فرمایید.
 
 
 فروش: پیش فاکتور، فاکتور فروش و فاکتور برگشت از فروش مرتبط با بحث فروش کالا و خدمات هستند.
