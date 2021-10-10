@@ -8,17 +8,17 @@
 
 لطفا ابتدا<a href="C%3A%2FUsers%2FH.abasi%2FDesktop%2Fhelp%2Fmd%20help%2F%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%2Fmoshtarak-abzar%2Fmoshtarak-abzar.md" target="_blank">   اطلاعات مشترک ابزارها</a> را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید .
 
-<a href="1-avalie-mosabeghe%2F1-avalie-mosabeghe.md" target="_blank">گام 1- اطلاعات مسابقه</a>
 
-<a href="2-nahveejra-mosabeghe%2F2-nahveejra-mosabeghe.md" target="_blank">گام 2- نحوه اجرا</a>
+گام 1- [اطلاعات مسابقه]( http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA?selectedId=f4ed2522-d0e7-4334-f614-08d7db063b50&menuItemType=2#)
 
-<a href="3-payamtaid-mosabeghe%2F3-payamtaid-mosabeghe.md" target="_blank">گام 3- تاییدیه</a>
+گام 2-  [نحوه اجرا]( http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA?selectedId=f4ed2522-d0e7-4334-f614-08d7db063b50&menuItemType=2#)
 
-<a href="4-davatname-mosabeghe%2F4-davatname-mosabeghe.md" target="_blank">گام 4- دعوتنامه</a>
+گام 3-  [تاییدیه]( http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA?selectedId=f4ed2522-d0e7-4334-f614-08d7db063b50&menuItemType=2#)
 
-<a href="5-entekhabmokhatab-mosabeghe%2F5-mokhatab-mosabeghe.md" target="_blank">گام 5- مخاطبین دعوتنامه</a> 
+گام 4-  [دعوتنامه]( http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA?selectedId=f4ed2522-d0e7-4334-f614-08d7db063b50&menuItemType=2#)
 
- 
+گام 5-  [مخاطبین دعوتنامه]( http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA?selectedId=f4ed2522-d0e7-4334-f614-08d7db063b50&menuItemType=2#)
+
  ![](advertising-sendingcompetitionsms.png)
  
  
