@@ -7,7 +7,7 @@
 ![](2020-01-08_9-37-49.png)
 
 
-> نکته: لطفا ابتدا <a href="Advanced-filter%2FAdvanced-filter.md" target="_blank">قسمت  فیلترهای پیشر</a>فته را مطالعه کنید.
+> نکته: لطفا ابتدا قسمت  [فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 
 1. نوع: می توانید نوع آیتم دلخواه را برای فیلتر کردن مشخص کنید.
