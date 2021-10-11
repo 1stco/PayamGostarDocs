@@ -4,7 +4,7 @@
 
 از این قسمت می توانید تنظیمات مرتبط با پیش فاکتورها، فاکتورها و فاکتورهای برگشتی را مشخص نمایید.
 
-لطفا ابتدا[ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system-items/Shared-information-of-system-items.md) و آیتم های [حقوقی/مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md)  را در این خصوص مطالعه فرمایید.
+لطفا ابتدا [تنظیمات مشترک آیتم‌های سیستم]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system-items/Shared-information-of-system-items.md) و آیتم‌های حقوقی/مالی را در این خصوص مطالعه فرمایید.
 
 
 فروش: پیش فاکتور، فاکتور فروش و فاکتور برگشت از فروش مرتبط با بحث فروش کالا و خدمات هستند.
@@ -50,7 +50,7 @@
 
 5. کد: مي توانيد کد دلخواه (براي مثال کد ايزو (ISO) سازماني) را در اين قسمت وارد کنيد. اين کد فقط شامل اعداد و حروف مي تواند باشد.
 
-6. مالک: به قسمت<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CPersonalization-crm%5COverview%5CGeneral-information%5CItem-owner%5CItem-owner.md" target="_blank">  مالک آیتم  </a>مراجعه کنيد.
+6. مالک: به قسمت [مالک آیتم]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Item-owner/Item-owner.md) مراجعه کنيد.
 
 7. نوع هویت مرتبط پیش فرض: در این قسمت می توانید نوع هویت پیش فرض برای ایجاد هویت مرتبط با آیتم را که از روش چابک ایجاد میشود را انتخاب کرد..
 
@@ -67,7 +67,7 @@
  
  12. نوع پيش نمايش: مي توان فرمت پيش نمايش مرتبط با اين آيتم را به صورت وورد (قابل ويرايش پس از پيش نمايش گرفتن) يا تصویر یا PDF تنظيم کرد.
 
-13. الگوی شماره گذاری: الگوی فاکتور را از بین الگوهایی که قبلا ساخته شده اند انتخاب کنید یا الگوی جدیدی به آن اختصاص دهید. <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CSettings%5CNumbering-template%5CNumbering-template.md" target="_blank">( نحوه شماره گذاری</a> )
+13. الگوی شماره گذاری: الگوی فاکتور را از بین الگوهایی که قبلا ساخته شده اند انتخاب کنید یا الگوی جدیدی به آن اختصاص دهید.( [نحوه شماره گذاری]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Numbering-template/Numbering-template.md) )
 
 14. نیاز به تایید دارد: در صورتی که در روال کاری شرکت شما،  آیتم مربوطه پس از ثبت شدن توسط کارشناسان باید به تایید شخص دیگری برسد (با ورود به کارتابل مربوطه)،می توانید از این گزینه استفاده کنید. با انتخاب این
 
