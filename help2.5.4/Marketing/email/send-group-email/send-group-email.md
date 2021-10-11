@@ -6,13 +6,16 @@
 
  اما برای اجرای یک برنامه جدید باید بر روی دکمه " ارسال گروهی جدید " در سمت راست و بالای صفحه کلیک کرده و با گذراندن چند گام ساده، برنامه را به راحتی اجرا کرد .
  
- لطفا ابتدا <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5C%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%5Cmoshtarak-abzar%5Cmoshtarak-abzar.md" target="_blank">اطلاعات مشترک ابزارها </a>را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید
- 
- <a href="1-avalie-email%2F1-avalie-email.md" target="_blank">گام 1-اطلاعات ارسال گروهی</a>
+ لطفا ابتدا [اطلاعات مشترک بین ابزارها]( http://septadocs.1st.co.com/payamgostar/documents/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D8%A8%DB%8C%D9%86-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D9%87%D8%A7?selectedId=9481e722-68a9-460a-b2d6-57c228705581&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868) را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید
 
-<a href="2-tanzim-matn-email%2F2-tanzim-matn-email.md" target="_blank">گام2-محتوای پیام</a> 
 
-<a href="3-mokhatab-email%2F3-mokhatab-email.md" target="_blank">گام3-مدیریت مخاطبان</a>
+ گام 1- [اطلاعات اولیه ارسال گروهی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/1-avalie-roydad-email/1-avalie-roydad-email.md)
+
+گام 2-  [تنظیم متن]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/send-group-email/2-tanzim-matn-email/2-tanzim-matn-email.md)
+
+
+گام 3-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/send-group-email/3-mokhatab-email/3-mokhatab-email.md)
+
 
 ![](advertising-sendinggroupmail-home.png)
 
