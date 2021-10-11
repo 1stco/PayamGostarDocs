@@ -11,13 +11,13 @@
  لطفا ابتدا<a href="C%3A%2FUsers%2FH.abasi%2FDesktop%2Fhelp%2Fmd%20help%2F%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%2Fmoshtarak-abzar%2Fmoshtarak-abzar.md" target="_blank"> اطلاعات مشترک ابزارها</a>را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید
 
 
-<a href="1-avalie-roydad-email%2F1-avalie-roydad-email.md" target="_blank">گام1-اطلاعات اولیه رویداد</a>
+ گام 1- [اطلاعات رویداد](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/1-avalie-roydad-email/1-avalie-roydad-email.md)
 
-<a href="2-zamanbandi-roydad-email%2F2-zamanbandi-roydad-email.md" target="_blank">گام2-زمان اجرا</a>
+گام 2-  [زمان اجرا]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/2-zamanbandi-roydad-email/2-zamanbandi-roydad-email.md)
 
-<a href="3-matn-roydad-email%2F3-matn-roydad-email.md" target="_blank">گام3- محتوای پیام</a>
+گام 3-  [تنظیم متن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
 
-<a href="4-mokhatab-roydad-email%2F4-mokhatab-roydad-email.md" target="_blank">گام 4- انتخاب مخاطبان</a>
+گام 4-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/4-mokhatab-roydad-email/4-mokhatab-roydad-email.md)
 
 ![](advertising-sendingeventmail-home.png)
 
