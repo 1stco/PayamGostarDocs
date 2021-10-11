@@ -4,10 +4,10 @@
 
 در این گام محتوای پیام خود را می توانید تعیین کنید. این محتوا بستگی به رسانه مورد نظر دارد.
 
-> نکته: می توانید از قالب های ذخیره شده در مدیریت قالب های پیام یک پیام را انتخاب کنید و ارسال نمایید. (به<a href="ghaleb-payam%2Fghaleb-payam.md" target="_blank"> انتخاب قالب پیام مراجعه کنید</a>.)
+> نکته: می توانید از قالب های ذخیره شده در مدیریت قالب های پیام یک پیام را انتخاب کنید و ارسال نمایید. (به [انتخاب قالب پیام‌ها]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Model-message-management/Model-message-management.md) مراجعه کنید.)
 
 
-> نکته: می توانید امضای خود را در نرم افزار ذخیره کنید تا بتوانید آن را به انتهای پیام اضافه کنی<a href="add-a-signature%2Fadd-a-sign.md" target="_blank">د. (به اضافه کردن امضا مراجعه کنید</a>.)
+> نکته: می توانید امضای خود را در نرم افزار ذخیره کنید تا بتوانید آن را به انتهای پیام اضافه کنید. (به  [اضافه کردن امضا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-do/add-a-signature/add-a-sign.md) مراجعه کنید.)
 
 1.محتوای پیامک : متن پیام برای ارسال به مخاطب از نوع متن ساده می باشد .
 
@@ -17,7 +17,7 @@
 
 1.     محتوای پیامک : متن پیام برای ارسال به مخاطب از نوع متن ساده می باشد .
 
-در این نوع ارسال می توانید از [متن هوشمند ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/matn-hoshmand/matn-hoshmand.md) استفاده کنید.
+در این نوع ارسال می توانید از  [متن هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/matn-hoshmand/matn-hoshmand.md) استفاده کنید.
 
 
 ![](advertise-tools8.png)
@@ -26,7 +26,7 @@
 
 در این نوع از محتوا علاوه بر متن هوشمند می توانید از عکس و یا لینک های ویژه Hyperlink نیز استفاده کنید.
 
-برای اضافه کردن تصویر به ایمیل ارسالی به قسمت طریقه[ ایجاد ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/email/Photo-email/Photo-email.md) مراجعه کنید .
+برای اضافه کردن تصویر به ایمیل ارسالی به قسمت طریقه  [ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Photo-email/Photo-email.md) مراجعه کنید .
 
 ![](7.png)
 
@@ -47,7 +47,7 @@
 
 ![](8.png)
 
- 3. می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند[  تنظیم قالب چاپ  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Set%20the-print-template/Set%20the-print-template.md)میتوانید انجام دهید)
+ 3.  [تنظیم قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Set-the-print-template/Set-the-print-template.md) می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند
  
  
 
