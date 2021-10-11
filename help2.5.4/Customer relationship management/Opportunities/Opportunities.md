@@ -11,7 +11,7 @@
 
 عنوان: می توانید فرصت ها را بر اساس عنوان آن ها جستجو کنید.
 
-نکته: لطفا ابتدا قسمت<a href="Advanced-filter%2FAdvanced-filter.md" target="_blank"> فیلترهای پیشرفته</a> را مطالعه کنید.
+نکته: لطفا ابتدا قسمت [فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 منبع: می توانید منبع ایجاد فرصت را مشخص کنید.
 
