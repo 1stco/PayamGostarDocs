@@ -13,7 +13,7 @@
 
 گام 2-  [زمان اجرا]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/2-zamanbandi-roydad-email/2-zamanbandi-roydad-email.md)
 
-گام 3-  [تنظیم متن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
+گام 3-  [تنظیم متن]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
 
 گام 4-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/4-mokhatab-roydad-email/4-mokhatab-roydad-email.md)
 
