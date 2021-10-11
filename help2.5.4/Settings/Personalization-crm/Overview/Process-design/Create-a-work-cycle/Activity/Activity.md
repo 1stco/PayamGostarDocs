@@ -66,4 +66,4 @@
 
 [27. چند شرطی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Conditional-decision/Conditional-decision.md)
 
-[28. فراخوانی رویدا](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-the-event/Call-the-event.md)د   
+[28. فراخوانی رویداد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-the-event/Call-the-event.md)   
