@@ -9,7 +9,7 @@
 
 1. نوع فیلتر: میتوانید فیلترهای اعمال شده را به عنوان یک فیلتر اختصاصی خود ذخیره کرده و برای اخذ گزارشات بعدی از آن استفاده کنید.
 
-نکته: لطفا ابتدا قسمت<a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Chelp%20new%5C%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%20%D8%A8%D8%A7%20%D9%85%D8%B4%D8%AA%D8%B1%DB%8C%D8%A7%D9%86%5CAdvanced-filter%5CAdvanced-filter.md" target="_blank"> فیلترهای پیشرفته </a>را مطالعه کنید.
+نکته: لطفا ابتدا قسمت [فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 2. نوع تماس: می توانید نوع تماس (دریافتی ، گرفته شده، از دست رفته) را تعیین کنید.
 
