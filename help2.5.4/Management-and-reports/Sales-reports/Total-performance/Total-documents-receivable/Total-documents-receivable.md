@@ -9,7 +9,7 @@
 
 > نکته: توجه داشته باشید که تاریخ ایجاد دریافت ها در این گزارش تاثیری ندارد و تاریخ سررسید اهمیت دارد
 
-> نکته: توجه داشته باشید، این گزارش مربوط به اسناد دریافت نشده می باشد و در صورتی که چک باکس "دریافت شده" در یک دریافت، فعال شده باشد، گزارش مربوط به آن بر اساس تاریخ دریافت در گزارش <a href="file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDesktop%5Chelp%5Cmd%20help%5CManagement-and-reports%5CSales-reports%5CTotal-performance%5CTotal-receipts%5CTotal-receipts.md" target="_blank">مجموع دریافت ها</a> قابل مشاهده است
+> نکته: توجه داشته باشید، این گزارش مربوط به اسناد دریافت نشده می باشد و در صورتی که چک باکس "دریافت شده" در یک دریافت، فعال شده باشد، گزارش مربوط به آن بر اساس تاریخ دریافت در گزارش  [مجموع دریافت‌ها]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Sales-reports/Total-performance/Total-receipts/Total-receipts.md) قابل مشاهده است
 
 >  نکته : برای دریافت این گزارش دارا بودن مجوز مدیر مالی و یا مدیر فروش الزامی میباشد
 
