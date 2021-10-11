@@ -2,7 +2,7 @@
 
 > مسیر دسترسی:  **تبلیغات** >**پیام‌کوتاه** > **مدیریت خبرنامه‌ها** > **ارسال خبرنامه جدید** > **مدیریت مخاطبان خبرنامه** 
 
-در قسمت<a href="C%3A%2FUsers%2FH.abasi%2FDesktop%2Fhelp%2Fmd%20help%2F%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%2Fmoshtarak-abzar%2Fgam%20se%2Fselect-Audience.md" target="_blank">  انتخاب مخاطب</a>ان ارسال گروهی پیام کوتاه توضیح داده شده است.
+در قسمت [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-se/select-Audience.md) ارسال گروهی پیام کوتاه توضیح داده شده است.
 
 این مخاطبان باید شامل پروفایل هایی باشند که شماره تلفن همراه در آن ها وجود داشته باشد .
 
