@@ -10,20 +10,20 @@
 
 ![](advertising-mail.png)
 
-[اپراتور ارسال]( http://septadocs.1st.co.com/payamgostar/documents/%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84?selectedId=1be39bfc-355d-4008-5510-08d966729247&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[اپراتور ارسال](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Send-operators/Send-operators.md)
 
-[فرستنده ایمیل]( http://septadocs.1st.co.com/payamgostar/documents/%D9%81%D8%B1%D8%B3%D8%AA%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D9%85%DB%8C%D9%84?selectedId=e5fccc5a-e3e8-46d3-5512-08d966729247&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[فرستنده ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Email-sender/Email-sender.md)
 
-[ایمیل ویژه - هوشمند]( http://septadocs.1st.co.com/payamgostar/documents/%D8%A7%DB%8C%D9%85%DB%8C%D9%84-%D9%88%DB%8C%DA%98%D9%87-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF?selectedId=5f3ab477-bba1-eb11-a032-ac1f6bc6cd90&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[ایمیل ویژه - هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Smart-email/smart-email.md)
 
-[طریقه ایجاد یک ایمیل عکس دار]( http://septadocs.1st.co.com/payamgostar/documents/%D8%B7%D8%B1%DB%8C%D9%82%D9%87-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D8%A7%DB%8C%D9%85%DB%8C%D9%84-%D8%B9%DA%A9%D8%B3%D8%AF%D8%A7%D8%B1?selectedId=603ab477-bba1-eb11-a032-ac1f6bc6cd90&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[طریقه ایجاد یک ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Photo-email/Photo-email.md)
 
-[مدیریت ارسال گروهی ایمیل]( http://septadocs.1st.co.com/payamgostar/documents/%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%DA%AF%D8%B1%D9%88%D9%87%DB%8C-%D8%A7%DB%8C%D9%85%DB%8C%D9%84?selectedId=09baad68-2e1b-4aac-b0d6-8072e3581691&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[مدیریت ارسال گروهی ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/send-group-email/send-group-email.md)
 
-[رویداد تبلیغاتی]( http://septadocs.1st.co.com/payamgostar/documents/%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%85%DB%8C%D9%84?selectedId=2b3ab477-bba1-eb11-a032-ac1f6bc6cd90&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[رویداد تبلیغاتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/advertising-event-email.md)
 
-[خبرنامه]( http://septadocs.1st.co.com/payamgostar/documents/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AE%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%D9%85%DB%8C%D9%84?selectedId=2f3ab477-bba1-eb11-a032-ac1f6bc6cd90&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[خبرنامه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Newsletters-email/Newsletters-email.md)
 
-[لیست ایمیل‌های ارسالی]( http://septadocs.1st.co.com/payamgostar/documents/%D9%84%DB%8C%D8%B3%D8%AA-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C-?selectedId=4d5c0f47-f8e9-4f82-550c-08d966729247&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[لیست ایمیل‌های ارسالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Send-List-email/send-list.-email.md)
 
-[لیست ایمیل‌های دریافتی]( http://septadocs.1st.co.com/payamgostar/documents/%D9%84%DB%8C%D8%B3%D8%AA-%D8%A7%DB%8C%D9%85%DB%8C%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%DB%8C?selectedId=12960cc0-ae2c-4e4a-9707-5050db338e88&menuItemType=1&versionId=a1cb5bd2-9978-4ca7-b9d6-08d951882868)
+[لیست ایمیل‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/resive-list-email/resive-list-email.md)
