@@ -8,11 +8,12 @@
 
 نمودار فکس های ارسالی در 90 روز گذشته:  در این قسمت گزارش نموداری ارسال پیام ها در 90 روز گذشته نمایش داده می شود ، که در هر روز چه تعداد فکس  ارسال شده و چه تعداد فکس رسیده به مخاطب داشتیم . 
 
-<a href="group-sending-fax%2Fgroup-sending-fax.md" target="_blank">مدیریت ارسال گروهی</a>
+[مدیریت ارسال گروهی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/fax/group-sending-fax/group-sending-fax.md)
 
-<a href="send-list-fax%2Fsend-list-fax.md" target="_blank">لیست فکس های ارسالی</a>
+[لیست فکس‌های ارسالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/fax/send-list-fax/send-list-fax.md)
 
-<a href="resive-list-fax%2Fresive-list-fax.md" target="_blank">لیست فکس های دریافتی</a>
+[لیست فکس‌های دریافتی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/fax/resive-list-fax/resive-list-fax.md)
+
 
 در صورت داشتن ماژول فکس هوشمند می توانید از  قابلیت ارسال فکس بصورت تکی و گروهی در پیام گستر استفاده نمایید .
 
