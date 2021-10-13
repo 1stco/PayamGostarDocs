@@ -7,7 +7,7 @@
 
 برای اطلاعات بیشتر به قسمت زیر مراجعه کنید.
 
-[ مدیریت کلاس بندی مشتریان](file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5CSettings%5CCustomer-classification-management%5CCustomer-classification-management.md)
+[ مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Customer-classification-management/Customer-classification-management.md.md)
 
 ![](Pricelistmanagement1.png)
 
