@@ -6,7 +6,7 @@
 
 در این بخش لیست فرصت‌های ثبت شده برای هویت به دو حالت نمایش کانبان و لیستی قابل مشاهده می‌باشد.
 
-در حالت کانبان فرصت‌ها براساس مراحلی که در آن قرار دارند نمایش داده می‌شود. (برای مطالعه بیشتر به بخش[ مرحله‌بندی](file%3A%2F%2F%2FC%3A%5CUsers%5CH.abasi%5CDocuments%5CGitHub%5CPayamGostarDocs%5Chelp%202.5.4%5CIntegrated-bank%5CDatabase%5CRecords%5Cleveling%5Cleveling.md) مراجعه کنید.)
+در حالت کانبان فرصت‌ها براساس مراحلی که در آن قرار دارند نمایش داده می‌شود. (برای مطالعه بیشتر به بخش[ مرحله‌بندی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید.)
 
 ![](Opportunities1.png)
 
