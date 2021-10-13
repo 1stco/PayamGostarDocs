@@ -7,7 +7,7 @@
 
 > نکته: هر کاربر می تواند تنها قراردادهایی که خود ثبت نموده است مشاهده نماید و تنها کاربر دارای مجوز "مشاهده لیست" قراردادها می تواند کلیه قراردادهای ثبت شده توسط سایر کاربران سیستم را مشاهده نماید.
 
-![](ghardad11%20-%20Copy.png)
+![](ghardad.png)
 
 
 > نکته: لطفا ابتدا قسمت[  فیلتر پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید .  
