@@ -9,5 +9,5 @@
 
 ·[راهنما](Guide%2FGuide.md)
 
-![](Access%20bar.jpg)
+![](Accessbar.jpg)
 
