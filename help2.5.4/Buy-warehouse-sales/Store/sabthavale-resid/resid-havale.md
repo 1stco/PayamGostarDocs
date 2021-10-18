@@ -6,7 +6,7 @@
 
 [مدیریت اقلام کالا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Buy-warehouse-sales/Store/sabthavale-resid/aghlam-kala.md)
 
-![](InventoryTransaction1%20(1).jpg)
+![](InventoryTransaction1.jpg)
 
 1. مدیریت گزارش ها :  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
 
