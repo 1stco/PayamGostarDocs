@@ -29,7 +29,7 @@
 > نکته 1: توجه داشته باشید تراکنش ها قبل از[ قیمت گذاری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Store/gheymatgozari-etesal/gheymatgozari.md) باید تایید شوند.
 
 
-> نکته 2: توجه داشته باشید موجودی نمایش داده شده برای محصولات بر اساس تراکنش های تایید شده می باشد و همچنین[ گزارشات انبار ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Warehouse-reports/Warehouse-reports.md)نیز، تنها تراکنش های تایید شده را لحاظ خواهد کرد. 
+> نکته 2: توجه داشته باشید موجودی نمایش داده شده برای محصولات بر اساس تراکنش های تایید شده می باشد و همچنین[ گزارشات انبار ](http://septadocs.1st.co.com/payamgostar/documents/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%D8%A7%D8%AA-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%DB%8C?selectedId=601902a2-8722-4adc-4aa7-08d8cb33f31a&menuItemType=2)نیز، تنها تراکنش های تایید شده را لحاظ خواهد کرد. 
 
 > نکته3: توجه داشته باشید برای تایید یک تراکنش انبار، باید مجوز تایید آن در انبار مربوطه (مجوزهای انبار در قسمت [مدیریت انبارها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Warehouse-reports/Warehouse-reports.md)) و همچنین مجوز تایید آن نوع از تراکنش انبار (تعریف مجوزها در قسمت[ دسترسی موجودیت ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/permissions/Availability-of-entities/Availability-of-entities.md)) را داشته باشید.
 
