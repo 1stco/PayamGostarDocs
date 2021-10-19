@@ -12,7 +12,7 @@
 
 ![](Privileges100.png)
 
-مدیریت انبارداری: به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و[ گزارشات انبار ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Warehouse-reports/Warehouse-reports.md)دسترسی پیدا می کند.
+مدیریت انبارداری: به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و[ گزارشات انبار دسترسی پیدا می کند.
 
 مشاهده لیست اقلام کالا: ***حالت آزمایشی است.***
 
