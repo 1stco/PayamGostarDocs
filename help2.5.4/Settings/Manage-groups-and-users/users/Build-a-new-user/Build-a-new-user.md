@@ -4,7 +4,7 @@
 
 نحوه ساخت کاربر به شرح زیر می‌باشد :
 
-![تصویر](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Manage-groups-and-users/users/Build-a-new-user/Newuser1.jpg)
+![تصویر](Newuser1.jpg)
 
 1. تصویر کاربری: تصویر کاربر را با کلیک بر روی تصویر عوض کنید. (هر کاربر نیز می تواند در قسمت پروفایل من تصویر کاربری خود را عوض کند.)
 
