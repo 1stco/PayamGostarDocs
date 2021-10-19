@@ -7,7 +7,7 @@
 ![](NotificationDate.jpg)
 
 
-1. تاریخ جدید: با استفاده از این گزینه می توانید برنامه ای برای ارسال یک یا چند پیام (پیامک، ایمیل، فکس و یا چاپ) برای مخاطب تنظیم کنید. ( برای اطلاع در خصوص نحوه تنظیم به[ اطلاعات مشترک ابزارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md)در قسمت[ تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/Marketing.md) مراجعه کنید.)
+1. تاریخ جدید: با استفاده از این گزینه می توانید برنامه ای برای ارسال یک یا چند پیام (پیامک، ایمیل، فکس و یا چاپ) برای مخاطب تنظیم کنید. ( برای اطلاع در خصوص نحوه تنظیم به[ اطلاعات مشترک ابزارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md)در قسمت تبلیغات مراجعه کنید.)
 
 2. ویرایش تاریخ:  با استفاده از این گزینه می توانید یک برنامه ارسال پیام را ویرایش کنید.
 
