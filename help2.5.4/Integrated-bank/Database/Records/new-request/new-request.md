@@ -11,7 +11,7 @@
 > نکته مهم: لطفا ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
 
 
-![DARKHAST](https://user-images.githubusercontent.com/85984198/123061111-9512a080-d420-11eb-9075-471bd72b3271.png)
+![DARKHAST](ticket1.png)
 
 1. شماره درخواست: شماره درخواستی که سیستم به درخواست اختصاص داده است را نمایش می دهد. هویت می تواند از طریق این شماره، درخواست خود را پیگیری کند. توجه داشته باشید که امکان تخصیص شماره دستی به درخواست وجود ندارد.
 
