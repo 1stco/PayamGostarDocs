@@ -12,7 +12,7 @@
 
 >   نکته: تعیین این گزینه جهت ایجاد کاربر جدید الزامی می باشد.
 
-2. گروه پیش فرض ذخیره مشتریان: در صورتی که ماژول[ باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Supplementary-modules/customer-club%2Fcustomer-club.md) را خریداری کرده باشید، با ساختن یک دسته بندی در بانک اطلاعاتی و انتخاب آن در گروه پیش فرض مشتریان، پروفایل متناظر با مشتریانی که در در باشگاه ثبت نام می کنند یا کاربری آن ها از قسمت[ مدیریت اعضای باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md) ایجاد می شود، در این دسته بندی ساخته می شود. 
+2. گروه پیش فرض ذخیره مشتریان: در صورتی که ماژول[ باشگاه مشتریان](http://septadocs.1st.co.com/payamgostar/documents/%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D9%88%D9%81%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C?selectedId=3b54ff85-aa22-4620-716f-08d8a996e9ef&menuItemType=2) را خریداری کرده باشید، با ساختن یک دسته بندی در بانک اطلاعاتی و انتخاب آن در گروه پیش فرض مشتریان، پروفایل متناظر با مشتریانی که در در باشگاه ثبت نام می کنند یا کاربری آن ها از قسمت[ مدیریت اعضای باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md) ایجاد می شود، در این دسته بندی ساخته می شود. 
 
 نکته: تعیین این گزینه برای امکان ثبت نام مشتریان در باشگاه، الزامی است.
 
