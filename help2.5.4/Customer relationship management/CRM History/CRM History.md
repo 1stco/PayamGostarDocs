@@ -4,7 +4,7 @@
 
 > نکته: هر کاربر می تواند تنها سوابقی را که خود ثبت نموده است مشاهده نماید و برای مشاهده سوابق ثبت شده توسط سایر کاربران برای هر کدام از آیتم ها باید مجوز "مشاهده لیست" را برای آن آیتم داشته باشد
 
-![](2020-01-08_9-37-49.png)
+![](CrmHistory.png)
 
 
 > نکته: لطفا ابتدا قسمت  [فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
