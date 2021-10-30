@@ -1,6 +1,4 @@
-﻿## مدیریت و گزارشات
-
-![](MngmentAndReports.png)
+## مدیریت و گزارشات
 
 
 [گزارشات عملکردی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Functional-reports.md)
