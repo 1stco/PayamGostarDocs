@@ -1,7 +1,7 @@
-# # PaymaGostarDocs
-
-This repository contains the documentation website code and Markdown source files for PayamGostar CRM.
+# PaymaGostarDocs
 ***
+This repository contains the documentation website code and Markdown source files for PayamGostar CRM.
+#
 You can find the online version of the PayamGostar CRM documentation at 
 [help.payamgostar.com/docs](https://help.payamgostar.com/docs)
 #
