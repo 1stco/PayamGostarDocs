@@ -1,10 +1,8 @@
-﻿## تخصیص حکم پرسنلی به کاربر
-
 >  مسیر دسترسی در نرم افزار:  **تنظیمات** >**مدیریت حکم‌های پرسنلی** 
 
 در این بخش می توانید برای کاربران سیستم حکم پرسنلی تعریف نمایید. حکم های پرسنلی در ارجاع وظیفه ها و فرآیندها و تعیین مجوز ها استفاده می شود. همچنین عملکرد قسمت [گزارشات عملکردی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Functional-reports/Functional-reports.md) نرم افزار، بر اساس حکم های پرسنلی تخصیص داده شده در این قسمت می باشد، به این صورت که هر کاربر بر اساس حکم های پرسنلی خود می تواند گزارش عملکرد سمت های زیر مجموعه خودش را دریافت کند
 
-> **نکته :** ابتدا قسمت [مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)را مطالعه کرده و تنظیماتش را انجام دهید.
+> نکته : ابتدا قسمت [مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)را مطالعه کرده و تنظیماتش را انجام دهید.
 
 
 ![](1.png)
