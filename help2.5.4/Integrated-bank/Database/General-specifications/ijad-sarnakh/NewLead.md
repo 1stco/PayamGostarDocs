@@ -4,7 +4,7 @@
 
 ![](2.png)
 
-پس از انتخاب شرکت، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق [شخصی سازی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) انجام دهید.
+پس از انتخاب، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق [شخصی سازی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) انجام دهید.
 
 ![](3.png)
 
