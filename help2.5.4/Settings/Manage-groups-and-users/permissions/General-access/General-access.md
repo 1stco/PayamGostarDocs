@@ -93,7 +93,7 @@
 
 **مدیریت تقویم ها:** دسترسی به منوی[ مدیریت تقویم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)می یابد.
 
-مدیریت شخصی سازی CRM**:دسترسی به[ منوی شخصی سازی]**(https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
+**مدیریت شخصی سازی CRM:**دسترسی به[ منوی شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
 
 **مدیر سایت ساز:** می تواند به امکاناتسایت ساز در نرم افزار دسترسی پیدا کند.
 
