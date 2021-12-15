@@ -11,7 +11,7 @@
 
 ![](Privileges100.png)
 
-مدیریت انبارداری: به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و[ گزارشات انبار دسترسی پیدا می کند.
+**مدیریت انبارداری:** به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و[ گزارشات انبار دسترسی پیدا می کند.
 
 مشاهده لیست اقلام کالا: ***حالت آزمایشی است.***
 
@@ -26,7 +26,7 @@
 ایجاد حساب کاربری برای مشتری: ***حالت آزمایشی است.***
 
 **مدیریت اعضای باشگاه مشتریان:** دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)پیدا می کند.**
-
+**
 مشاهده امتیازات مشتریان:** به صفحه[ امتیازات مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Customer-ratings/Customer-ratings.md) در پروفایل هویت ها دسترسی پیدا کرده و می تواند تراکنش امتیاز جدید ایجاد کند.
 
 **3. بانک اطلاعاتی:**
@@ -84,8 +84,7 @@
 
 ·**مشاهده لیست تاریخ های مرتبط:** به منوی[ تاریخ های مرتبط ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Related-dates/Related-dates.md)در مدیریت ارتباط با مشتریان دسترسی پیدا  می کند.
 
-**6. عمومی:
-**
+**6. عمومی:**
 ![](33.png)
 
 **حذف نظر:**  امکان حذف نظرات ایجاد شده توسط سایر کاربران را پیدا می کند. 
@@ -94,7 +93,7 @@
 
 **مدیریت تقویم ها:** دسترسی به منوی[ مدیریت تقویم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)می یابد.
 
-مدیریت شخصی سازی CRM**: دسترسی به[ منوی شخصی سازی]**(https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
+مدیریت شخصی سازی CRM**:دسترسی به[ منوی شخصی سازی]**(https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
 
 **مدیر سایت ساز:** می تواند به امکاناتسایت ساز در نرم افزار دسترسی پیدا کند.
 
@@ -108,7 +107,7 @@
 
 **مدیریت اعیاد و مناسبت ها:** به منوی [مدیریت اعیاد و مناسبت ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)در دسترسی پیدا می کند.
 
-م**دیریت تنظیمات:** به منوی[ تنظیمات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/general-settings.md)دسترسی پیدا می کند. (میتوانید تنظیمات کلی سیستم اعم از تنظیم ایمیل ها، امنیتی و ... را تغییر دهید.)
+**مدیریت تنظیمات:** به منوی[ تنظیمات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/general-settings.md)دسترسی پیدا می کند. (میتوانید تنظیمات کلی سیستم اعم از تنظیم ایمیل ها، امنیتی و ... را تغییر دهید.)
 
 **مدیریت حکم ها:** دسترسی منوی [مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)در اختیار کاربر قرار می دهد. (میتوانید حکم های مختلف -مانند کارمند فروش، مدیر مالی و ... - ایجاد و واگذار کنید.)
 
@@ -124,8 +123,7 @@
 
  **مدیریت نشانی ها:**  دسترسی به منو [مدیریت نشانی ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Address-management/Address-management.md)را ایجاد میکند. در این بخش امکان مشاهده لیست نشانی ها، ایجاد،ویرایش و حذف نشانی وجود دارد.
  
-** 7. فروش:
-**
+**7. فروش:**
 ![](Privileges106.png)
 
 **مدیر فروش:** کاربر با استفاده از این مجوز می تواند تمامی گزارشات مرتبط با فروش مانند[ گزارشات تحلیلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Analysis-reports/Analysis-reports.md) یا[ گزارشات فروش ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Sales-reports.md)را دریافت کند. همچنین به منوی مدیریت فاکتورها در شخصی سازی دسترسی پیدا می کند.
@@ -139,16 +137,14 @@
 
 **مشاهده لیست معاملات مشتری:** دسترسی به منوی [معاملات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Trades/Trades.md)را در پروفایل مخاطبان و سرنخ ها در اختیار کاربر می گذارد.
 
-**8. گزارشات:
-**
+**8.گزارشات:**
 ![](Privileges107.png)
 
 **مدیریت گزارش های ساخته شده:**  امکان استفاده از مدیریت گزارش ها در همه لیست های موجود در پیام گستر و امکان حذف،ویرایش،مجوز های گزارش ساخته شده در منوی دسته بندی گزارش ها
 
 مشاهده همه تقویم های عملیاتی: ***حالت آزمایشی است.***
 
-**9. مالی:
-**
+**9. مالی:**
 ![](Privileges108.png)
 
 **مدیر مالی:** امکان مشاهده گزارشهای مالی مانند[ گزارش مانده حساب مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md) یا[ جزئیات عملکرد فروش ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)را دارد.
@@ -157,16 +153,14 @@
 
 با دارا بودن این مجوز، در لیست دریافت ها و پرداخت ها، امکان حذف چند آیتم دریافت و پرداخت باهم وجود دارد.
 
-**10. مدیریت ارتباط با مشتری:
-**
+**10. مدیریت ارتباط با مشتری:**
 ![](Privileges109.png)
 
 **مدیر ارتباط با مشتری:** امکان مشاهده[ گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/reports-crm.md) CRM و[ گزارشات فرآیندی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Process-reports.md) را به کاربر می دهد.
 
 **مدیریت فرم ها:** دسترسی یه منوی [مدیریت فرم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md) ها در شخصی سازی را به کاربر می دهد.
 
-11. مرکز تماس:
-
+**11. مرکز تماس:**
 ![](Privileges110.png)
 
 **برقراری تماس تلفنی:** اگر سیستم تلفنی VOIP در اختیار داشته باشید و آن را با نرم افزار پیام گستر به درستی متصل کرده باشید، با فعال کردن این مجوز به کاربران این اجازه داده می شود که بتوانند از داخل نرم افزار با کلیک بر روی شماره تلفن، موبایل یا تلفکس با مخاطب ارتباط برقرار کنند.
@@ -175,7 +169,7 @@
 
 **حذف سابقه تماس ها:** اجازه حذف سابقه تماس ها از منوی[ تماس ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/calls/calls.md)و در پروفایل مخاطب تب[ تماس ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/calls-h/calls-h.md)را می دهد.
 
-مدیریت تماس های ضبط شده: به کاربر اجازه می دهد که تماس های ضبط شده را در اختیار داشته باشد.
+**مدیریت تماس های ضبط شده:** به کاربر اجازه می دهد که تماس های ضبط شده را در اختیار داشته باشد.
 
 **مدیریت سیستم های تلفنی:** دسترسی به منوی [مدیریت سیستم های تلفنی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Telephone-systems/telephone-systems-Management/telephone-systems-Management.md) را در اختیار کاربر قرار میدهد. (در این منو میتوانید تنظیمات مرتبط با سیستم تلفن های خود -تعریف داخلی و ...- را انجام دهید.)
 
