@@ -25,9 +25,11 @@
 
 ایجاد حساب کاربری برای مشتری: ***حالت آزمایشی است.***
 
-**مدیریت اعضای باشگاه مشتریان:** دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)پیدا می کند.**
-**
-مشاهده امتیازات مشتریان:** به صفحه[ امتیازات مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Customer-ratings/Customer-ratings.md) در پروفایل هویت ها دسترسی پیدا کرده و می تواند تراکنش امتیاز جدید ایجاد کند.
+**مدیریت اعضای باشگاه مشتریان:** دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)پیدا می کند.
+
+
+
+**مشاهده امتیازات مشتریان:** به صفحه[ امتیازات مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Customer-ratings/Customer-ratings.md) در پروفایل هویت ها دسترسی پیدا کرده و می تواند تراکنش امتیاز جدید ایجاد کند.
 
 **3. بانک اطلاعاتی:**
 
@@ -93,7 +95,7 @@
 
 **مدیریت تقویم ها:** دسترسی به منوی[ مدیریت تقویم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)می یابد.
 
-**مدیریت شخصی سازی CRM:**دسترسی به[ منوی شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
+**مدیریت شخصی سازی CRM:** دسترسی به[ منوی شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت های اصلی و اضافه کردن زیر نوع موجودیت پیدا می کند.
 
 **مدیر سایت ساز:** می تواند به امکاناتسایت ساز در نرم افزار دسترسی پیدا کند.
 
