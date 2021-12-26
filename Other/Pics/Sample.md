@@ -10,16 +10,18 @@ Block Quotes sample:
 
 pipe Tables  sample: 
 
+<div dir="ltr" style="text-align: center">
 
-|size | material     | color       |
+|تعداد | مستندات     | کیفیت       |
 |---- | ------------ | ------------|
-|9    | leather   s   | brown   |
-|10   | hemp canvas  | natural |
-|11   | glass        | transparent |
-
+|11  |  داک    |12  |
+|11   | ویدیو  |   34 |
+</div>
  <a href="table/"></a>
-
-
+ 
+ 
+ 
+ 
 
 
 Inline Code   sample: 
