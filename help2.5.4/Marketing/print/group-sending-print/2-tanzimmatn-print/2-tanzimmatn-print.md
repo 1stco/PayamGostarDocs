@@ -1,6 +1,6 @@
-﻿## گام2-محتوای پیام
+﻿## گام2  - محتوای پیام
 
-> مسیر دسترسی:  **تبلیغات** >**چاپ** > **مدیریت چاپ گروهی** > **چاپ جدید** > **ارسال گروهی جدید** > **محتوای پیام چاپ گروهی**
+
 
 تنظیم محتوای چاپ را می توانید از قسمت [تنظیم قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Set%20the-print-template/Set%20the-print-template.md)   مشاهده کنید.
 
