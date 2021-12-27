@@ -1,6 +1,6 @@
-﻿## گام2-تنظیم متن
+﻿## گام 2 - تنظیم متن
 
-> مسیر دسترسی:  **تبلیغات** >**پیام‌کوتاه** > **مدیریت خبرنامه‌ها** > **ارسال خبرنامه جدید** > **محتوای پیام خبرنامه** 
+
 
 در این گام می توانید متن مورد نظر برای ارسال را وارد کنید. ابتدا از روی تقویم و یا[  لیست مناسبت ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)، یک و یا چند تاریخ را مشخص کنید.
 
