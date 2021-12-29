@@ -23,7 +23,7 @@
 **2. مخفی کردن عنوان فرم:** در صورت فعال کردن چک باکس عنوان فرم مخفی می‌شود.
 
 
-همچنین می‌توانید تنظیماتی اعمال کنید که این فرم توسط مخاطبان شما ثبت شود، ثبت فرم توسط مخاطبان می‌تواند از طریق فرم عمومی یا دریافت پیام از طریق رسانه‌های مختلف (پیام کوتاه، ایمیل و فکس) باشد.
+همچنین می‌توانید تنظیماتی اعمال کنید که این فرم توسط مخاطبان شما ثبت شود، ثبت فرم توسط مخاطبان می‌تواند از طریق [فرم عمومی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Form-management/General-form.md)یا [دریافت پیام از طریق رسانه‌های مختلف (پیام کوتاه، ایمیل و فکس) ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Form-management/Create-forms-through-incoming-message.md)باشد.
 
 
 
