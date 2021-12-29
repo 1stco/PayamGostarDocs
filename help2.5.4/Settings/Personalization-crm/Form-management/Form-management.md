@@ -2,7 +2,7 @@
 
 از این صفحه می توانید فرم جدیدی را تنظیم و فرم های ساخته شده را ویرایش نمایید. فرم یک قالب خام در نرم افزار پیام گستر است که این امکان را برای شما فراهم می سازد تا کلیه فرم های سازمان را در نرم افزار پیاده سازی نمایید، فرم هایی مانند رضایت سنجی، دریافت فکس، فرم ثبت سفارش، فرم مرخصی و غیره.
  
- لطفا ابتدا قسمت[ اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
+ لطفا ابتدا قسمت[ اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
 
 
 ### فرم جدید
