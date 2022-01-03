@@ -46,3 +46,13 @@ SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).Tak
 |---- | ------------ | ------------|
 |11  |  داک    |12  |
 |11   | ویدیو  |   34 |
+
+
+<div dir="ltr" style="text-align: center">
+
+|تعداد | مستندات     | کیفیت       |
+|---- | ------------ | ------------|
+|11  |  داک    |12  |
+|11   | ویدیو  |   34 |
+</div>
+ <a href="table/"></a>
