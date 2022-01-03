@@ -26,7 +26,7 @@ pipe Tables  sample:
 
 Inline Code   sample: 
 ```
-اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند
+SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"));
 
 ```
 
