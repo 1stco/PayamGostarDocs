@@ -21,7 +21,7 @@
 
 
 
-![](SystemMessagesManagement3.jfif)
+![](SystemMessagesManagement3.jpg)
 
 ![](SystemMessagesManagement4.jfif)
 

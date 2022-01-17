@@ -6,7 +6,7 @@
 
 > نکته: هر کاربر در این لیست درخواست های ثبت شده توسط خود را مشاهده می کند 
 
-![](2020-01-08_9-46-59.png)
+![](1.png)
 
 
 > نکته: لطفا ابتدا قسمت [فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
@@ -36,7 +36,7 @@
 
 **12. زیرنوع درخواست:** با استفاده از این فیلد کشویی می توانید زیرنوع درخواست را تغییر دهید.
 
-**مدیریت گزارش ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش[ گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
+**مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش[ گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
 
 > نکته : تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید ازبخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
 
