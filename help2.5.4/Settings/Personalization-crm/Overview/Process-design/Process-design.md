@@ -1,4 +1,4 @@
-﻿## طراحی فرآیند(چرخه کاری)
+## طراحی فرآیند(چرخه کاری)
 
 
 
@@ -27,5 +27,5 @@
 برای اطلاع از شیوه اضافه کردن فیلدها به [تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)مراجعه کنید.
 
 
-![](ProcessDesignCycle5.jfif)
+![](ProcessDesignCycle5.jpg)
 
