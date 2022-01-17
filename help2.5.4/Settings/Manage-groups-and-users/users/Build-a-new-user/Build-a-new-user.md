@@ -30,7 +30,7 @@
 
 **10. عدم فعال سازی مدت زمان عبور:** با فعال کردن این گزینه رمز عبور این کاربر در نرم افزار، هیچ زمانی منقضی نمی‌شود.
 
-برای تنظیم مقدار پیشفرض زمان  منقضی شدن رمز عبور، به قسمت [امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)مراجعه کنید.
+برای تنظیم مقدار پیشفرض زمان  منقضی شدن رمز عبور، به قسمت [تنظیمات امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)مراجعه کنید.
 
 
 **11. رمز عبور:** رمز عبور کاربر را تعیین کنید. (تعداد حروف رمز عبور، امکان منقضی شدن رمز عبور و الزام رمز پیچیده بودن آن را در قسمت [امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)میتوانید تنظیم کنید.)
