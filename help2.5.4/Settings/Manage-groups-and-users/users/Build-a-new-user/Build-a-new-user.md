@@ -33,7 +33,7 @@
 برای تنظیم مقدار پیشفرض زمان  منقضی شدن رمز عبور، به قسمت [تنظیمات امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)مراجعه کنید.
 
 
-**11. رمز عبور:** رمز عبور کاربر را تعیین کنید. (تعداد حروف رمز عبور، امکان منقضی شدن رمز عبور و الزام رمز پیچیده بودن آن را در قسمت [تنظیمات امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)میتوانید تنظیم کنید.)
+**11. رمز عبور:** رمز عبور کاربر را تعیین کنید. (تعداد حروف رمز عبور، امکان منقضی شدن رمز عبور و الزام رمز پیچیده بودن آن را در قسمت [تنظیمات امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/security/security.md)میتوانید تنظیم کنید.)
 
 **12. ذخیره:** با استفاده از این کلید کاربر ایجاد شده ذخیره می شود.
 
