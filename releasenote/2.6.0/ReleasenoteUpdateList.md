@@ -2,6 +2,8 @@
 
 ### صفحه اصلی 
 
+----------
+
 #### [خانه:](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Home.md) 
 
 - **تغییرات مسیر دسترسی منو نرم‌افزار**
@@ -22,7 +24,7 @@
 
 
 ### شخصی‌سازی و مدیریت فرآیندها
-
+***
 #### [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Customize.md)
 
 - **اضافه‌شدن ویژگی تغییر در مقدار نهایی الگوی شماره‌گذاری**
@@ -78,6 +80,8 @@
 
 ### تنظیمات راهبری 
 
+---
+
 #### [تنظیمات اولیه سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrimarySettings.md)
 
 - **اضافه‌شدن تنظیمات ارز به نرم‌افزار**
@@ -100,6 +104,7 @@
 
 
 ### مباحث پایه مدیریت ارتباط با مشتریان  
+##
 
 #### [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md) 
 
