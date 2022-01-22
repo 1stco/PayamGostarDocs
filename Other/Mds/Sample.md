@@ -35,8 +35,8 @@ highlight text sample :
 
 > test qoute
 
-* dot
-* dot
+- dot
+- dot
 
 
 SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"));
