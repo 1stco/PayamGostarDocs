@@ -1,8 +1,6 @@
-## لیست تغییرات نسخه 2.6.0 
+## لیست تغییرات نسخه 2.6.0
 
 ### صفحه اصلی 
-
-----------
 
 #### [خانه:](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Home.md) 
 
@@ -22,9 +20,8 @@
 
 - **امکان ذکر سمت‌ها در ثبت نظرات**
 
-
 ### شخصی‌سازی و مدیریت فرآیندها
-***
+
 #### [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Customize.md)
 
 - **اضافه‌شدن ویژگی تغییر در مقدار نهایی الگوی شماره‌گذاری**
@@ -46,7 +43,6 @@
 - **قابلیت جدید تنظیمات فیلد عددی و لیست عددی**
 
 - **اضافه‌شدن"لیست کشویی چند انتخابی"**
-
 
 #### [چرخه‌کاری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md) 
 
@@ -77,10 +73,7 @@
 
 - **دسته‌بندی پارامترهای هوشمند و اضافه‌شدن امکان جست‌وجو**
 
-
 ### تنظیمات راهبری 
-
----
 
 #### [تنظیمات اولیه سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrimarySettings.md)
 
@@ -102,16 +95,13 @@
 
 - **بهبود مجوزهای حذف سوابق آیتم‌ها**
 
-
 ### مباحث پایه مدیریت ارتباط با مشتریان  
-##
 
 #### [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md) 
 
 - **بهبود عملکرد ورود و ویرایش اطلاعات هویت‌ها از طریق اکسل**
 
 - **بهبود عملکرد تبدیل نوع هویت**
-
 
 #### [فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Forms.md)  
 
@@ -126,7 +116,6 @@
 - **بهبود عملکرد ویجت قرار ملاقات**
 
 - **ذخیره تنظیمات مشاهده‌ی تقویم در تقویم کاری من**
-
 
 #### [لیست آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ItemsList.md)
 
@@ -150,8 +139,6 @@
 
 - **امکان دریافت خروجی اکسل از آیتم‌ها به تعداد حداکثر 10000 مورد**
 
-
-
 ### خرید، فروش و انبار 
 
 #### [انواع فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/FactorsTypes.md)
@@ -159,7 +146,6 @@
 - **امکان تعریف فرمول برای فاکتورها به‌صورت پیشرفته از طریق اکسل**
 
 - **تولتیپ و تغییر اندازه فیلد شماره**
-
 
 #### [قرارداد](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Contracts.md) 
 
@@ -173,13 +159,11 @@
 
 - **تولتیپ و تغییر اندازه فیلد شماره**
 
-
 #### [انبارداری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Stock.md) 
 
 - **عدم امکان تعریف مرحله در تراکنش‌های انبار**
 
 - **تعریف api برای اقلام کالا و قابلیت ارسال اصالت کالا از طریق وب‌سایت**
-
 
 #### [مدیریت لیست قیمت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PriceList.md)
 
@@ -189,20 +173,17 @@
 
 - **امکان افزودن همه محصولات**
 
-
 ### [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
 
 - **افزایش تعداد ارقام فیلد هزینه‌ی برآوردی در فعالیت تبلیغاتی**
 
 - **قابلیت ارسال ایمیل به‌صورت رونوشت و رونوشت مخفی (CC, BCC)**
 
-
 ### گزارشات 
 
 #### [گزارشات سیستمی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/SystematicReports.md) 
 
 - **تغییر رفتار نمایش لیست محصولات در گزارش کاردکس انبار**
-
 
 #### [گزارش‌ساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReportBuilder.md) 
 
@@ -220,7 +201,6 @@
 
 - **امکان تغییر نام پارامتر در فیلتر گزارش‌ساز**
 
-
 ### [نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md) 
 
 - **آیتم وظیفه**
@@ -230,7 +210,6 @@
 - **کارتابل‌ها**
 
 - **یادآوری‌های سیستمی**
-
 
 ### پیوست‌ها 
 
@@ -244,7 +223,6 @@
 
 - **مجوزهای موردنیاز برای ورود اطلاعات از طریق اکسل**
 
-
 #### [پیوست 2 - ورود اطلاعات برخی سوابق از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment2.md) 
 
 - **توضیحات مشترک برای ورود اطلاعات موجودیت‌ها**
@@ -254,7 +232,6 @@
 - **ورود اطلاعات قراردادها از طریق اکسل**
 
 - **ورود اطلاعات دریافت / پرداخت از طریق اکسل**
-
 
 #### [پیوست 3 - ورود اطلاعات لیست قیمت‌ها از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment3.md)
 
@@ -266,7 +243,6 @@
 
 - **مجوز موردنیاز برای ورود اطلاعات لیست قیمت‌ها**
 
-
 #### [پیوست 4 - ورود اطلاعات کاربران از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment4.md) 
 
 - **فرمت ورود اطلاعات کاربران**
@@ -276,7 +252,3 @@
 - **نکات مربوط به ورود اطلاعات کاربران از طریق اکسل**
 
 - **مجوزهای موردنیاز برای ایجاد کاربر**
-
-
-
-
