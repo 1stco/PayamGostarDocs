@@ -1,8 +1,8 @@
-## لیست تغییرات نسخه 2.6.0
+# لیست تغییرات نسخه 2.6.0
 
-### صفحه اصلی 
+## صفحه اصلی 
 
-#### [خانه](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Home.md) 
+### [خانه](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Home.md) 
 
 - **تغییرات مسیر دسترسی منو نرم‌افزار**
 
@@ -10,19 +10,19 @@
 
 - **تب جدید اپ سنتر در منو نرم‌افزار**
 
-#### [ویجت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Widgets.md)
+### [ویجت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Widgets.md)
 
 - **بهبود ویجت جست‌وجوی پیشرفته**
 
-#### [نظرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Comments.md) 
+### [نظرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Comments.md) 
 
 - **تغییر در تنظیمات ارسال نظر با Enter**
 
 - **امکان ذکر سمت‌ها در ثبت نظرات**
 
-### شخصی‌سازی و مدیریت فرآیندها
+## شخصی‌سازی و مدیریت فرآیندها
 
-#### [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Customize.md)
+### [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Customize.md)
 
 - **اضافه‌شدن ویژگی تغییر در مقدار نهایی الگوی شماره‌گذاری**
 
@@ -44,7 +44,7 @@
 
 - **اضافه‌شدن"لیست کشویی چند انتخابی"**
 
-#### [چرخه‌کاری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md) 
+### [چرخه‌کاری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md) 
 
 - **قابلیت استفاده از فیلدهای رسید و حواله انبار در فعالیت ارسال فکس**
 
@@ -63,7 +63,7 @@
 - **انتخاب مسئول کارتابل**
 
 
-#### [قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrintFormat.md) 
+### [قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrintFormat.md) 
 
 - **امکان اشتراک‌گذاری قالب چاپ آیتم‌ها**
 
@@ -73,9 +73,9 @@
 
 - **دسته‌بندی پارامترهای هوشمند و اضافه‌شدن امکان جست‌وجو**
 
-### تنظیمات راهبری 
+## تنظیمات راهبری 
 
-#### [تنظیمات اولیه سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrimarySettings.md)
+### [تنظیمات اولیه سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PrimarySettings.md)
 
 - **اضافه‌شدن تنظیمات ارز به نرم‌افزار**
 
@@ -87,7 +87,7 @@
 
 - **قابلیت فیلتر گروه در مدیریت گروه‌ها و کاربران**
 
-#### [مجوزها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Permits.md) 
+### [مجوزها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Permits.md) 
 
 - **نمایش منو بر اساس مجوز‌ها**
 
@@ -95,19 +95,19 @@
 
 - **بهبود مجوزهای حذف سوابق آیتم‌ها**
 
-### مباحث پایه مدیریت ارتباط با مشتریان  
+## مباحث پایه مدیریت ارتباط با مشتریان  
 
-#### [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md) 
+### [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md) 
 
 - **بهبود عملکرد ورود و ویرایش اطلاعات هویت‌ها از طریق اکسل**
 
 - **بهبود عملکرد تبدیل نوع هویت**
 
-#### [فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Forms.md)  
+### [فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Forms.md)  
 
 - **امکان ورود و ویرایش اطلاعات فرم‌ها از طریق اکسل**
 
-#### [قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/apointment.md) 
+### [قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/apointment.md) 
 
 - **اضافه‌شدن پارامترهای زمان شروع و پایان در پیام‌های سیستمی**
 
@@ -117,7 +117,7 @@
 
 - **ذخیره تنظیمات مشاهده‌ی تقویم در تقویم کاری من**
 
-#### [لیست آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ItemsList.md)
+### [لیست آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ItemsList.md)
 
 - **اضافه‌شدن امکان فیلتر به‌صورت بازه‌ای برای فیلدهای پول و عدد**
 
@@ -139,33 +139,33 @@
 
 - **امکان دریافت خروجی اکسل از آیتم‌ها به تعداد حداکثر 10000 مورد**
 
-### خرید، فروش و انبار 
+## خرید، فروش و انبار 
 
-#### [انواع فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/FactorsTypes.md)
+### [انواع فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/FactorsTypes.md)
 
 - **امکان تعریف فرمول برای فاکتورها به‌صورت پیشرفته از طریق اکسل**
 
 - **تولتیپ و تغییر اندازه فیلد شماره**
 
-#### [قرارداد](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Contracts.md) 
+### [قرارداد](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Contracts.md) 
 
 - **امکان ورود و ویرایش اطلاعات قراردادها از طریق اکسل**
 
 - **تولتیپ و تغییر اندازه فیلد شماره**
 
-#### [دریافت و پرداخت](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReceivingPayment.md) 
+### [دریافت و پرداخت](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReceivingPayment.md) 
 
 - **امکان ورود و ویرایش اطلاعات دریافت / پرداخت از طریق اکسل**
 
 - **تولتیپ و تغییر اندازه فیلد شماره**
 
-#### [انبارداری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Stock.md) 
+### [انبارداری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Stock.md) 
 
 - **عدم امکان تعریف مرحله در تراکنش‌های انبار**
 
 - **تعریف api برای اقلام کالا و قابلیت ارسال اصالت کالا از طریق وب‌سایت**
 
-#### [مدیریت لیست قیمت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PriceList.md)
+### [مدیریت لیست قیمت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/PriceList.md)
 
 - **دریافت خروجی، ورود و ویرایش اطلاعات لیست قیمت‌ها از طریق اکسل**
 
@@ -173,19 +173,19 @@
 
 - **امکان افزودن همه محصولات**
 
-### [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
+## [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
 
 - **افزایش تعداد ارقام فیلد هزینه‌ی برآوردی در فعالیت تبلیغاتی**
 
 - **قابلیت ارسال ایمیل به‌صورت رونوشت و رونوشت مخفی (CC, BCC)**
 
-### گزارشات 
+## گزارشات 
 
-#### [گزارشات سیستمی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/SystematicReports.md) 
+### [گزارشات سیستمی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/SystematicReports.md) 
 
 - **تغییر رفتار نمایش لیست محصولات در گزارش کاردکس انبار**
 
-#### [گزارش‌ساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReportBuilder.md) 
+### [گزارش‌ساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReportBuilder.md) 
 
 - **اضافه‌شدن جدول‌های جدید به بخش کوئری‌ساز**
 
@@ -201,7 +201,7 @@
 
 - **امکان تغییر نام پارامتر در فیلتر گزارش‌ساز**
 
-### [نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md) 
+## [نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md) 
 
 - **آیتم وظیفه**
 
@@ -211,9 +211,9 @@
 
 - **یادآوری‌های سیستمی**
 
-### پیوست‌ها 
+## پیوست‌ها 
 
-#### [پیوست 1 - ورورد اطلاعات هویت از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment1.md)
+### [پیوست 1 - ورورد اطلاعات هویت از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment1.md)
 
 - **فرمت صحیح ورود اطلاعات از طریق اکسل**
 
@@ -223,7 +223,7 @@
 
 - **مجوزهای موردنیاز برای ورود اطلاعات از طریق اکسل**
 
-#### [پیوست 2 - ورود اطلاعات برخی سوابق از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment2.md) 
+### [پیوست 2 - ورود اطلاعات برخی سوابق از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment2.md) 
 
 - **توضیحات مشترک برای ورود اطلاعات موجودیت‌ها**
 
@@ -233,7 +233,7 @@
 
 - **ورود اطلاعات دریافت / پرداخت از طریق اکسل**
 
-#### [پیوست 3 - ورود اطلاعات لیست قیمت‌ها از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment3.md)
+### [پیوست 3 - ورود اطلاعات لیست قیمت‌ها از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment3.md)
 
 - **فرمت ورود اطلاعات لیست قیمت‌ها**
 
@@ -243,7 +243,7 @@
 
 - **مجوز موردنیاز برای ورود اطلاعات لیست قیمت‌ها**
 
-#### [پیوست 4 - ورود اطلاعات کاربران از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment4.md) 
+### [پیوست 4 - ورود اطلاعات کاربران از طریق اکسل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Attachment4.md) 
 
 - **فرمت ورود اطلاعات کاربران**
 
