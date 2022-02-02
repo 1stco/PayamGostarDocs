@@ -1,4 +1,4 @@
-﻿## اطلاعات پایه
+# اطلاعات پایه
 
 [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)
 

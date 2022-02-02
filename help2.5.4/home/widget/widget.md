@@ -1,41 +1,41 @@
-﻿## تعریف ویجت‌
+# تعریف ویجت‌
 
 ویجت‌ها جهت دسترسی سریع‌تر به برخی از قسمت‌های نرم افزار می‌توانند مورد استفاده قرار گیرند، همچنین برخی از ویجت‌ها مانند اعلان عمومی و قاب وب امکاناتی در اختیارتان قرار می‌دهند که صرفاً از طریق ویجت قابل انجام است.  هر کاربر بنا بر نیاز می‌تواند ویجت‌های مورد نظر خود را به صفحه اصلی کاربری خود در نرم افزار اضافه نماید.
 
 ![](widget.png)
 
-انواع ویجت‌های پیام گستر به شرح زیر می‌باشند:
+### انواع ویجت‌های پیام گستر به شرح زیر می‌باشند:
 
-[جستجوی پیشرفته](Advanced-search%2FAdvanced-search.md)
+[جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Advanced-search/Advanced-search.md)
 
-[کارتابل](Cardboard%2FCardboard.md)
+[کارتابل](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Cardboard/Cardboard.md)
 
-[وضعیت کارتابل](Cartel-tatus%2FCartel-tatus.md)
+[وضعیت کارتابل](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Cartel-tatus/Cartel-tatus.md)
 
-[دسترسی سریع](quick-access%2Fquick-access.md)
+[دسترسی سریع](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/quick-access/quick-access.md)
 
-[قرار ملاقات](Meeting-widget%2FMeeting-widget.md)
+[قرار ملاقات](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Meeting-widget/Meeting-widget.md)
 
-[آخرین تماس ها](Last-calls%2FLast-calls.md)
+[آخرین تماس ها](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Last-calls/Last-calls.md)
 
-[اعلان عمومی](Public-announcement%2FPublic-announcement.md)
+[اعلان عمومی](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Public-announcement/Public-announcement.md)
 
-[قاب وب](Web-frame%2FWeb-frame.md)
+[قاب وب](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Web-frame/Web-frame.md)
 
-[نظرات](Comments%2FComments.md)
+[نظرات](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Comments/Comments.md)
 
-[فعالیت های من](My-activities%2FMy-activities.md)
+[فعالیت های من](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/My-activities/My-activities.md)
 
-[آخرین فعالیت](The-latest-activity%2FThe-latest-activity.md)
+[آخرین فعالیت](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/The-latest-activity/The-latest-activity.md)
 
-[ساعت](watch%2Fwatch.md)
+[ساعت](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/watch/watch.md)
 
-[تقویم](Calendar%2FCalendar.md)
+[تقویم](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Calendar/Calendar.md)
 
-[پیگیری های امروز](Follow-up-today%2FFollow-up-today.md)
+[پیگیری های امروز](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Follow-up-today/Follow-up-today.md)
 
-[یادآوری های سیستم](System-reminders%2FSystem-reminders.md)
+[یادآوری های سیستم](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/System-reminders/System-reminders.md)
 
-[چارت](Chart%2FChart.md)
+[چارت](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Chart/Chart.md)
 
-[محتوایHTML](Html-content%2FHtml-content.md)
+[محتوایHTML](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/home/widget/Html-content/Html-content.md)

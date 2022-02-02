@@ -1,6 +1,4 @@
-﻿## مدیریت کشورها،استان‌هاو شهرها
-
-
+# مدیریت کشورها،استان‌هاو شهرها
 
 از طریق این صفحه می توانید کشورها، شهرها و استان هایی که در آدرس[ مشخصات عمومی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/General-specifications/General-specifications.md)مخاطبان وارد می کنید را به دلخواه و به راحتی مدیریت نمایید.
 
