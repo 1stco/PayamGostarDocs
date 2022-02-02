@@ -10,6 +10,8 @@
 
 - **تب جدید اپ سنتر در منو نرم‌افزار**
 
+
+
 ### [ویجت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Widgets.md)
 
 - **بهبود ویجت جست‌وجوی پیشرفته**
