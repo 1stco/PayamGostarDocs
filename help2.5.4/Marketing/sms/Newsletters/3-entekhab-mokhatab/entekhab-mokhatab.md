@@ -1,6 +1,4 @@
-## گام 3 -  مدیریت مخاطبان خبرنامه پیامک 
-
-
+# گام 3 -  مدیریت مخاطبان خبرنامه پیامک 
 
 در قسمت [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-se/select-Audience.md) ارسال گروهی پیام کوتاه توضیح داده شده است.
 

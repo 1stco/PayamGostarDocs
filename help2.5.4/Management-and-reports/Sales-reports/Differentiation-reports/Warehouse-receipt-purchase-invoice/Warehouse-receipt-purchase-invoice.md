@@ -1,6 +1,4 @@
-## گزارش افتراق رسید انبار و فاکتور خرید
-
-
+# گزارش افتراق رسید انبار و فاکتور خرید
 
 در این قسمت لیست رسید هایی که همه یا تعدادی از اقلام موجود در آن ها از طریق[ قیمت گذاری ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Store/gheymatgozari-etesal/gheymatgozari.md)به هیچ فاکتور خرید یا حواله مرجوعی وصل نشده است را می توانید مشاهده کنید.
 

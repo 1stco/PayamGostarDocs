@@ -1,12 +1,10 @@
-﻿## مدیریت ارسال گروهی
-
-
+# مدیریت ارسال گروهی
 
 با استفاده از این قابلیت امکان چاپ بصورت گروهی برای مخاطبان فراهم می گردد .
 
 چاپ به دو صورت امکان پذیر است. چاپ صفحه ای و چاپ چندتایی در یک صفحه.
 
-نکته: برای تنظیمات چاپ به قسمت پرینتر در[ تنظیمات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/printer/printer.md) مراجعه کنید.
+> نکته: برای تنظیمات چاپ به قسمت پرینتر در[ تنظیمات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/printer/printer.md) مراجعه کنید.
 
 از چاپ چندتایی در یک صفحه، برای مواردی مانند چاپ lable استفاده می شود.
 

@@ -1,4 +1,4 @@
-﻿## محاسبه پورسانت
+# محاسبه پورسانت
 
  
 [پورسانت محصول محور](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Payroll-calculation/Product-centric-commission/Product-centric-commission.md)

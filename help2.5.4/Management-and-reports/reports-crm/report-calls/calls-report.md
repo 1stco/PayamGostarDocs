@@ -1,6 +1,6 @@
-﻿## تماس ها 
+# تماس ها 
 
- این دسته از گزارشات، شامل گزارشاتی بر روی تماس های دریافتی، از دست رفته و گرفته شده بر روی کال سنتر تنظیم شده بر روی نرم افزار هستند. ل
+ این دسته از گزارشات، شامل گزارشاتی بر روی تماس های دریافتی، از دست رفته و گرفته شده بر روی کال سنتر تنظیم شده بر روی نرم افزار هستند.
 
 [اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)
 

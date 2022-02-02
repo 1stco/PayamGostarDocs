@@ -1,6 +1,6 @@
-﻿## جزئیات عملکرد
+# جزئیات عملکرد
 
-> نکته : برای دریافت گزارش های این بخش دارا بودن مجوز مدیر مالی و یا مدیر فروش الزامی میباشد.
+> نکته: برای دریافت گزارش های این بخش دارا بودن مجوز مدیر مالی و یا مدیر فروش الزامی میباشد.
 
 [جزئیات فروش](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Sales-details/Sales-details.md)
 

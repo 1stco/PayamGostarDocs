@@ -1,4 +1,4 @@
-﻿## مجموع عملکرد
+# مجموع عملکرد
 
 [مجموع فروش](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Total-performance/Total-sales/Total-sales.md)
 
