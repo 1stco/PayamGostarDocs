@@ -1,8 +1,8 @@
-﻿##  ایجاد دریافت - پرداخت جدید 
+#  ایجاد دریافت - پرداخت جدید 
 
 با استفاده از این آیتم می توانید دریافت های نقدی، چکی یا اعتباری مرتبط با مشتریان خود را ثبت نمایید.
 
-> نکته مهم: ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
+> **نکته مهم:** ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
 
 ![](11.jpg)
 
