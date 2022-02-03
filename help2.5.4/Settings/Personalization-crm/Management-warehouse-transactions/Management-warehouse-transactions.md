@@ -1,4 +1,4 @@
-﻿## تنظیمات اختصاصی تراکنش های انبار
+# تنظیمات اختصاصی تراکنش های انبار
 
 در صورت دارا بودن ماژول سیستم انبارداری، از این قسمت می توانید تنظیمات مرتبط با حواله ها و رسید های انبار را انجام دهید.
 
@@ -8,7 +8,7 @@
 
 ![](Warehousedraftmanagement1.jpg)
 
-تنظیمات مشترک تراکنش های انبار به صورت زیر می باشد:
+### تنظیمات مشترک تراکنش های انبار به صورت زیر می باشد:
 
 > نکته: لطفا ابتدا [ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)  را در این خصوص مطالعه فرمایید.
 
