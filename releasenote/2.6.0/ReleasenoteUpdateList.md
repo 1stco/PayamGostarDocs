@@ -4,6 +4,8 @@
 
 ### [خانه](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Home.md) 
 
+این تغییرات مربوط به صفحه اصلی نرم افزار می‌باشد
+
 - **تغییرات مسیر دسترسی منو نرم‌افزار**
 
 - **تغییر رنگ آیتم‌ها در کارتابل**
@@ -23,6 +25,7 @@
 - **امکان ذکر سمت‌ها در ثبت نظرات**
 
 ## شخصی‌سازی و مدیریت فرآیندها
+
 
 ### [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Customize.md)
 
