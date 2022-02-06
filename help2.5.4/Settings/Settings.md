@@ -1,6 +1,6 @@
-﻿## تنظیمات
+# تنظیمات
 
-منوهای تنظیمات نرم افزار به شرح زیر است:
+### منوهای تنظیمات نرم افزار به شرح زیر است:
 
 [مدیریت گروه ها و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md)
 
@@ -23,6 +23,3 @@
 [تنظیمات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/general-settings.md)
 
 [لیست رویدادها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/List-of-events/list-of-events.md)
-
-
-   

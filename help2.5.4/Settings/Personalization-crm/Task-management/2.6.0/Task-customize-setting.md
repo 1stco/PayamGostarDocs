@@ -1,11 +1,11 @@
-## شخصی سازی وظیفه‌ها
+# شخصی سازی وظیفه‌ها
 
 در صفحه شخصی سازی وظیفه‌ها می‌توانید وظیفه جدیدی را تنظیم و وظیفه‌های ساخته شده را ویرایش نمایید.
  
  لطفا ابتدا قسمت[ اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
 
 
-#### وظیفه جدید
+## وظیفه جدید
 
 ![](1.png)
 

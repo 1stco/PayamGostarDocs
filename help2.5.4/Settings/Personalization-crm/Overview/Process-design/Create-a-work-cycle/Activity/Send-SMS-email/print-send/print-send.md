@@ -1,6 +1,4 @@
-﻿## فعالیت چاپ
-
-
+# فعالیت چاپ
 
 لطفا ابتدا قسمت[   ارسال پیامک-ایمیل-فکس-چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/Send%20SMS%2C%20email.md)را مطالعه کنید.
 
@@ -13,6 +11,6 @@
 
 ![](SendPrint2.png)
 
-نکته: در صورتی که گزینه SpecificContent را انتخاب کنید، باید متن ارسالی را از طریق ابزار WebClientTool تنظیم کنید. برای اطلاع در خصوص تنظیم محتوای یک چاپ به قسمت تنظیم متن مراجعه کنید.
+> نکته: در صورتی که گزینه SpecificContent را انتخاب کنید، باید متن ارسالی را از طریق ابزار WebClientTool تنظیم کنید. برای اطلاع در خصوص تنظیم محتوای یک چاپ به قسمت تنظیم متن مراجعه کنید.
 
 ![](SendPrint2.png)
