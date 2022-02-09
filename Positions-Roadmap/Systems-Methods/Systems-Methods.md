@@ -64,7 +64,7 @@
 
 
 کار اصلی کارشناس سیستم ها و روش ها، طراحی و  پیاده سازی فرآیندهای سازمان و نظارت بر اجرای درست آن می باشد.
-برای این کار، می بایست ابتدا با [مفاهیم فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#)، [اجزای فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#) و [مراحل ایجاد فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#) آشنا باشد. سپس با استفاده از ابزار طراحی پیام¬گستر، فرآیند خود را طراحی کند.
+برای این کار، می بایست ابتدا با [مفاهیم فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#)، [اجزای فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#) و [مراحل ایجاد فرآیند](http://septadocs.1st.co.com/payamgostar/documents/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C?selectedId=a1dbe416-b043-4d85-f5f7-08d7db063b50&menuItemType=2#) آشنا باشد. سپس با استفاده از ابزار طراحی پیام‌گستر، فرآیند خود را طراحی کند.
 
 کارشناس مربوطه، با توجه به استراتژی و و نیاز های سازمان، فرآیند خود را با استفاده از ابزارهای کارتابل، اقدام و فعالیت ها پیاده سازی می کند.
 
