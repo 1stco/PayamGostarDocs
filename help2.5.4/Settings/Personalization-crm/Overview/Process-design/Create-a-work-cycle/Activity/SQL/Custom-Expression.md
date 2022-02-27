@@ -77,100 +77,99 @@ Expression موردنظر باید به‌صورت ; (Expression)@   در فعا
 
 #### مثال 1:
 
-	; (this.Select(Subject))@
+	@(this.Select(Subject));
 
 با این دستور مقدار عنوان آیتم جاری (آیتم تحت فرایند) برگردانده می‌شود.
 
 #### مثال 2:
 
-	; (this.Identity.Select(Email))@
+	@(this.Identity.Select(Email));
 
 با این دستور فیلد ایمیل هویت مرتبط با آیتم جاری (آیتم تحت فرایند) برگردانده می‌شود.
 
 #### مثال 3:
 
-	; (this.Identity.Select(pphali))@
+	@(this.Identity.Select(pphali));
 
 با این دستور مقدار فیلد اضافه‌ای با کلید pphali که در هویت مرتبط با آیتم جاری موجود می‌باشد برگردانده می‌شود.
 
 #### مثال 4:
 
-	; (this.frmk.Form.Select(customerno))@
+	@(this.frmk.Form.Select(customerno));
 
 طبق این مثال در موجودیت فعلی فیلد اضافه‌ای با کلید frmk  از نوع "فرم" وجود دارد که این فرم نیز دارای فیلد اضافه‌ای با کلید customerno می‌باشد و مقدار این فیلد از طریق دستور فوق برگردانده می‌شود.
 
 > **نکته:** درصورتی‌که فیلد مربوطه از نوع "آیتم‌های CRM " باشد، باید نوع آیتم نیز بعد از کلید کاربر فیلد نوشته شود.
-> 
 > این دستور را می‌توان به این شکل نیز تعریف کرد: 
-> 
-> 		; (this.Select(frmk.Form.customerno))@
+> 		@(this.Select(frmk.Form.customerno));
 
 #### مثال 5:
 
 
-	; (this.Select(Children.Ticket.EmailAddress))@ 
+	@(this.Select(Children.Ticket.EmailAddress)); 
 
 طبق این مثال در موجودیت فعلی سابقه درخواست پشتیبانی وجود دارد و طبق آن مقدار فیلد آدرس ایمیل از این سابقه برگردانده می‌شود.
 
 این دستور را می‌توان به این شکل نیز نوشت:
 
-	; (this.Children.Select(Ticket.EmailAddress))@
+	@(this.Children.Select(Ticket.EmailAddress));
 
 #### مثال 6:
 
-	; (this.Parent.Select(Opportunity.RealizedValue))@
+	@(this.Parent.Select(Opportunity.RealizedValue));
 
 با این دستور فیلد مبلغ محقق شده فرصت که آیتم جاری (آیتم تحت فرایند) در سابقه آن ثبت شده است، برگردانده می‌شود.
 
 #### مثال 7: 
 
-	; (this.Where(Children.Form.Subject =="فرم دوم" ).Select(Children.Form.polformat))@
+	@(this.Where(Children.Form.Subject =="فرم دوم" ).Select(Children.Form.polformat));
 
 با این دستور مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد برگردانده می‌شود، با این شرط که عنوان فرم "فرم دوم" باشد. 
 
 
 #### مثال 8:
 
-	; (this.Where(Children.Form.number == 99).Select(Children.Form.polformat))@
+	@(this.Where(Children.Form.number == 99).Select(Children.Form.polformat));
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه آیتم جاری وجود دارد مقداردهی می‌شود، با شرط این که در آن فرم فیلدی با کلید number  دارای مقدار 99 باشد.
 
 #### مثال 9:
 
-	; (this.Where(Children.Form.number == 670 || Children.Form.poljoin == 400).Select(Children.Form.polformat))@
+	@(this.Where(Children.Form.number == 670 || Children.Form.poljoin == 400).Select(Children.Form.polformat));
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سوابقی آیتم جاری وجود دارد مقداردهی می‌شود، با این شرط که در آن فرم فیلدی با کلید number دارای مقدار 670 باشد یا فیلدی با کلید poljoin دارای مقدار 400 باشد. 
 #### مثال 10:
 
-	; (this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))@
+	@(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat));
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد مقداردهی می‌شود، با این شرط که در آن فرم فیلدی با کلید npfali دارای مقدار 90  و فیلدی با کلید poljoin دارای مقدار 30 باشد یا فیلدی با کلید numfirst دارای مقدار 18 باشد. 
 
 #### مثال 11: 
 
 
-	; (this.Where(Children.Form.ModifyDate >= Convert.ToDateTime("2020-08-31") && Children.Form.ModifyDate <= Convert.ToDateTime("2020-09-01")).Select(Children.Form.polformat))@
+	@(this.Where(Children.Form.ModifyDate >= Convert.ToDateTime("2020-08-31") && Children.Form.ModifyDate <= Convert.ToDateTime("2020-09-01")).Select(Children.Form.polformat));
 
 
 با این دستور فیلد انتخاب شده با مقدار فیلد اضافه‌ای با کلید polformat که در فرم موجود در سابقه‌ی آیتم جاری وجود دارد مقداردهی می‌شود با این شرط که تاریخ ویرایش این سابقه بزرگ‌تر مساوی "2020-08-31" یا کوچک‌تر مساوی "2020-09-01" باشد.
 
 #### مثال 12:
 
-	; (this.Where(Children.Type.Code == "FR123").Select(Children.Form.polformat))@
+	@(this.Where(Children.Type.Code == "FR123").Select(Children.Form.polformat));
 
 با این دستور فیلدی با کلید polformat که در موجودیتی با کلید FR123 که در سابقه‌ی آیتم جاری وجود دارد، برگردانده می‌شود.
 
-**توجه:** در صورت نیاز به نوشتن اکسپرشن، کلید فیلدها و موجودیت‌ها در نرم‌افزار می‌بایست یکتا باشند. 
+> **توجه:** در صورت نیاز به نوشتن اکسپرشن، کلید فیلدها و موجودیت‌ها در نرم‌افزار می‌بایست یکتا باشند. 
+
 
 #### مثال 13:
 
-	; (this.Where(Children.Invoice.BillableObjectTypeindex == 8).Select(Children.Invoice.FinalValue))@
+	@(this.Where(Children.Invoice.BillableObjectTypeindex == 8).Select(Children.Invoice.FinalValue));
 
 با این دستور فیلد مبلغ نهایی فاکتور برگشت از فروش که در سابقه آیتم جاری وجود دارد، برگردانده می‌شود.
 
 #### مثال 14:
 
-	; (this.Where(Children.Invoice.BillableObjectTypeindex == 7).Select(Children.Invoice.FinalValue))@
+	@(this.Where(Children.Invoice.BillableObjectTypeindex == 7).Select(Children.Invoice.FinalValue));
 
 با این دستور فیلد مبلغ نهایی فاکتور برگشت از خرید که در سابقه آیتم جاری وجود دارد، برگردانده می‌شود.
 
