@@ -1,6 +1,4 @@
-# فکس 
-
- درصورت نیاز می توان از لیست بالا، خروجی اکسل دریافت نمود.
+# لیست فکس‌ها  
 
  > نکته: لطفا ابتدا قسمت[ اطلاعات مشترک ابزارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md)را مطالعه کنید.
 
