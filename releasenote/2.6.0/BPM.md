@@ -6,13 +6,12 @@
 
 ## اضافه‌شدن فعالیت اجرای دستورات پایگاه‌داده
 
-با استفاده از فعالیت اجرای دستورات پایگاه‌داده می‎توان از طریق تعریف Expression تبادل اطلاعات را بین پیام‌گستر و دیتابیس‌های دیگری انجام داد. لازم به ذکر است برای استفاده از این فعالیت، می‌بایستت ماژول "امکانات پیشرفته bpms" فعال باشد.
-برای مطالعه راهنمای استفاده از این فعالیت به پیوست شماره 5 مراجعه کنید. 
-
+با استفاده از فعالیت اجرای دستورات پایگاه‌داده می‎توان از طریق [تعریف Expression](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom-Expression.md) تبادل اطلاعات را بین پیام‌گستر و دیتابیس‌های دیگری انجام داد. لازم به ذکر است برای استفاده از این فعالیت، می‌بایست ماژول "امکانات پیشرفته bpms" فعال باشد.
+راهنمای کامل در بخش [فعالیت اجرای دستورات پایگاه داده](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Data-Base/Data-Base.md) شرح داده شده است.
 ## امکان استفاده از Expression در فعالیت تخصیص مقدار و چند شرطی
 
 با اضافه‌شدن قابلیت تعریف Expression در فعالیت‌های تخصیص مقدار و چند شرطی می‌توان اطلاعات موردنیاز را از پیام‌گستر دریافت کرده و در خروجی دلخواه در نرم‌افزار مشاهده کرد. لازم به ذکر است برای استفاده از این قابلیت، می¬بایست ماژول "امکانات پیشرفته bpms" فعال باشد.
-برای مطالعه‌ی راهنمای استفاده از این فعالیت‌ها به فایل پیوست 6 و 7 مراجعه کنید. 
+برای مطالعه‌ی راهنمای استفاده از این فعالیت‌ها به بخش‌های [فعالیت تخصیص مقدار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Allocate-the-amount/2.6.0/Allocate-the-amount.md) و [فعالیت چند شرطی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Conditional-decision/Conditional-decision.md) مراجعه کنید. 
 
 همچنین برای مطالعه‌ی راهنمای تعریف Expression به بخش پیوست 4 مراجعه کنید.
 
