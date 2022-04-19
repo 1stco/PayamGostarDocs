@@ -1,6 +1,6 @@
 # ویجت چارت  
 
-با استفاده از این ویجت، کارشناسان فروش می‌توانند چارت فرصت فروش‌های باز که باید پیگیری کنند را به تفکیک مرحله‌ی آن‌ها مشاهده کنند و یا لیست سرنخ‌هایی که نیاز به پیگیری دارند را مشاهده کنند.
+با استفاده از این ویجت، کارشناسان فروش می‌توانند چارت [فرصت فروش‌های باز](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Opportunities/Opportunities.md) که باید پیگیری کنند را به تفکیک مرحله‌ی آن‌ها مشاهده کنند و یا [لیست سرنخ‌](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Customer-relationship-management/My-clues/My-clues.md)هایی که نیاز به پیگیری دارند را مشاهده کنند.
 
 ![](Chart1.jpg)
 

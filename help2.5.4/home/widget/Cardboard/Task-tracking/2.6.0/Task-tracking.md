@@ -1,6 +1,6 @@
 #  کارتابل رسیدگی به وظایف و پیگیری 
 
-از این قسمت می‌توانید تمام وظایف و پیگیری‌هایی که برای خود ثبت کرده اید، وظایفی که دیگران به شما ارجاع داده اند و وظایفی که شما به کاربران دیگر ارجاع داده اید را مشاهده نمایید .
+از این قسمت می‌توانید تمام [وظایف](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/New-task/New-task.md) و [پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md)‌هایی که برای خود ثبت کرده اید، وظایفی که دیگران به شما ارجاع داده اند و وظایفی که شما به کاربران دیگر ارجاع داده اید را مشاهده نمایید .
 
 ## حالت نمایش وظیفه‌ها:
 

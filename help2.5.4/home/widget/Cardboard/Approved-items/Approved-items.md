@@ -1,6 +1,6 @@
 # تایید و شماره گذاری آیتم‌های مالی
  
- کارتابل آیتم‌های فروش و مالی، این کارتابل ها عبارتند از: کارتابل پیش فاکتورها، فاکتورها، فاکتورهای برگشتی، دریافت ها،پرداخت ها و قراردادها که نیاز به تایید ویا شماره گذاری توسط کاربر دارای مجوز دارند.
+ کارتابل آیتم‌های فروش و مالی، این کارتابل ها عبارتند از: کارتابل [پیش فاکتورها، فاکتورها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/Pre-invoice-new-invoice/Pre-invoice-new-invoice.md)، [فاکتورهای برگشتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/Return-invoice-from-sales/Return-invoice-from-sales.md)، [دریافت‌ها، پرداخت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/Get-new/Get-new.md) و [قراردادها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/New-contract/New-contract.md) که نیاز به تایید ویا شماره گذاری توسط کاربر دارای مجوز دارند.
 
 در صورتی که از قسمت [تنظیمات، شخصی سازی](https://github.com/1stco/PayamGostarDocs/tree/master/help%202.5.4/Settings/Personalization-crm/Factor-management/Factor-management.md) CRM ، تیک مربوط به نیاز به تایید یا نیاز به شماره گذاری هر کدام از این آیتم ها را انتخاب نموده باشید، بعد از صدور هر کدام از این آیتم ها توسط کارشناسان به تایید/شماره گذاری نیاز خواهند داشت. کاربر دارای مجوز تایید یا شماره گذاری آن آیتم شخصی است که می تواند از طریق این صفحه کلیه آیتم های صادر شده را مشاهده، بررسی و تایید و یا شماره گذاری و یا رد نماید.
 
