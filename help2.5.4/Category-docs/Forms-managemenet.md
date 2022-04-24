@@ -7,7 +7,7 @@
 
 -  	تنظیمات اختصاصی فرم‌ها
 
-در صفحه‌ی شخصی‌سازی [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system-items/Shared-information-of-system-items.md) و [اختصاصی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Form-management/2.6.0/Form-customize-setting.md) می‌توانید باتوجه‌به نیاز سازمان اقدام به طراحی فرم‌های دلخواه کنید.
+در صفحه‌ی [شخصی‌سازی](https://help.payamgostar.com/docs/Customization) می‌توانید باتوجه‌به نیاز سازمان اقدام به طراحی فرم‌های دلخواه کنید.
 
 
 
