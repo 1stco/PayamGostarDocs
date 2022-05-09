@@ -80,4 +80,4 @@
 
 [د – پیشنهاد ما](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/Advertising-analysis-chart/advertising-oursuggestion/advertising-oursuggestion.md)
 
-
+> **نکته:** در صورتی می‌توان نتایج برنامه‌های تبلیغاتی را مشاهده کرد که یا کاربر ایجاد کننده یک برنامه تبلیغاتی باشد یا مجوز مشاهده لیست برنامه‌های تبلیغاتی را داشته باشد. 
