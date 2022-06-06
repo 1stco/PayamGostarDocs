@@ -224,9 +224,3 @@
 ## [همگام‌ساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Sync.md)
 
 - **شخصی‌سازی کردن نمایش مانده‌حساب در باشگاه مشتریان**
-**
-**
-
-**
-
-**
