@@ -1,4 +1,4 @@
-# شرح تغییرات نسخه 2.6.0
+# فهرست کامل تغییرات نسخه 2.6.0
 
 ## [قابلیت‌های عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General%20features.md)
 
