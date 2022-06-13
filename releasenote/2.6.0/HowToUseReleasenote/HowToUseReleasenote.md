@@ -6,11 +6,11 @@
 
 
 - [جدیدترین قابلیت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/LatestFeatures/LatestFeatures.md)
-- 
-- 
+
+
 به دلیل بهبود پیوسته نرم‌افزار، این امکان وجود دارد که یک نسخه چندین مرحله به روز‌رسانی شود (در شماره سریال های مختلف مثلا 2.6.0:3046) که لیست قابلیت‌های اضافه شده به نسخه فعلی با تاریخ انتظار در بخش ["جدیدترین قابلیت‌ها"](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/LatestFeatures/LatestFeatures.md) ثبت می‌شود. این بخش به ازای هر نسخه جدید، به روز رسانی خواهد شد. علاوه بر این شما در قسمت Update Center موجود در سرور نرم‌افزار خود می‌توانید لیست تغییرات جدید را مطالعه نمایید.
  
-- **[فهرست کامل تغییرات نسخه 2.6.0](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReleasenoteUpdateList.md)**
+- [فهرست کامل تغییرات نسخه 2.6.0](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ReleasenoteUpdateList.md)
 
 
 نحوه دسته‌بندی این فهرست بر اساس قابلیت‌های کلی نرم‌افزار می‌باشد. این منو به شما کمک می‌کند که بتوانید تمام تغییرات مربوط به هر بخش از نرم‌فزار را در به طور خلاصه مطالعه نمایید. به عنوان مثال شما می‌خواهید لیست قابلیت‌های اضافه شده در بخش فروش را مطالعه کنید در این شرایط فهرست موجود به شما کمک خواهد کرد.
