@@ -5,7 +5,7 @@
 لطفاابتدا [اطلاعات مشترک بین ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md) را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید.
 
 
- گام 1- [اطلاعات مسابقه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/survey/1-avalie-nazarsanji/avalie-nazarsanji.md)
+ گام 1- [اطلاعات نظرسنجی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/survey/1-avalie-nazarsanji/avalie-nazarsanji.md)
 
 گام 2-  [نحوه اجرا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/survey/2-nahveajra-nazaesanji/2-nahve-ejra-nazarsanji.md)
 
