@@ -19,7 +19,7 @@
 - [کارتابل کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable/usercartable.md)    
     نمایش و مدیریت آیتم‌هایی که به کارتابل کاربر وارد می‌شود در این ورژن به روزرسانی شده و ویژگی‌های جدید را می‌توانید در این قسمت مطالعه نمایید.
 
-- [راهبری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Leadership/Leadership.md)    	
+- [راهبری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Leadership/Leadership.md)    
     در این نسخه بخش دسترسی کاربران، حکم پرسنلی و دیگر بخش‌های تنظیمات سیستم تغییرات عمده‌ای داشته که به طور کامل جزئیات آن ذکر شده است.
 
 - [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/CustomizeItems.md)   	
