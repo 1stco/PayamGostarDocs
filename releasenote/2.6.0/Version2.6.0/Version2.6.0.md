@@ -22,17 +22,17 @@
 - [راهبری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Leadership/Leadership.md)    
     در این نسخه بخش دسترسی کاربران، حکم پرسنلی و دیگر بخش‌های تنظیمات سیستم تغییرات عمده‌ای داشته که به طور کامل جزئیات آن ذکر شده است.
 
-- [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/CustomizeItems.md)   	
+- [شخصی‌سازی آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/CustomizeItems.md)    
     تمامی تغییرات مربوط به شخصی‌سازی آیتم‌ها از جمله الگوی شماره‌گذاری، قالب چاپ و تنظیمات مربوط به هر آیتم، به طور کامل توضیح داده شده است.
 
-- [فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md)   	
+- [فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md)    
     لیست فعالیت‌های سیستمی جدیدی که به بخش BPMS اضافه شده، تغییرات ایجاد شده در تنظیمات کارتابل فرآیند و پیاده‌سازی فرآیندها در این بخش به طور کامل شرح داده شده است.
 
-- [گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Reports/Reports.md)    	
+- [گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Reports/Reports.md)    
     گزارشات در پیام‌گستر در دو بخش گزارشات سیستم و گزارش‌ساز در نسخه جدید با تغییراتی همراه بوده است که لیست ویژگی‌های اضافه شده را می‌توانید در این بخش مطالعه نمایید.
 
-- [همگامساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Sync.md)    	
+- [همگامساز](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Sync.md)    
     پنل همگامساز پیام‌گستر و اطلاعاتی که طی بین CRM و نرم‌افزارهای مالی منتقل می‌شود به روزرسانی شده و با مطالعه فهرست ویژگی‌های جدید می‌توانید سناریو سینک آیتم‌های مالی و هویت‌های خود را بهبود بخشید.
 
-- [موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)    	
+- [موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)    
     اپلیکیشن موبایل پیام‌گستر در این نسخه در دو بعد Back End و UI تغییرات عمده‌ای داشته است که لیست تمامی موارد در این بخش شرح داده شده است.
