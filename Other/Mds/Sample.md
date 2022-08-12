@@ -5,7 +5,6 @@ Block Quotes sample:
 
 
 > Dorothy followed her through many of the beautiful rooms in her castle.<br>
-> <br>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > Headers break on their ownt
