@@ -4,6 +4,7 @@
 Block Quotes sample: 
 
 > Headers break on their ownt
+> 
 > Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
 
 
@@ -21,8 +22,6 @@ pipe Tables  sample:
 Inline Code   sample: 
 ```
 SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"))و(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))@
-
-
 ```
 
 
