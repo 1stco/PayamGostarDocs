@@ -26,6 +26,8 @@ pipe Tables  sample:
 Inline Code   sample: 
 ```
 SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"))و(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))@
+
+
 ```
 
 
