@@ -84,7 +84,8 @@ highlight text sample :
 ###### این شماره را به‌صورت دستی به عدد 6 تغییر دهید. 
 
 
-Bar :
+
+[!INCLUDE [sprint-207-update](includes/artifacts/sprint-207-update.md)]
 
 ----------
 
