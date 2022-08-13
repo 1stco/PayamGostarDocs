@@ -21,6 +21,7 @@ Block Quotes sample:
 > 
 > Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
 
+:::image type="content" source="./media/azure-to-azure-autoupdate/enable-rep.png" alt-text="Extension settings":::
 
 
 pipe Tables  sample: 
