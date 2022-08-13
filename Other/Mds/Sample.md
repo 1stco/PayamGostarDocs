@@ -13,7 +13,7 @@ ms.author: v-pgaddala
 
 Block Quotes sample: 
 
-> **This is True**<br>
+> [!**note**]<br>
 > Dorothy followed her through many of the beautiful rooms in her castle.<br>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
