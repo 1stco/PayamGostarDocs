@@ -42,7 +42,7 @@ highlight text sample :
 
 > test qoute
 
-- [dotp](http://192.168.11.9/Reporter/Reports/SelectDataSource/6d9a4a35-b7ec-4634-b624-996536bd2a62?direction=1)
+- <a href="#app-center"> تب اپ سنتر </a>
 - dot
 
 
