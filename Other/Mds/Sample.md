@@ -1,9 +1,19 @@
-
+---
+title: Automatic update of the Mobility service in Azure Site Recovery
+description: Overview of automatic update of the Mobility service when replicating Azure VMs by using Azure Site Recovery.
+services: site-recovery
+author: v-pgaddala
+manager: rochakm
+ms.service: site-recovery
+ms.topic: article
+ms.date: 04/02/2020
+ms.author: v-pgaddala
+---
 
 
 Block Quotes sample: 
 
-> **This is True**<br>
+> [!NOTE]<br>
 > Dorothy followed her through many of the beautiful rooms in her castle.<br>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
@@ -11,6 +21,7 @@ Block Quotes sample:
 > 
 > Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
 
+:::image type="content" source="./media/azure-to-azure-autoupdate/enable-rep.png" alt-text="Extension settings":::
 
 
 pipe Tables  sample: 
@@ -73,7 +84,8 @@ highlight text sample :
 ###### این شماره را به‌صورت دستی به عدد 6 تغییر دهید. 
 
 
-Bar :
+
+[!INCLUDE [sprint-207-update](includes/artifacts/sprint-207-update.md)]
 
 ----------
 
