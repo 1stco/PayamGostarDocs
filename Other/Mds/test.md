@@ -21,14 +21,7 @@
 در تب جدید اپ سنتر که در قسمت راهنمای پیام‌گستر وجود دارد، می‌توان آخرین نسخه نرم‌افزارهای پیام‌گستر و تایم‌نگر را دانلود نمود.
 <br>
 <br>
-
-<figure>
-  <img
-  src="GpDashboard.jpg"
-  alt="The beautiful MDN logo.">
-  <figcaption>MDN Logo</figcaption>
-</figure>
-
+ ![ثبت فرم](GpDashboard.jpg)
 
 ## بهبود ویجت جست‌وجوی پیشرفته
 
