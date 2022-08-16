@@ -8,4 +8,4 @@
 
 - [امکان استفاده از نسخه تحت وب موبایل crm برای سیستم عامل ios](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
 
-- [امکان نمایش قسمت خلاصه آیتم‌ها در حالت نمایش لیستی کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable/usercartable.md)
+- [امکان نمایش قسمت خلاصه آیتم‌ها در حالت نمایش لیستی کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable.md)
