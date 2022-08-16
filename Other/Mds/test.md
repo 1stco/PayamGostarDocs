@@ -22,7 +22,14 @@
 <br>
 <br>
 
-![ورود اطلاعات کاربر](GpDashboard.jpg "در این مرحله اطلاعات نام کاربر  وارد می شود")
+<figure>
+  <img
+  src="GpDashboard.jpg"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
+
+
 ## بهبود ویجت جست‌وجوی پیشرفته
 
 ویجت جست‌وجوی پیشرفته بهبود پیدا کرده و بعد از جست‌وجو در ویجت وارد پنل جست‌وجوی پیشرفته می‌شود.
