@@ -22,7 +22,7 @@
 <br>
 <br>
 
- ![ثبت فرم](PayamGostarDocs/Other/NumberingPattern.png)
+ ![ثبت فرم](PayamGostarDocs/Other/Mds/NumberingPattern.png)
 
 ## بهبود ویجت جست‌وجوی پیشرفته
 
