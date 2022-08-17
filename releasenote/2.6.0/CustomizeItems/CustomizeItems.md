@@ -1,7 +1,7 @@
 
 # شخصی‌سازی آیتم‌ها
 
-- **[شخصی‌سازی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/Customize.md)**
+- **[شخصی‌سازی آیتم ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/Customize.md)**
 
 تمامی تغییرات مربوط به شخصی‌سازی آیتم‌ها از جمله الگوی شماره‌گذاری، قالب چاپ و تنظیمات مربوط به هر آیتم، به طور کامل توضیح داده شده است.
 
