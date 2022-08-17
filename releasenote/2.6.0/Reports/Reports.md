@@ -1,6 +1,6 @@
 # گزارشات 
 
-- **[لیست سوابق](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/ItemsList.md)** 
+- **[لیست آیتم ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Reports/ItemsList.md)** 
 
 تمامی انواع سوابقی را که برای هویت‌ها ایجاد شده است می‌توان در لیست سوابق جست و جو کرد.
 - **[گزارشات سیستمی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/SystematicReports.md)** 
