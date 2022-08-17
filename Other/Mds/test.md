@@ -21,7 +21,7 @@
 در تب جدید اپ سنتر که در قسمت راهنمای پیام‌گستر وجود دارد، می‌توان آخرین نسخه نرم‌افزارهای پیام‌گستر و تایم‌نگر را دانلود نمود.
 <br>
 <br>
- ![ثبت فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Images/NumberingPattern.png)
+ ![ثبت فرم](Images/NumberingPattern.png)
 
 ## بهبود ویجت جست‌وجوی پیشرفته
 
