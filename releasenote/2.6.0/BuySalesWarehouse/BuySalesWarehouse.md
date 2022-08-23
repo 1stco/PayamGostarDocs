@@ -1,4 +1,4 @@
-# خرید , فروش
+# خرید و فروش
 
 - **[انواع فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BuySalesWarehouse/FactorsTypes.md)**
 
