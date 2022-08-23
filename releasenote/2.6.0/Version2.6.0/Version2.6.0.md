@@ -7,7 +7,7 @@
 - [راهنمای استفاده از شرح تغییرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/HowToUseReleasenote/HowToUseReleasenote.md)   
     شرح تغییرات موجود در بخش‌بندی صورت گرفته بر اساس قابلیت‌های نرم‌افزار تهیه شده است که شما می‌توانید لیست تغییرات نسخه جدید را در هر دسته‌بندی مشاهده نمایید. در این بخش هدف و نحوه استفاده از شرح تغییرات CRM پیام‌گستر را شرح می‌دهیم.
 
-- [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General%20features.md)
+- [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General.md)
 
     تغییرات و ویژگی‌های جدید مربوط به ویجت‌ها، نظرات و ... که در سطح کلی نرم‌افزار می‌باشد در این بخش مستند شده است.
 
