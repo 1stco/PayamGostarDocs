@@ -7,11 +7,18 @@
 - [راهنمای استفاده از شرح تغییرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/HowToUseReleasenote/HowToUseReleasenote.md)   
     شرح تغییرات موجود در بخش‌بندی صورت گرفته بر اساس قابلیت‌های نرم‌افزار تهیه شده است که شما می‌توانید لیست تغییرات نسخه جدید را در هر دسته‌بندی مشاهده نمایید. در این بخش هدف و نحوه استفاده از شرح تغییرات CRM پیام‌گستر را شرح می‌دهیم.
 
-- [آیتم‌های CRM](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CrmItems/CrmItems.md)     
-    تمامی ویژگی‌های جدید که به آیتم‌های موجود (هویت، فرم، فاکتورها..) در نرم‌افزار اضافه شده در این بخش شرح داده شده است. 
-
 - [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General%20features.md)    
     تغییرات و ویژگی‌های جدید مربوط به ویجت‌ها، نظرات و ... که در سطح کلی نرم‌افزار می‌باشد در این بخش مستند شده است.
+
+- [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md)
+
+- [خرید و فروش](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BuySalesWarehouse/BuySalesWarehouse.md)
+
+- [قرارملاقات و تقویم کاری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/apointment.md)
+
+- [فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Forms.md)
+
+- [انبارداری](https://help.payamgostar.com/docs/Releasenotes/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_di1e4f104e-f8ec-4eee-959e-dd1efab0338e)
 
 - [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)    
     در این بخش تمامی تغییرات و ویژگی‌های جدیدی که به کمپین‌های تبلیغاتی، ابزارهای تبلیغات (پیامک، ایمیل، فکس، چاپ) و برنامه‌های تبلیغاتی (ارسال گروهی، رویداد، خبرنامه، نظرسنجی، مسابقه، پاسخگوی خودکار) و تنظیمات مرتبط قرار می‌گیرد.
