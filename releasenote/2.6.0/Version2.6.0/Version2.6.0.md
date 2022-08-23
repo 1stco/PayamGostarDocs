@@ -8,6 +8,7 @@
     شرح تغییرات موجود در بخش‌بندی صورت گرفته بر اساس قابلیت‌های نرم‌افزار تهیه شده است که شما می‌توانید لیست تغییرات نسخه جدید را در هر دسته‌بندی مشاهده نمایید. در این بخش هدف و نحوه استفاده از شرح تغییرات CRM پیام‌گستر را شرح می‌دهیم.
 
 - [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General%20features.md)
+
     تغییرات و ویژگی‌های جدید مربوط به ویجت‌ها، نظرات و ... که در سطح کلی نرم‌افزار می‌باشد در این بخش مستند شده است.
 
 - [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md)
@@ -30,7 +31,7 @@
 
     شرح تغییرات مربوط به انبارداری مثل انواع رسیدها، انواع حواله‌ها، انبارهاو ... در این دسته قرار می‌گیرد
 
-- [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)  
+- [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)  git 
     در این بخش تمامی تغییرات و ویژگی‌های جدیدی که به کمپین‌های تبلیغاتی، ابزارهای تبلیغات (پیامک، ایمیل، فکس، چاپ) و برنامه‌های تبلیغاتی (ارسال گروهی، رویداد، خبرنامه، نظرسنجی، مسابقه، پاسخگوی خودکار) و تنظیمات مرتبط قرار می‌گیرد.
 
 - [کارتابل کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable/usercartable.md)    
