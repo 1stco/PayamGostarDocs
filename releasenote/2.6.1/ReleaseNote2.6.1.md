@@ -6,7 +6,7 @@
 
 [اضافه شدن امکان جست و جو در منو نسخه‌های سازمانی، استاندارد و موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/General.md)
 
-[امکان اشتراک‌گذاری پیش نمایش آیتم از طریق تلگرام و واتساپ](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/Customize.md)
+[امکان اشتراک‌گذاری پیش نمایش آیتم از طریق تلگرام و واتساپ](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/Customization.md)
 
 [تغییر شیوه نمایش خطای پر نشدن فیلدهای الزامی در آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/ExtraFields.md)
 
