@@ -2,7 +2,7 @@
 
 ### ویژگی‌های جدید:
 
-[امکان باز شدن نرم افزار WhatsappWeb از طریق کلیک روی شماره موبایل در اطلاعات تماس هویتها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/IntegratedBank.md)
+[امکان باز شدن نرم افزار WhatsappWeb از طریق کلیک روی شماره موبایل در اطلاعات تماس هویت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/IntegratedBank.md)
 
 [اضافه شدن امکان جست و جو در منو نسخه‌های سازمانی، استاندارد و موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/General.md)
 
