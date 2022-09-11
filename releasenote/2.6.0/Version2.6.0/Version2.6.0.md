@@ -7,13 +7,32 @@
 - [راهنمای استفاده از شرح تغییرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/HowToUseReleasenote/HowToUseReleasenote.md)   
     شرح تغییرات موجود در بخش‌بندی صورت گرفته بر اساس قابلیت‌های نرم‌افزار تهیه شده است که شما می‌توانید لیست تغییرات نسخه جدید را در هر دسته‌بندی مشاهده نمایید. در این بخش هدف و نحوه استفاده از شرح تغییرات CRM پیام‌گستر را شرح می‌دهیم.
 
-- [آیتم‌های CRM](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CrmItems/CrmItems.md)     
-    تمامی ویژگی‌های جدید که به آیتم‌های موجود (هویت، فرم، فاکتورها..) در نرم‌افزار اضافه شده در این بخش شرح داده شده است. 
+- [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General.md)
 
-- [عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General%20features.md)    
     تغییرات و ویژگی‌های جدید مربوط به ویجت‌ها، نظرات و ... که در سطح کلی نرم‌افزار می‌باشد در این بخش مستند شده است.
 
-- [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)    
+- [بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/InformationBank.md)
+
+    در بانک اطلاعاتی یا پایگاه داده پیام‌گستر تمام پرونده سرنخ‌ها، مشتریان، تامین کنندگان، رقیبان و ...قرارگرفته و ذخیره شده است.
+
+- [خرید و فروش](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BuySalesWarehouse/BuySalesWarehouse.md)
+
+    انواع تغییرات مربوط به انواع فاکتورهای خرید و فروش مثل فاکتور خرید و فروش، فاکتور بر گشت از خرید و فروش، پیش‌فاکتور خرید و فروش در این دسته‌بندی قرار دارد.
+
+- [قرارملاقات و تقویم کاری](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/apointment.md)
+
+    شرح تغییرات آیتم قرارملاقات‌ و تقویم‌های کاری در این دسته‌بندی قرار می‌گیرد. 
+
+- [فرم](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Forms.md)
+
+    انواع تغییراتی که بر روی ایجاد و شخصی‌سازی آیتم فرم انجام می‌شود در این دسته قرار می‌گیرد.
+
+- [انبارداری](https://help.payamgostar.com/docs/Releasenotes/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_di1e4f104e-f8ec-4eee-959e-dd1efab0338e)
+
+    شرح تغییرات مربوط به انبارداری مثل انواع رسیدها، انواع حواله‌ها، انبارهاو ... در این دسته قرار می‌گیرد
+
+- [تبلیغات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
+
     در این بخش تمامی تغییرات و ویژگی‌های جدیدی که به کمپین‌های تبلیغاتی، ابزارهای تبلیغات (پیامک، ایمیل، فکس، چاپ) و برنامه‌های تبلیغاتی (ارسال گروهی، رویداد، خبرنامه، نظرسنجی، مسابقه، پاسخگوی خودکار) و تنظیمات مرتبط قرار می‌گیرد.
 
 - [کارتابل کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable/usercartable.md)    
