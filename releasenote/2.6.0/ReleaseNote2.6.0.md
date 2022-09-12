@@ -5,7 +5,7 @@
 
 [نمایش تعداد آیتم‌های وارد شده به کارتابل در روز جاری در نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
 
-[انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](hhttps://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
+[انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
 
 [قابلیت مشاهده خلاصه آیتم در کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable.md)
 
