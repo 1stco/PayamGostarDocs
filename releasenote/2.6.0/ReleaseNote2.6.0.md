@@ -5,7 +5,7 @@
 
 [نمایش تعداد آیتم‌های وارد شده به کارتابل در روز جاری در نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
 
-[انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
+[انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](ghttps://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
 
 [قابلیت مشاهده خلاصه آیتم در کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable.md)
 
@@ -33,7 +33,7 @@
 
 [بهبود مجوزهای حذف سوابق آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Administration/Permits.md)
 
-## نسخه 2.6.0:4036 - تاریخ به روز رسانی  1400.09.23
+## نسخه 2.6.0:4034 - تاریخ به روز رسانی  1400.09.23
 
 ### ویژگی‌های جدید:
 
@@ -43,7 +43,7 @@
 
 [دسته بندی پارامترهای هوشمند و اضافه شدن امکان جست و جو ](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/PrintFormat.md)
 
-## نسخه 2.6.0:033 - تاریخ به روز رسانی 1400.09.02
+## نسخه 2.6.0:4033 - تاریخ به روز رسانی 1400.09.02
 
 ### ویژگی‌های جدید:
 
@@ -73,6 +73,7 @@
 
 [امکان ذکر سمت‌ها در ثبت نظرات](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/General.md)
 
+## نسخه 2.6.0:4031 - تاریخ به روز رسانی 1400.08.04
 ### ویژگی‌های جدید: 
 
 [الزامی شدن کلید کاربر در شخصی‌سازی آیتم‌های CRM](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/CustomizeItems/Customize.md)
