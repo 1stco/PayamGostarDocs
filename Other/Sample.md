@@ -87,8 +87,6 @@ highlight text sample :
 
 [!INCLUDE [sprint-207-update](includes/artifacts/sprint-207-update.md)]
 
-----------
-
-__
 
 ![گروه فیلدی](گروه-فیلد-افزودن-عبارت-و-مشخصه-های-موجود.mp4)
+ 
