@@ -6,11 +6,8 @@
 جزئیات مربوط به تنظیمات پروفایل خود را در قسمت‌های زیر مطالعه نمایید:
 
 - [پروفایل من]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/my-profile/my-profile.md)
-
 - [مدیریت کاربران جانشین]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/Substitute-users/Substitute-users.md)
-
 - [تغییر رمز عبور]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/edit-password/edit-password.md)
-
 - [تنظیمات من]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/my-setting/my-setting.md)
 
 3- پیام‌های اطلاع‌رسانی در مورد فعالیت‌های انجام شده در سیستم، در بخش پیام‌های سیستمی قابل مشاهده می‌باشد.
