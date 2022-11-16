@@ -94,5 +94,5 @@ highlight text sample :
 ![گروه فیلدی](گروه-فیلد-افزودن-عبارت-و-مشخصه-های-موجود.mp4)
 
 
-[تست لینک](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md#test1)
+[تست لینک](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md)
  
