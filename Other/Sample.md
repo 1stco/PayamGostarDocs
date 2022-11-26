@@ -10,7 +10,7 @@ Block Quotes sample:
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > Headers break on their ownt<br>
-> <br>
+> 
 > Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
 
 :::image type="content" source="./media/azure-to-azure-autoupdate/enable-rep.png" alt-text="Extension settings":::
@@ -86,3 +86,11 @@ highlight text sample :
 
 [تست لینک](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md#test1)
  
+ # Alternate Syntax Heading
+ تیتر 1
+ ======
+ تیتر 2
+
+ این یک متن **بلد** است.<br>
+ این یک متن _ایتالیک_ است.<br>
+ ثبت ***مستندات جدید***
