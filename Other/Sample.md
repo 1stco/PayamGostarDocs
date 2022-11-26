@@ -1,24 +1,14 @@
----
-title: Automatic update of the Mobility service in Azure Site Recovery
-description: Overview of automatic update of the Mobility service when replicating Azure VMs by using Azure Site Recovery.
-services: site-recovery
-author: v-pgaddala
-manager: rochakm
-ms.service: site-recovery
-ms.topic: article
-ms.date: 04/02/2020
-ms.author: v-pgaddala
----
+# MD Sytax Guide
 
 
-Block Quotes sample: 
+**Block Quotes sample:**
 
 > [!NOTE]<br>
 > Dorothy followed her through many of the beautiful rooms in her castle.<br>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-> Headers break on their ownt
-> 
+> Headers break on their ownt<br>
+> <br>
 > Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
 
 :::image type="content" source="./media/azure-to-azure-autoupdate/enable-rep.png" alt-text="Extension settings":::
