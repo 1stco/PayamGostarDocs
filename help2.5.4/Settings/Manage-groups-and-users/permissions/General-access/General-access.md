@@ -10,7 +10,7 @@
 
 ![](Privileges100.png)
 
-**مدیریت انبارداری:** به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و  [گزارشات انبار ]() دسترسی پیدا می‌کند.
+**مدیریت انبارداری:** به منوی[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)و گزارشات انبار دسترسی پیدا می‌کند.
 
 **مشاهده لیست اقلام کالا:** حالت آزمایشی است.
 
@@ -19,19 +19,22 @@
 **ویرایش اطلاعات اقلام کالا:** در صورت داشتن این مجوز در[ صفحه ویرایش قلم کالا](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Search%20for%20item%20pen/ProductSerial.md) دکمه ذخیره ظاهر خواهد شد.
 
 
-## 2. باشگاه مشتریان:
+## 2. باشگاه مشتریان
 
 ![](Privileges101.png)
 
 ایجاد حساب کاربری برای مشتری: ***حالت آزمایشی است.***
 
-**مدیریت اعضای باشگاه مشتریان:** دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)پیدا می‌کند.
+**مدیریت اعضای باشگاه مشتریان:** دسترسی‌های زیر فعال می‌شوند:
 
+- دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md);
 
+- امکان **ورود به سیستم** بجای کاربر دیگری در محیط **مدیریت گروه‌ها و کاربران**
 
 **مشاهده امتیازات مشتریان:** به صفحه[ امتیازات مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Customer-ratings/Customer-ratings.md) در پروفایل هویت‌ها دسترسی پیدا کرده و می‌تواند تراکنش امتیاز جدید ایجاد کند.
 
-## 3. بانک اطلاعاتی:
+
+## 3. بانک اطلاعاتی
 
 ![](Privileges102.png)
 
@@ -39,39 +42,60 @@
 
 **جستجوی پیشرفته:** دسترسی به منوی[ جستجوی پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Advanced-search/Advanced-search.md)در بانک یکپارچه پیدا می‌کند.
 
-**مدیر بانک اطلاعاتی:** می‌تواند از  مخاطبان و سرنخ‌های موجود در [بانک یکپارچه ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Integrated-bank.md)خروجی اکسل تهیه کند. تمامی‌دسته بندی‌های اختصاصی شده توسط کاربران را مشاهده می‌کند و تمامی‌دسته بندی‌های اختصاصی شده توسط کاربران را مشاهده می‌کند.
+**مدیر بانک اطلاعاتی:** دسترسی‌های زیر برای کاربر فعال می‌شود:
 
-**مشاهده فهرست مشاغل اول:** بانک فهرست مشاغل اول (یکی از بانک‌های اطلاعاتی قابل تهیه در نرم افزار) را در[ بانک اطلاعاتی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database%2FDatabase.md) می‌تواند مشاهده کند و همچنین دارنده این مجوز میتواند تمام دسته بندی‌های موجود در بانک یکپارچه را مشاهده کند. 
+- بدون داشتن مجوز **مشاهده فهرست مشاغل اول**، کاربر می‌تواند دسته‌بندی‌های بانک اطلاعاتی را مشاهده کند.<br>
+- دسته‌بندی‌های **اختصاصی شده** توسط سایر کاربران در بانک اطلاعاتی، برای این در کاربر قابل نمایش است. <br>
+- گروه‌های هدف **اختصاصی شده** توسط سایر کاربران را می‌تواند مشاهده کند.<br>
+- تخصیص **مسئول‌های فروش، پشتیبانی و متفرقه** از طریق راست کلیک روی هویت‌ها امکان‌پذیر خواهد بود. همچنین در صورتی که مجوز مشاهده هویت را داشته باشد، از صفحه مشخصات هویت نیز می‌تواند مسئولین پروفایل را تغییر دهد.<br>
+- می‌تواند از طریق راست کلیک روی هویت‌ها **حذف با سوابق** را انجام دهد. 
 
+**مشاهده فهرست مشاغل اول:** منوی **بانک اطلاعتی** در قسمت بانک یکپارچه برای کاربر قابل مشاهده خواهد بود و به بانک فهرست مشاغل اول (ماژول فهرست مشاغل اول) و [دسته‌بندی‌های بانک اطلاعاتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Grouping/mafhome-grouping.md) دسترسی خواهد داشت.<br>
+ 
 **مشاهده لیست تخصیص یافته‌ها:** دسترسی به منوی[ تخصیص یافته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Allocation-of-findings/Allocation-of-findings.md)‌ها در مدیریت ارتباط با مشتری پیدا می‌کند.
-
-## 4. پشتیبانی:
+## 4. پشتیبانی
 
 ![](Privileges103.png)
 
-**مدیر پشتیبانی:** اجازه مشاهده[ گزارش‌های](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/reports-crm.md) CRM را به کاربر می‌دهد.
+**مدیر پشتیبانی:** اجازه مشاهده گزارشات CRM را به شرح زیر به کاربر می‌دهد:
 
-**مدیریت درخواست‌ها:** اجازه مشاهده لیست‌های درخواست‌های ایجاد شده در[ مدیریت درخواست‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md) را در بخش شخصی سازی به کاربر میدهد.
+- گزارش تماس‌ها
+   - [گزارش اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)<br>
+   - [جزئیات تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Call-details/Call-details.md)<br>
+   - [مجموع تماس‌ها به تفکیک تاریخ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-date/Total-calls-by-date.md)<br>
+   - [مجموع تماس‌ها به تفکیک کارشناسان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-expert/Total-calls-by-expert.md)<br>
+   - [مجموع تماس‌ها به تفکیک شماره تلفن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-phone-calls/Total-phone-calls.md)
 
-## 5. تبلیغات:
+- گزارش عملیات CRM
+   - [عملکرد هر کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/Each-user's-performance/Each-user's-performance.md)<br>
+   - [عملکرد شرکت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/company's-performance/company's-performance.md)
+
+**مدیریت درخواست‌ها:** اجازه مشاهده لیست‌های درخواست‌های ایجاد شده در[ مدیریت درخواست‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md) را در بخش شخصی‌سازی به کاربر میدهد.
+
+## 5. تبلیغات
 
 ![](Privileges104.png)
 
-·         **ارسال ایمیل:** با استفاده از این مجوز کاربر امکان ارسال ایمیل از طریق خطوطی که دسترسی به آن را دارد، دارد.  
+**ارسال ایمیل:** با استفاده از این مجوز کاربر امکان ارسال ایمیل از طریق خطوطی که دسترسی به آن را دارد، دارد.  
 
-·         **ارسال پیام کوتاه:** اجازه ارسال پیامک با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
+**ارسال پیام کوتاه:** اجازه ارسال پیامک با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
 
-·         **ارسال فکس:** اجازه ارسال فکس با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
+**ارسال فکس:** اجازه ارسال فکس با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
 
-·         **اشتراک گذاری خطوط:** در هنگام تعریف خطوط مانند خطوط پیام کوتاه اجازه به اشتراک گذاری آن با سایر کاربران را در اختیار یک کاربر قرار میدهد.
+**اشتراک گذاری خطوط:** در هنگام تعریف خطوط مانند خطوط پیام کوتاه اجازه به اشتراک گذاری آن با سایر کاربران را در اختیار یک کاربر قرار میدهد.
 
-·         **چاپ:** اجازه ارسال چاپ با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
+**چاپ:** اجازه ارسال چاپ با خطوطی که دسترسی به آن را دارد، پیدا می‌کند.
 
 **ذخیره/حذف برنامه تبلیغاتی:** در قسمت تبلیغات بخش مدیریت کمپین‌های تبلیغاتی امکان ایجاد و ویرایش کمپین  را برای کاربر فراهم می‌کند.
 
-·         **ذخیره/حذف تاریخ مرتبط:** اجازه ذخیره کردن یک تاریخ مرتبط در قسمت [تاریخ‌های مهم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Important-dates/Important-dates.md) پروفایل یک مخاطب یا سرنخ می‌یابد.
+**ذخیره/حذف تاریخ مرتبط:** اجازه ذخیره کردن یک تاریخ مرتبط در قسمت [تاریخ‌های مهم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Important-dates/Important-dates.md) پروفایل یک مخاطب یا سرنخ می‌یابد.
 
-**مدیر تبلیغات:** این مجوز اجازه مشاهده گزارشهای مرتبط با تبلیغات مانند[ گزارش‌های تحلیلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Analysis-reports/Analysis-reports.md)(غیر از گزارش نمودار وضعیت فروش) و مشاهده لیست برنامه‌های تبلیغاتی ایجاد شده توسط سایر کاربران را در اختیار کاربر قرار میدهد و  همچنین کاربر در صورت داشتن مجوز "مدیریت تنظیمات" در مجوز‌های عمومی به همراه این مجوز می‌تواند در بخش تنظمیات کلی، تمام خطوط پیامکی،ایمیل و فکس  تعریف شده در نرم افزار را مشاهده کند، در صورت نداشتن این مجوز فقط می‌تواندخطوطی که روی آن مجوز دارد را مشاهده کند . 
+**مدیر تبلیغات:** به موارد زیر دسترسی خواهد داشت:
+- [گزارش بازاریابی و فروش در یک نگاه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Analysis-reports/Marketing-and-sales-at-a-glance/Marketing-and-sales-at-a-glance.md)<br>
+- [نمودار وضعیت بازاریابی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Analysis-reports/Marketing-Status-Chart/Marketing-Status-Chart.md)<br>
+- [نمودار تحلیل کمپین](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Analysis-reports/Campaign-Analysis-Chart/Campaign-Analysis-Chart.md)<br>
+- مشاهده لیست برنامه‌های تبلیغاتی ایجاد شده توسط سایر کاربران<br>
+- کاربر در صورت داشتن مجوز **مدیریت تنظیمات** در مجوز‌های عمومی به همراه این مجوز می‌تواند در بخش تنظمیات کلی، تمام خطوط پیامکی،ایمیل و فکس  تعریف شده در نرم افزار را مشاهده کند، در صورت نداشتن این مجوز فقط می‌تواندخطوطی که روی آن مجوز دارد را مشاهده کند . 
 
  **مدیریت حساب‌های کاربری پرتال اول:** این مجوز امکان دسترسی به مشخصات کاربری در منوی 1st.ir را فراهم می‌کند. 
 
@@ -86,7 +110,7 @@
 
 ·**مشاهده لیست تاریخ‌های مرتبط:** به منوی[ تاریخ‌های مرتبط ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Related-dates/Related-dates.md)در مدیریت ارتباط با مشتریان دسترسی پیدا  می‌کند.
 
-## 6. عمومی:
+## 6. عمومی
 
 ![](33.png)
 
@@ -96,7 +120,7 @@
 
 **مدیریت تقویم‌ها:** دسترسی به منوی[ مدیریت تقویم‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)می‌یابد.
 
-**مدیریت شخصی سازی CRM:** دسترسی به[ منوی شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Personalization-crm.md) CRM  در قسمت نمای کلی و  همچنین ویرایش موجودیت‌های اصلی و اضافه کردن زیر نوع موجودیت پیدا می‌کند.
+**مدیریت شخصی‌سازی CRM:** دسترسی به[ منوی شخصی سازی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) CRM  در قسمت نمای کلی دسترسی پیدا می‌کند. با این مجوز امکان ایجاد زیرنوع جدید از **تمامی موجودیت‌ها**، ویرایش آنها و ساخت چرخه کاری بر روی آیتم‌ها فراهم می‌شود..
 
 **مدیر سایت ساز:** می‌تواند به امکاناتسایت ساز در نرم افزار دسترسی پیدا کند.
 
@@ -110,7 +134,11 @@
 
 **مدیریت اعیاد و مناسبت‌ها:** به منوی [مدیریت اعیاد و مناسبت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)در دسترسی پیدا می‌کند.
 
-**مدیریت تنظیمات:** به منوی[ تنظیمات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/general-settings.md)دسترسی پیدا می‌کند. (میتوانید تنظیمات کلی سیستم اعم از تنظیم ایمیل‌ها، امنیتی و ... را تغییر دهید.)
+**مدیریت تنظیمات:** به منوی **تنظیمات کلی** نرم‌افزار دسترسی پیدا می‌کند و کاربر می‌تواند تنظیمات پایه‌ای سیستم اعم از تنظیم ایمیل‌ها، خطوط پیام کوتاه، تنظیمات امنیتی و ... را تغییر دهید.
+
+> **نکته**<br>
+> مسیر دسترسی در نسخه استاندارد: **تنظیمات** > **تنظیمات کلی**
+>مسیر دسترسی در نسخه سازمانی: **تنظیمات** > **تنظیمات سیست**م > **راهبری** > **تنظیمات کلی**
 
 **مدیریت حکم‌ها:** دسترسی منوی [مدیریت حکم‌های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)در اختیار کاربر قرار می‌دهد. (میتوانید حکم‌های مختلف -مانند کارمند فروش، مدیر مالی و ... - ایجاد و واگذار کنید.)
 
@@ -120,28 +148,70 @@
 
 **مدیریت فیلدها:** حالت آزمایشی است.
 
-**مدیریت کاربران:** منوی [مدیریت گروه‌ها و کاربران ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md)را در اختیار کاربر قرار می‌دهد. (می‌توانید کاربر/گروه کاربری تعریف کنید و به مجوزهای آنها دسترسی پیدا کنید.)
+**مدیریت کاربران:** منوی [مدیریت گروه‌ها و کاربران ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Manage-groups-and-users/users/users.md)را در اختیار کاربر قرار می‌دهد و کاربر می‌تواند گروه‌ و کاربر جدید بسازد و اطلاعات کاربران و گروه‌های فعلی را ویرایش کند.
 
-ویرایش پیام صفحه اول: به ویرایش پیام ویجت اعلان عمومی در داشبورد صفحه خانه دسترسی می‌دهد. (می‌توانید یک پیام برای نمایش بر روی صفحه خانه تمامی‌کاربرانی که این ویجت را دارند تنظیم کنید.) 
+
+**ویرایش پیام صفحه اول:** به ویرایش پیام ویجت اعلان عمومی در داشبورد صفحه خانه دسترسی می‌دهد. (می‌توانید یک پیام برای نمایش بر روی صفحه خانه تمامی‌کاربرانی که این ویجت را دارند تنظیم کنید.) 
 
  **مدیریت نشانی‌ها:**  دسترسی به منو [مدیریت نشانی‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Address-management/Address-management.md)را ایجاد میکند. در این بخش امکان مشاهده لیست نشانی‌ها، ایجاد،ویرایش و حذف نشانی وجود دارد.
  
-## 7. فروش:
+## 7. فروش
 
 ![](Privileges106.png)
 
-**مدیر فروش:** کاربر با استفاده از این مجوز می‌تواند تمامی‌گزارشات مرتبط با فروش مانند[ گزارشات تحلیلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Analysis-reports/Analysis-reports.md) یا[ گزارشات فروش ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Sales-reports.md)را دریافت کند. همچنین به منوی مدیریت فاکتورها در شخصی سازی دسترسی پیدا می‌کند.
+**مدیر فروش:** کاربر با استفاده از این مجوز به موارد زیر دسترسی دارد:<br>
+-  گزارش‌های تحلیلی
+  - بازاریابی و فروش در یک نگاه
+  - نمودار وضعیت بازاریابی
+  - نمودار وضعیت فروش
+  - تحلیل کمپین تبلیغاتی
+- جزئیات فروش
+  - مانده حساب مشتریان
+  - متشریان غیرفعال
+  - جزئیات فروش
+  - جزئیات خرید
+  - جزئیات قراردادها
+  - درآمدها
+  - دریافت‌‌ها
+  - جزئیات پرداخت‌ها
+  - جزئیات اسناد دریافتی
+  - جزئیات اسناد پرداختی
+- مجموع فروش
+  - مجموع فروش
+  - مجموع خرید
+  - مجموع قراردادها
+  - مجموع درآمدها
+  - مجموع دریافت‌ها
+  - مجموع پرداخت‌ها
+  - مجموع اسناد دریافتی
+  - مجموع اسناد پرداختی
+  - مجموع فروش به تفکیک کارشناس
+  - مجموع فروش به تفکیک محصولات
+- محاسبه پورسانت
+  - پورسانت محصول محور
+  - پورسانت فرد محور
+  - میزان دریافت ماهانه فاکتور
+- گزارشات CRM
+  - جزئیات تماس
+  - مجموع تماس به تفکیک کارشناس
+  - مجموع تماس به تفکیک تاریخ
+  - مجموع تماس به تفکیک شماره تلفن
+  - عملکرد کاربر
+  - عملکرد شرکت
+  - ‌‌فرصت‌ها
+- تعیین **مسئول فروش** در اطلاعات هویت‌ها؛ کاربر با این مجوز می‌تواند مسئول فروش هویت‌ها را ویرایش نماید.
 
 **مدیریت قراردادها:** به منوی [مدیریت قراردادها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Contract-management/Contract-management.md)در شخصی سازی دسترسی پیدا می‌کند.
 
-**مدیریت محصولات:** به منوی[ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)دسترسی پیدا می‌کند. (می‌تواند محصولات را وارد کند، بروز کند و یا خروجی بگیرد.)
-
+**مدیریت محصولات:**  به منوهای زیر دسترسی پیدا می‌کند:
+- [ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)؛ کاربر با این دسترسی می‌تواند محصولات جدید را به صورت تکی و گروهی در نرم‌افزار وارد کند. اطلاعات محصولات را ویرایش و یا حذف نماید و همچنین از لیست محصولات خروجی اکسل بگیرد. <br>
+- [مدیریت لیست قیمت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Price-list-management/Price-list-management.md)، کاربر با این دسترسی می‌تواند لیست قیمت جدید ایجاد کند و حتی لیست قیمت‌های قدیم را ویرایش و حذف نماید.
 
 **مشاهده لیست معاملات جامع:** اجازه دسترسی به [مورد معامله](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Buy-warehouse-sales/Transaction/Case-of-transaction/Case-of-transaction.md) و [مورد مذاکره ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Buy-warehouse-sales/Transaction/Negotiated/negotiates.md)در منوی خرید، فروش و انبار را در اختیار کاربر قرار میدهد.
 
 **مشاهده لیست معاملات مشتری:** دسترسی به منوی [معاملات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Trades/Trades.md)را در پروفایل مخاطبان و سرنخ‌ها در اختیار کاربر می‌گذارد.
 
-## 8.گزارشات:
+## 8.گزارشات
 
 ![](Privileges107.png)
 
@@ -149,25 +219,57 @@
 
 مشاهده همه تقویم‌های عملیاتی: ***حالت آزمایشی است.***
 
-## 9. مالی:
+## 9. مالی
 
 ![](Privileges108.png)
 
-**مدیر مالی:** امکان مشاهده گزارشهای مالی مانند[ گزارش مانده حساب مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md) یا[ جزئیات عملکرد فروش ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)را دارد.
+**مدیر مالی:** کاربر با این مجوز به موارد زیر دسترسی دارد:<br>
+- جزیئات فروش
+  - مانده حساب مشتریان
+  - متشریان غیرفعال
+  - جزئیات فروش
+  - جزئیات خرید
+  - جزئیات قراردادها
+  - درآمدها
+  - دریافت‌‌ها
+  - جزئیات پرداخت‌ها
+  - جزئیات اسناد دریافتی
+  - جزئیات اسناد پرداختی
+- مجموع فروش
+  - مجموع فروش
+  - مجموع خرید
+  - مجموع قراردادها
+  - مجموع درآمدها
+  - مجموع دریافت‌ها
+  - مجموع پرداخت‌ها
+  - مجموع اسناد دریافتی
+  - مجموع اسناد پرداختی
+  - میزان دریافت ماهانه فاکتور
+- با دارا بودن این مجوز، در لیست دریافت‌ها و پرداخت‌ها، امکان حذف چند آیتم دریافت و پرداخت باهم وجود دارد.
 
- با دارا بودن این مجوز میتوان به بخش [مدیریت حساب‌های ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Financial-account-management/Financial-account-management.md)مالی دسترسی یافت همچنین امکان دریافت گزارش میزان دریافت ماهانه فاکتور‌ها از قسمت گزارش‌های محاسبه پور سانت، [گزارش مانده حساب ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Customer-account-balance/Customer-account-balance.md)مشتریان، [گزارش مشتریان غیر فعال ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Customers/Inactive-customers/Inactive-customers.md)و[ گزارش جزئیات عملکرد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Performance-details/Performance-details.md)    و همچنین[ گزارش‌های مجموع عملکرد ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Sales-reports/Total-performance/total-performance.md)(به جز مجموع فروش به تفکیک محصولات و ومجموع فروش به تفکیک کارشناسان که نیاز به مجوز مدیر مالی دارند)
-
-با دارا بودن این مجوز، در لیست دریافت‌ها و پرداخت‌ها، امکان حذف چند آیتم دریافت و پرداخت باهم وجود دارد.
-
-## 10. مدیریت ارتباط با مشتری:
+## 10. مدیریت ارتباط با مشتری
 
 ![](Privileges109.png)
 
-**مدیر ارتباط با مشتری:** امکان مشاهده[ گزارشات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/reports-crm/reports-crm.md) CRM و[ گزارشات فرآیندی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Process-reports/Process-reports.md) را به کاربر می‌دهد.
+**مدیر ارتباط با مشتری:** کاربر به موراد زیر دسترسی خواهد داشت:<br>
+- گزارشات فرآیندی
+  - کانبان
+  - چارت
+  - نمایش دیاگرام
+  - به تفکیک فعالیت
+  - براسا کاربر
+  - گزارش شرح شغل
+- گزارشات CRM
+  - جزئیات تماس
+  - مجموع تماس به تفکیک کارشناس
+  - مجموع تماس به تفکیک تاریخ
+  - مجموع تماس به تفکیک شماره تلفن
+  - عملکرد کاربر
+  - عملکرد شرکت
 
-**مدیریت فرم‌ها:** دسترسی یه منوی [مدیریت فرم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Form-management/Form-management.md)‌ها در شخصی سازی را به کاربر می‌دهد.
+**مدیریت فرم‌ها:** دسترسی یه منوی [مدیریت فرم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Form-management/2.6.0/Form-customize-setting.md)‌ها در شخصی سازی را به کاربر می‌دهد.
 
-## 11. مرکز تماس:
+## 11. مرکز تماس
 
 ![](Privileges110.png)
 
@@ -187,4 +289,4 @@
 
 **مشاهده لیست تماس‌ها:** اجازه مشاهده سوابق تماسی در منوی[ تماس](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/calls/calls.md)‌ها  در قسمت مدیریت ارتباط با مشتریان را به کاربر می‌دهد.
 
-**مشاهده وضعیت مرکز تماس:** به [منوی وضعیت مرکز تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Windows/Windows.md)دسترسی می‌دهد. (میتوانید وضعیت داخلی‌ها را مشاهده کنید و یا درصورت نیاز با کاربر خود از طریق سیستم در حین مکالمه صحبت کنید.)
+**مشاهده وضعیت مرکز تماس:** به [داشبورد مرکز تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/connections/Contact-center-status/call-center.md)دسترسی می‌دهد. (میتوانید وضعیت داخلی‌ها را مشاهده کنید و یا درصورت نیاز با کاربر خود از طریق سیستم در حین مکالمه صحبت کنید.)
