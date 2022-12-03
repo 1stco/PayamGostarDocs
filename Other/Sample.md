@@ -1,22 +1,7 @@
 # MD Syntax Guide
 
-<p id="test">
-Block Quotes sample: 
-</p>
 
-
-> [!NOTE]<br>
-> Dorothy followed her through many of the beautiful rooms in her castle.<br>
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-
-> Headers break on their ownt<br>
-> 
-> Note that headers don't need line continuation characters as they are block elements and automatically break. Only text lines require the double spaces for single line breakst.
-
-:::image type="content" source="./media/azure-to-azure-autoupdate/enable-rep.png" alt-text="Extension settings":::
-
-
-pipe Tables  sample: 
+**pipe Tables  sample:**
 
 
 |تعداد | مستندات     | کیفیت       |
@@ -26,71 +11,131 @@ pipe Tables  sample:
 
 
 
-Inline Code   sample: 
-```
-SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"))و(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))@
-
+**Inline Code   sample:** 
 
 ```
+SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"))و(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))
+```
+OR
 
 
-![گروه فیلدی](http://192.168.1.65:1313/playback?fileId=1d71f27f-fe86-4d74-2b5d-08d9cf7cd488)
-
-highlight text sample :
-
-`اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند`[[
+      SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"))و(this.Form.Where(Children.number==90&&(Children.poljoin == 30||Children.numfirst==18)).Select(Children.Form.polformat))
 
 
-`highlight`
+**Link to MD File**
 
-> test qoute
+[تست لینک به داکیومنت](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md)
 
-- <a href="#app-center"> تب اپ سنتر </a>
-- dot
+**BooKmark link Sample:**
+
+[شاخص های رضایت مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/Other/CRMIndex.md#Index)
+
+**Link to Website**
+
+[تست لینک به داکیومنت](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md)
 
 
-      SELECT @(this.SELECT(Children.Form.Subject).Order(Children.Form. CreateDate).TakeOrDefault(3,"0"));
+
+**Image Relative Address Sample:**
+
+![گروه فیلدی](./NumberingPattern.png)
 
 
-|تعداد | مستندات     | کیفیت       |
-|---- | ------------ | ------------|
-|11  |  داک    |12  |
-|11   | ویدیو  |   34 |
+**highlight text sample :**
 
+`اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند`
+
+**Qoute Sample:**
+
+> **Note**<br>
+> Description
+
+*************************
+> **Note**
+>
+> Description
+
+*********************
+> Description
+
+> Description
+
+********************
+**Nested Qoute**
+
+> **Note**<br>
+>> Description
+
+
+**Heading Sample (Without Enter):**
+
+# این شماره را به‌صورت دستی به عدد 1 تغییر دهید. 
+## این شماره را به‌صورت دستی به عدد 2 تغییر دهید.
+### این شماره را به‌صورت دستی به عدد 3 تغییر دهید. 
+#### این شماره را به‌صورت دستی به عدد 4 تغییر دهید. 
+##### این شماره را به‌صورت دستی به عدد 5 تغییر دهید. 
+###### این شماره را به‌صورت دستی به عدد 6 تغییر دهید. 
+
+**Heading Sample (With Enter):**
 
 # این شماره را به‌صورت دستی به عدد 1 تغییر دهید. 
 
-
 ## این شماره را به‌صورت دستی به عدد 2 تغییر دهید.
-
 
 ### این شماره را به‌صورت دستی به عدد 3 تغییر دهید. 
 
-
 #### این شماره را به‌صورت دستی به عدد 4 تغییر دهید. 
 
-
 ##### این شماره را به‌صورت دستی به عدد 5 تغییر دهید. 
-
 
 ###### این شماره را به‌صورت دستی به عدد 6 تغییر دهید. 
 
 
+**Alternate Syntax Heading**
 
-[!INCLUDE [sprint-207-update](includes/artifacts/sprint-207-update.md)]
-
-
-![گروه فیلدی](گروه-فیلد-افزودن-عبارت-و-مشخصه-های-موجود.mp4)
-
-[تست](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md)
-
-[تست لینک](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md#test1)
- 
- # Alternate Syntax Heading
  تیتر 1
  ======
  تیتر 2
 
- این یک متن **بلد** است.<br>
- این یک متن _ایتالیک_ است.<br>
- ثبت ***مستندات جدید***
+
+
+**Bold & Italic Sample**
+
+این یک متن **بلد** است.<br>
+I just love __bold text__.<br>
+این یک متن *ایتالیک* است.<br>
+این یک متن _ایتالیک_ است.<br>
+ثبت ***مستندات جدید***
+
+**Line space by br tag and Enter**
+
+This is test<br>
+This is test
+**********************
+This is test
+
+This is test
+*******************
+This is test<br>
+
+This is test
+
+
+**Bullet Smple**
+
+- This is test
+- This is test
+*******************
+- This is test
+   - This is test
+*******************
+
+**Order List Sample**
+
+1. This is test
+2. This is test
+3. This is test
+*******************
+
+
+
