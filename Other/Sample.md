@@ -51,7 +51,7 @@ OR
 > Description
 
 *************************
-> **Note**<br>
+> **Note**
 > <br>
 > Description
 
