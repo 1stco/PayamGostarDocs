@@ -41,7 +41,7 @@ OR
 ![گروه فیلدی](./NumberingPattern.png)
 
 
-**highlight text sample :**
+**highlight text sample**
 
 `اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند`
 
@@ -112,6 +112,10 @@ I just love __bold text__.<br>
 This is test<br>
 This is test
 **********************
+
+This is test
+This is test
+********************
 This is test
 
 This is test
