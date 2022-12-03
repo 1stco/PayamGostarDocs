@@ -32,7 +32,7 @@ OR
 
 **Link to Website**
 
-[تست لینک به داکیومنت](https://github.com/1stco/PayamGostarDocs/blob/master/Other/Mds/test.md)
+[تست لینک به گوگل](https://www.google.com/)
 
 
 
