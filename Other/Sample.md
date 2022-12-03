@@ -47,17 +47,19 @@ OR
 
 `اپلیکیشن آندروید پیام‌گستر جهت دسترسی به کارتابل‌ها و امکانات سیستم بر روی گوشی ‌های هوشمند`
 
-**Qoute Sample:**
+**Qoute Sample with br:**
 
 > **Note**<br>
 > Description
 
 *************************
+**Qoute Sample with 1 Enter:**
 > **Note**
 > <br>
 > Description
 
 *********************
+**Qoute Sample with 2 Enter:**
 > Description
 
 > Description
