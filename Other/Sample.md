@@ -72,8 +72,8 @@ OR
 ***********************************
 **Quote Sample with Bullets:**
 > **Note:**<br>
-> - Description <br>
-> - Description
+>  Description <br>
+>  Description
 
 
 **Heading Sample (Without Enter):**
