@@ -167,4 +167,4 @@ This is test
 ## مرحله 3: شارژ حساب از طریق ریال یا رمزارز
 
 # API چیست؟
- API  (Application Programming Interface) به معنای «رابط برنامه‌نویسی اپلیکیشن» است. 
+(Application Programming Interface) API به معنای «رابط برنامه‌نویسی اپلیکیشن» است. 
