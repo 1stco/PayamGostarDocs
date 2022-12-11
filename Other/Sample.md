@@ -81,6 +81,13 @@ OR
 > - Description <br>
 > - Description
 
+********************************
+**Quote Sample with Order List:**
+> **Note:**<br>
+> 1. Description <br>
+> 2. Description
+
+
 
 **Heading Sample (Without Enter):**
 
