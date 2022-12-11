@@ -50,9 +50,11 @@ OR
 **Quote Sample with br:**
 
 > **Note**<br>
-> Description
+> Description1<br>
+> Description2<br>
 
 **Quote  sample with one >**
+
 > **Note**<br>
  Description
 
@@ -76,8 +78,8 @@ OR
 ***********************************
 **Quote Sample with Bullets:**
 > **Note:**<br>
->  Description <br>
->  Description
+> - Description <br>
+> - Description
 
 
 **Heading Sample (Without Enter):**
