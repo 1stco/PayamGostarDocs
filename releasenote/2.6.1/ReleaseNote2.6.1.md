@@ -1,8 +1,11 @@
-## نسخه 2.6.1.5 تاریخ به روزرسانی 1401.08.28
+## نسخه 2.6.1.5 تاریخ به روزرسانی 1401.09.02
 
 ### ویژگی‌های جدید:
+[امکان تبدیل گروهی ایمیل از POP3 به IMAP  و اعلام نتیجه آن در وضعیت عملیات انبوه (Bulk Action)](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/PrimarySettings.md)
 
-[نمایش گزارش عملیات ویرایش گروهی در "وضعیت عملیات انبوه"](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/ListOfItems.md)
+[امکان جستجوی آدرس ایمیل، در لیست ایمیل‌های ساخته شده در بخش تنظیمات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/PrimarySettings.md)
+
+[نمایش گزارش عملیات ویرایش گروهی آیتم‌ها در "وضعیت عملیات انبوه"](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.1/ListOfItems.md)
 
 ## نسخه 2.6.1.4- تاریخ به‌روزرسانی 1401.08.16
 ### ویژگی‌های جدید:

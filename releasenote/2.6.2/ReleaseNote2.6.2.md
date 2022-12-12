@@ -1,0 +1,3 @@
+## نسخه 2.6.2 تاریخ به روزرسانی 1401.09.06
+### ویژگی‌های جدید:
+[امکان مشاهده و برقراری تماس (Click to  call) با پروفایل مرتبط آیتم‌های موجود در کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.2/UserCartable.md)
