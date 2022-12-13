@@ -1,26 +1,22 @@
-
+# شرح تغییرات
 ## نسخه 2.6.0:4037 
 30 خرداد 1400
+********
 
-### ویژگی‌های جدید:
+### ویژگی‌های جدید
+- [نمایش تعداد آیتم‌های وارد شده به کارتابل در روز جاری در نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
+- [انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](ghttps://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
+- [قابلیت مشاهده خلاصه آیتم در کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable.md)
+- [دریافت نسخه تحت وب موبایل crm پیام گستر از صفحه اپ سنتر](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
+<br>
 
-[نمایش تعداد آیتم‌های وارد شده به کارتابل در روز جاری در نسخه موبایل](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
-
-[انتشار نسخه تحت وب موبایل CRM برای کاربران IOS](ghttps://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
-
-[قابلیت مشاهده خلاصه آیتم در کارتابل فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/usercartable.md)
-
-[دریافت نسخه تحت وب موبایل crm پیام گستر از صفحه اپ سنتر](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/MobileApp.md)
-
-## نسخه 2.6.0:4036- تاریخ به روز رسانی 1400.12.18
-
-### ویژگی‌های جدید:
-
-[تبدیل سرنخ به مخاطب، در فعالیت تبدیل نوع](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md)
-
-[امکان پیشنهاد آدرس ایمیل، در ارسال‌های بعدی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
-
-[شخصی‌سازی کردن نمایش مانده‌حساب در باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Sync.md)
+## نسخه 2.6.0:4036
+18 اسفند 1400
+*****
+### ویژگی‌های جدید
+- [تبدیل سرنخ به مخاطب، در فعالیت تبدیل نوع](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/BPM.md)
+- [امکان پیشنهاد آدرس ایمیل، در ارسال‌های بعدی](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Advertising.md)
+- [شخصی‌سازی کردن نمایش مانده‌حساب در باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/releasenote/2.6.0/Sync.md)
 
 ## نسخه 2.6.0:4035 - تاریخ به روز رسانی 1400.10.11
 
