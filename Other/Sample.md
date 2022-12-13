@@ -40,7 +40,7 @@ OR
 
 **Image Relative Address Sample:**
 
-![گروه فیلدی](./NumberingPattern.png)
+![پاییز](./Images/image.jpg)
 
 
 **highlight text sample**
