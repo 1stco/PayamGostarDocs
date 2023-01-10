@@ -196,13 +196,3 @@ This is test
 ![ثبت نام](./Images/register2.png)
 
 ![ثبت نام](./Images/register.png)
-
-| کانال اطلاع‌رسانی |آدرس |
-|----|----|
-| وبلاگ |https://hitobit.com/fa/blog|
-|تلگرام|https://t.me/hitobitcom|
-|لینکدین|https://www.linkedin.com/company/hitobitcom|
-|اینستاگرام|https://instagram.com/hitobit.official|
-|توییتر|https://twitter.com/hitobitcom|
-
-- **پشتیبانی آنلاین:** برای مطرح کردن سوالات و مشکلات خود در هر ساعت از شبانه‌روز می‌توانید از طریق پشتیبانی آنلاین با کارشناسان هیتوبیت در ارتباط باشید.
