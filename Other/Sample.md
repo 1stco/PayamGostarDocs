@@ -204,3 +204,5 @@ This is test
 |لینکدین|https://www.linkedin.com/company/hitobitcom|
 |اینستاگرام|https://instagram.com/hitobit.official|
 |توییتر|https://twitter.com/hitobitcom|
+
+- **پشتیبانی آنلاین:** برای مطرح کردن سوالات و مشکلات خود در هر ساعت از شبانه‌روز می‌توانید از طریق پشتیبانی آنلاین با کارشناسان هیتوبیت در ارتباط باشید.
