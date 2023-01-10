@@ -200,7 +200,7 @@ This is test
 | کانال اطلاع‌رسانی |آدرس |
 |----|----|
 | وبلاگ |https://hitobit.com/fa/blog|
-|https://t.me/hitobitcom|تلگرام|
+|تلگرام|https://t.me/hitobitcom|
 |https://www.linkedin.com/company/hitobitcom|لینکدین|
 |https://instagram.com/hitobit.official|اینستاگرام|
 |https://twitter.com/hitobitcom|توییتر|
