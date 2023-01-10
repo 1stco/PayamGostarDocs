@@ -197,9 +197,9 @@ This is test
 
 ![ثبت نام](./Images/register.png)
 
-| آدرس |کانال اطلاع‌رسانی|
+| کانال اطلاع‌رسانی |آدرس |
 |----|----|
-|https://hitobit.com/fa/blog  |وبلاگ|
+| وبلاگ |https://hitobit.com/fa/blog|
 |https://t.me/hitobitcom|تلگرام|
 |https://www.linkedin.com/company/hitobitcom|لینکدین|
 |https://instagram.com/hitobit.official|اینستاگرام|
