@@ -75,5 +75,3 @@
 - **اصلاح نمایش اعیاد و مناسبت‌ها در تقویم کاری**{#Calender}<br>
    اعیاد و مناسبت هایی که در بخش «مدیریت اعیاد و مناسبت‌ها» تعریف می‌شود و در تقویم کاری > تقویم مناسبت‌ها نمایش داده نمی‌شد که این ارتباط در نسخه جدید اصلاح گردید.
 
-
-[ارتباط با رسانه‌های ارتباطی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Form-management/Create-forms-through-incoming-message.md)
