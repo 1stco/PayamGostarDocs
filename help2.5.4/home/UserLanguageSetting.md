@@ -4,5 +4,5 @@
 
 تعریف  زبان  برای سیستم از قسمت مدیریت زبان ها انجام می شود .
 
-![](mysetting4.png)
+![صفحه تنظیمات زبان حساب کاربر](./Images/Language-setting-in-user-account.png)
 
