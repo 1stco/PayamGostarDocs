@@ -4,7 +4,7 @@
 
 > **نکته:** توضیحات ارائه شده در این قسمت به صورت مختصر می باشد، برای توضیحات تکمیلی و اطلاع از جزئیات هر بخش از باشگاه مشتریان به[ داشبورد مشتریان ](https://github.com/1stco/PayamGostarDocs/tree/master/help%202.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)مراجعه کنید.
 
-![](MyProfile.jpg)
+![صفحه پروفایل من در باشگاه مشتریان](./Images/MyProfile.jpg)
 
 **1**. تصویر و نام کاربری شما در این قسمت نمایش داده می شود.
 
