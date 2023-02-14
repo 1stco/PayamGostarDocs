@@ -1,7 +1,6 @@
 #  شرح تغییرات نسخه 2.6.4
-
 ###### 7 دی 1401
-##### قابلیت‌های جدید
+
 - [**فرآیند؛ سابقه تغییرات در تنظیمات چرخه‌کاری**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/WorkFlowSettings2.6.4.md#WorkFlowSettingChangLog) - اضافه شدن تاریخ ایجاد، ایجاد کننده، تاریخ ویرایش و ویرایش کننده، برای هر فعالیت و کارتابل در تنظیمات چرخه‌کاری آیتم‌ها.
 - [**فرآیند؛ تنظیم زمان براساس ساعت، در فعالیت انتظار چرخه کاری**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Waiting/Wating2.6.4.md#TimingWatingActivity) - در تنظیمات فعالیت انتظار حداقل زمان ممکن برای انتظار یک ساعت است، یعنی امکان تنظیم زمان براساس دقیقه وجود ندارد.
 - [**فرآیند؛ ویرایش چرخه‌ کاری آیتم‌ها**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/WorkFlowEdition.md#WorkfllowEdition) - بجای حذف فعالیت، کارتابل و مراحل در بخش ویرایش چرخه‌کاری آیتم جاری، می‌توان هرکدام از اجزای مورد نظر را اضافه کرد.
