@@ -4,5 +4,5 @@
 - [**درخواست پشتیبانی؛ نماش لیست درخواست‌های پشتیبانی**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Manage-requests/PrioritySetting2.6.5.md) - می‌توانید لیست درخواست پشتیبانی را بر اساس «اولویت» مرتب کنید.
 - [**فرآیند؛ تنظیمات مسئول کارتابل**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Cardboard/2.6.0/CartableSetting2.6.5.md) - امکان تخصیص کارتابل به «رده‌بالایی آخرین مسئول»، در صورت عدم وجود کاربر فعال، در سمت تعیین شده
 - [**وب سرویس؛ مدیریت محصولات فرصت با وب سرویس**](https://developer.payamgostar.com/wp-content/uploads/2021/04/Opportunity.pdf) - اضافه شدن امکان ثبت، ویرایش و حذف محصول در فرصت، از طریق وب سرویس
-- [**وب سرویس؛ ذخیره فیلد «متن لیستی» در وب سرویس**](https://developer.payamgostar.com/wp-content/uploads/2021/04/Opportunity.pdf) - امکان ذخیره «فیلد متن لیستی» در وب سرویس روی تمامی آیتم‌ها.
+- [**وب سرویس؛ ذخیره فیلد «متن لیستی» در وب سرویس**](https://developer.payamgostar.com/) - امکان ذخیره «فیلد متن لیستی» در وب سرویس روی تمامی آیتم‌ها.
 
