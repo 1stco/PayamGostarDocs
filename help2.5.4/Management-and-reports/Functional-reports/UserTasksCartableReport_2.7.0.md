@@ -16,5 +16,5 @@
 
 ![فیلتر وظایف و پیگیری‌ها](./Images/user-tasks-and-follow-cartable-filter.jpg)
 
-> **نکته:** <br> تنظیمات واحدها، سمت ها و حکم های پرسنلی از قبل باید در  [مدیریت شعب،دپارتمان و سمت  ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)و  [مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)انجام شود.
+> **نکته:** <br> تنظیمات واحدها، سمت ها و حکم های پرسنلی از قبل باید در  [مدیریت شعب،دپارتمان و سمت  ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/branches-department/2.6.0/branches-department.md)و  [مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personnel-command-management/2.6.0/Personnel-command-management.md)انجام شود.
 
