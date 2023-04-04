@@ -96,13 +96,13 @@ OR
 ***********************************
 **Quote Sample with Bullets:**
 > **Note:**<br>
-> - Description <br>
+> - Description
 > - Description
 
 ********************************
 **Quote Sample with Order List:**
 > **Note:**<br>
-> 1. Description <br>
+> 1. Description
 > 2. Description
 
 
