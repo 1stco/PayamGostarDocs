@@ -203,4 +203,4 @@ This is test
 3. تراکنش‌های امتیازات مصرف‌شده را بر اساس بازه تاریخ مصرف در فیلدهای تاریخ مصرف از/ تا جستجو کنید.<br>
 4. برای دریافت گزارش مانده حساب مشتریان در بازه زمانی خاص، گزینه در بازه زمانی خاص را فعال و سپس بازه زمانی موردنظر خود را مشخص کنید.
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](./Images/md.png)](./Video/video.mp4)
