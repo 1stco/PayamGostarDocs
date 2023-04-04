@@ -180,40 +180,15 @@ This is test
 2. This is test
 3. This is test
 
-**4.**	اکنون API شما ایجاد شده است و طبق مراحل زیر می‌توانید از آن استفاده کنید.
-   1. کلید API را کپی و در قسمت موردنظر استفاده کنید.
-
-   **4.**	اکنون API شما ایجاد شده است و طبق مراحل زیر می‌توانید از آن استفاده کنید.
-
-![photo](How-to-Create-API4.png)
-
-   الف) کلید API را کپی و در قسمت موردنظر استفاده کنید.<br>
-   ب) **کلید مخفی خود را یادداشت و در جای مناسب نگه دارید** زیرا دیگر نمایش  داده **نخواهد** شد. این کلید را با کسی به اشتراک نگذارید. اگر کلید مخفی خود را فراموش کردید، باید API را حذف کرده و یک API جدید ایجاد کنید.<br>
-   ج) مجوز معامله: در صورت فعال کردن مجوز معامله، فرو می‌توانید از طریق این API معامله انجام دهد.<br>
-
 *******************
+**Video Tag in Markdown**
 
-![ثبت نام](./Images/register2.png)
+![Video without preview picture](./Video/NewMainOutput.mp4)
 
-![ثبت نام](./Images/register.png)
+[![Video with prview picture](./Images/md.png)](https://www.aparat.com/v/HJ9nD)
 
-1. در صورتی که بخواهید گزارش تراز حساب مشتریان را برای بازه زمانی خاصی دریافت کنید، می توانید این گزینه را فعال نموده و سپس بازه زمانی مورد نظر خود را تعیین کنید.
+![Video by Link, without preview picture](https://www.aparat.com/v/HJ9nD)
 
-2. در صورتی که بخواهید گزارش تراز حساب مشتریان را برای بازه زمانی خاصی دریافت کنید، می توانید این گزینه را فعال نموده و سپس بازه زمانی مورد نظر خود را تعیین کنید.
-3. تراکنش‌های امتیازات مصرف‌شده را بر اساس بازه تاریخ مصرف در فیلدهای تاریخ مصرف از/ تا جستجو کنید.<br>
-4. برای دریافت گزارش مانده حساب مشتریان در بازه زمانی خاص، گزینه در بازه زمانی خاص را فعال و سپس بازه زمانی موردنظر خود را مشخص کنید.
+![Video by link of payamgostar help](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
 
-![مشاهده](./Video/video.mp4)
-
-![فرم عمومی](./Video/NewMainOutput.mp4)
-
-[![Watch the video](./Images/md.png)](https://www.aparat.com/v/HJ9nD)
-
-![تنظیمات من]()
-
-
-![Watch the video](https://www.aparat.com/v/HJ9nD)
-
-![تماس ها](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
-
-[![تنظیمات تماس ها](./Images/md.png)](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
+[![Video by Link, with preview picture](./Images/md.png)](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
