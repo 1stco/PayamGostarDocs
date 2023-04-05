@@ -193,4 +193,4 @@ This is test
 
 [![Video by Link, with preview picture](./Images/md.png)](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
 
-[![Video , with preview picture](./Images/md.png)](./Video/NewMainOutput.mp4)
+[![Video , with preview picture](./Images/image.jpg)](./Video/NewMainOutput.mp4)
