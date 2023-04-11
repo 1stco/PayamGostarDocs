@@ -185,13 +185,12 @@ This is test
 
 ![Video without preview picture](./Video/NewMainOutput.mp4)
 
-[![Video with prview picture](./Images/md.png)](https://www.aparat.com/v/HJ9nD)
+![Video , with preview picture](https://septadocs.1st.co.com:1313/playback?fileId=1a8ab13e-0232-4fe1-6d26-08d971bffc91)
+
+[![Video with prview picture](./Images/image.jpg)](https://www.aparat.com/v/HJ9nD)
 
 ![Video by Link, without preview picture](https://www.aparat.com/v/HJ9nD)
 
 ![Video by link of payamgostar help](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
 
 [![Video by Link, with preview picture](./Images/md.png)](https://help.payamgostar.com/docs/EducationalVideos/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D9%85%D9%86---%D8%AA%D9%85%D8%A7%D8%B3%E2%80%8C%D9%87%D8%A7_di9e2664c7-17e8-4475-b6de-08d971bffc8f)
-
-
-![عکس تأیید هویت](./Images/authentication-image-1.jpeg)
