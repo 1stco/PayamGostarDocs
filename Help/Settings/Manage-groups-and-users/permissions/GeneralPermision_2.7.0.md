@@ -53,9 +53,7 @@
 ایجاد حساب کاربری برای مشتری: ***حالت آزمایشی است.***
 
 **مدیریت اعضای باشگاه مشتریان:** دسترسی‌های زیر فعال می‌شوند:
-
-- دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md);
-
+- دسترسی به منوی[ مدیریت اعضای باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md);<br>
 - امکان **ورود به سیستم** بجای کاربر دیگری در محیط **مدیریت گروه‌ها و کاربران**
 
 **مشاهده امتیازات مشتریان:** به صفحه[ امتیازات مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Customer-ratings/Customer-ratings.md) در پروفایل هویت‌ها دسترسی پیدا کرده و می‌تواند تراکنش امتیاز جدید ایجاد کند.
@@ -271,15 +269,14 @@
 ![مجوزهای عمومی پشتیبانی](./Images/Support-general-permirion.png)
 
 **مدیر پشتیبانی:** اجازه مشاهده گزارشات CRM را به شرح زیر به کاربر می‌دهد:
-
-- گزارش تماس‌ها
+- **گزارش تماس‌ها**<br>
    - [گزارش اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)<br>
    - [جزئیات تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Call-details/Call-details.md)<br>
    - [مجموع تماس‌ها به تفکیک تاریخ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-date/Total-calls-by-date.md)<br>
    - [مجموع تماس‌ها به تفکیک کارشناسان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-expert/Total-calls-by-expert.md)<br>
    - [مجموع تماس‌ها به تفکیک شماره تلفن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-phone-calls/Total-phone-calls.md)
 
-- گزارش عملیات CRM
+- **گزارش عملیات CRM**<br>
    - [عملکرد هر کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/Each-user's-performance/Each-user's-performance.md)<br>
    - [عملکرد شرکت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/company's-performance/company's-performance.md)
 
