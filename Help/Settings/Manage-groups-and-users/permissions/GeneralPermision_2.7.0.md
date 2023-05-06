@@ -270,15 +270,15 @@
 
 **مدیر پشتیبانی:** اجازه مشاهده گزارشات CRM را به شرح زیر به کاربر می‌دهد:
 - **گزارش تماس‌ها**<br>
-   - [گزارش اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)<br>
-   - [جزئیات تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Call-details/Call-details.md)<br>
-   - [مجموع تماس‌ها به تفکیک تاریخ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-date/Total-calls-by-date.md)<br>
-   - [مجموع تماس‌ها به تفکیک کارشناسان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-expert/Total-calls-by-expert.md)<br>
-   - [مجموع تماس‌ها به تفکیک شماره تلفن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-phone-calls/Total-phone-calls.md)
+  - [گزارش اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)<br>
+  - [جزئیات تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Call-details/Call-details.md)<br>
+  - [مجموع تماس‌ها به تفکیک تاریخ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-date/Total-calls-by-date.md)<br>
+  - [مجموع تماس‌ها به تفکیک کارشناسان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-calls-by-expert/Total-calls-by-expert.md)<br>
+  - [مجموع تماس‌ها به تفکیک شماره تلفن](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Total-phone-calls/Total-phone-calls.md)
 
 - **گزارش عملیات CRM**<br>
-   - [عملکرد هر کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/Each-user's-performance/Each-user's-performance.md)<br>
-   - [عملکرد شرکت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/company's-performance/company's-performance.md)
+  - [عملکرد هر کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/Each-user's-performance/Each-user's-performance.md)<br>
+  - [عملکرد شرکت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/operation-CRM/company's-performance/company's-performance.md)
 
 **مدیریت درخواست‌ها:** اجازه مشاهده لیست‌های درخواست‌های ایجاد شده در[ مدیریت درخواست‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md) را در بخش شخصی‌سازی به کاربر میدهد.
 
