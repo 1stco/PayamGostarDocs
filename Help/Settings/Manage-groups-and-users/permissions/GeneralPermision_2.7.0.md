@@ -269,6 +269,7 @@
 ![مجوزهای عمومی پشتیبانی](./Images/Support-general-permirion.png)
 
 **مدیر پشتیبانی:** اجازه مشاهده گزارشات CRM را به شرح زیر به کاربر می‌دهد:
+
 - **گزارش تماس‌ها**
   - [گزارش اطلاعات تماس تکراری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Duplicate-contact-information/Duplicate-contact-information.md)<br>
   - [جزئیات تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/reports-crm/report-calls/Call-details/Call-details.md)<br>
