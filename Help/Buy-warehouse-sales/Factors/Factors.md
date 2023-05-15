@@ -6,7 +6,7 @@
 
 ![](FAKTOR12.png)
 
-> نکته: لطفا ابتدا قسمت[ فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
+> نکته: لطفا ابتدا قسمت[ فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 
 **1.** **زیر نوع آیتم:** زیرنوع فاکتورها و پیش فاکتورها از این قسمت قابل تغییر است.
@@ -37,7 +37,7 @@
 
 **9.** **سریال:** می‌توانید سریال کالای وارد شده را درج نمایید تا سابقه (پیش فاکتور/فاکتور/فاکتور برگشتی) دارای آن سریال فیلتر گردد.
 
-**10.** **نام محصول:** می‌توانید بر اساس نام محصول فیلتری را تعیین کنید تا سوابق (پیش فاکتور/فاکتور/فاکتور برگشتی) دارای آن را فیلتر کنید. همچنین با کلیک بر روی نام محصول می‌توانید از بین گروه محصولات و محصولات تعریف شده در قسمت [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md) ، محصول مورد نظر خود را برای جستجو انتخاب کنید.
+**10.** **نام محصول:** می‌توانید بر اساس نام محصول فیلتری را تعیین کنید تا سوابق (پیش فاکتور/فاکتور/فاکتور برگشتی) دارای آن را فیلتر کنید. همچنین با کلیک بر روی نام محصول می‌توانید از بین گروه محصولات و محصولات تعریف شده در قسمت [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product%20management/Product-management.md) ، محصول مورد نظر خود را برای جستجو انتخاب کنید.
 
 **11.** **تگ‌ها:** می‌توانید فاکتور/پیش فاکتور/فاکتور برگشتی را بر اساس تگی که روی آن‌ها گذاشته اید جستجو کنید.
 
@@ -49,9 +49,9 @@
 
 **15.** **مبلغ نهایی:** مجموع مبلغ سوابق فیلتر شده قابل مشاهده است.
 
-**16.** **مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست پیش فاکتور/ فاکتور / فاکتور برگشتی با توجه به فیلتر‌های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
+**16.** **مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست پیش فاکتور/ فاکتور / فاکتور برگشتی با توجه به فیلتر‌های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
 
-> نکته: تمامی‌لیست آیتم‌ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از[ بخش نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
+> نکته: تمامی‌لیست آیتم‌ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از[ بخش نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
 
 >**نکته:**  با استفاده از بخش تنظیمات جدول میتوانیم فیلد‌هایی برای نمایش در لیست و خروجی اکسل انتخاب کنید
 

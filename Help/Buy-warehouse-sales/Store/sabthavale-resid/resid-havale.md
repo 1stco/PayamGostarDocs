@@ -2,13 +2,13 @@
 
 هر حواله یا رسید در انبار ابتدا ذخیره می شود، سپس باید به تایید رسیده و بعد از آن باید قیمت گذاری روی آن انجام شود. می توانید در رسید یا حواله های ثبت شده، سریال اقلام کالا را نیز وارد کنید.
 
-[اطلاعات مشترک ثبت رسید/حواله](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Buy-warehouse-sales/Store/sabthavale-resid/moshtarak-resid-havale.md) 
+[اطلاعات مشترک ثبت رسید/حواله](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Buy-warehouse-sales/Store/sabthavale-resid/moshtarak-resid-havale.md) 
 
-[مدیریت اقلام کالا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Buy-warehouse-sales/Store/sabthavale-resid/aghlam-kala.md)
+[مدیریت اقلام کالا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Buy-warehouse-sales/Store/sabthavale-resid/aghlam-kala.md)
 
 ![](InventoryTransaction1.jpg)
 
-**1. مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
+**1. مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
 
 ## قابلیت صدور حواله/رسید از روی اسناد دیگر
 

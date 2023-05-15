@@ -5,7 +5,7 @@
 
 ![](tarifePRINTERaks2.png) 
  
- اطلاعات مربوط به سرویس چاپگر را در این قسمت وارد نمایید. لازم به ذکر است تنظیمات مربوط به روش و نحوه چاپ در صفحه در [**سپتا‌پرینت**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/printer/printer.md) انجام خواهد شد.
+ اطلاعات مربوط به سرویس چاپگر را در این قسمت وارد نمایید. لازم به ذکر است تنظیمات مربوط به روش و نحوه چاپ در صفحه در [**سپتا‌پرینت**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/printer/printer.md) انجام خواهد شد.
  
  ![](tarifePRINTERaks.png)
  

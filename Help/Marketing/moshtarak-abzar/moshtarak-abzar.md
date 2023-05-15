@@ -5,11 +5,11 @@
 **این 3 مرحله به ترتیب زیر می باشد:**
 
 
- گام 1- [اطلاعات پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-yk/gam-yk.md)
+ گام 1- [اطلاعات پیام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam-yk/gam-yk.md)
 
-گام 2-  [محتوی پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-do/gam-do.md)
+گام 2-  [محتوی پیام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam-do/gam-do.md)
 
-گام 3-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
+گام 3-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
 
 
 > نکته: قبل از اجرای انبوه، پیام تنظیم شده را یک بار برای خود ارسال نمایید تا بتوانید از صحت اجرای برنامه اطمینان حاصل نمایید.

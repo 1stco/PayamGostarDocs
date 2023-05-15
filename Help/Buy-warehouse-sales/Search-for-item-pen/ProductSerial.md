@@ -38,7 +38,7 @@
 
 **2. شماره سریال:** می توانید شماره سریال یا بخشی از شماره سریال کالا یا کالاهایی که قصد جستجوی آن ها را دارید، در این قسمت وارد کنید.
 
-**3. کد محصول:** کد محصولی که در[ مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)   درج کرده اید را در این قسمت برای جستجو وارد کنید.
+**3. کد محصول:** کد محصولی که در[ مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product%20management/Product-management.md)   درج کرده اید را در این قسمت برای جستجو وارد کنید.
 
 **4. نام محصول:** نام یا بخشی از نام محصولی که  در مدیریت محصولات تعریف شده  و قصد جستجوی آن را دارید در این قسمت وارد کنید.
 

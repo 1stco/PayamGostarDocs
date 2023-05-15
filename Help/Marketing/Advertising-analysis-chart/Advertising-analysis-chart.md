@@ -72,12 +72,12 @@
 **آمار مراجعان:**  به آمار شرکت کنندگان مراجعه کنید .
 
 
-[الف - اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/Marketing/Advertising-analysis-chart/etelat-koli/etelatkoli.md)
+[الف - اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/tree/master/Help/Marketing/Advertising-analysis-chart/etelat-koli/etelatkoli.md)
 
-[ب – نسبت های مهم](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/Marketing/Advertising-analysis-chart/advertising-importantbalance/advertising-importantbalance.md)
+[ب – نسبت های مهم](https://github.com/1stco/PayamGostarDocs/tree/master/Help/Marketing/Advertising-analysis-chart/advertising-importantbalance/advertising-importantbalance.md)
 
-[ج – خطاها](https://github.com/1stco/PayamGostarDocs/tree/master/help2.5.4/Marketing/Advertising-analysis-chart/advertising-importanterrors/advertising-importanterrors.md)
+[ج – خطاها](https://github.com/1stco/PayamGostarDocs/tree/master/Help/Marketing/Advertising-analysis-chart/advertising-importanterrors/advertising-importanterrors.md)
 
-[د – پیشنهاد ما](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/Advertising-analysis-chart/advertising-oursuggestion/advertising-oursuggestion.md)
+[د – پیشنهاد ما](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/Advertising-analysis-chart/advertising-oursuggestion/advertising-oursuggestion.md)
 
 > **نکته:** در صورتی می‌توان نتایج برنامه‌های تبلیغاتی را مشاهده کرد که یا کاربر ایجاد کننده یک برنامه تبلیغاتی باشد یا مجوز مشاهده لیست برنامه‌های تبلیغاتی را داشته باشد. 

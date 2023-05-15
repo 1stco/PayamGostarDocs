@@ -2,15 +2,15 @@
 
 در این گام می توانید متن مورد نظر برای ارسال را وارد و ویرایش کنید . از طریق منوی بالای صفحه (که شامل فایل، قالب و راهنمایی متن هوشمند می شود)، می توانید متون مورد نظر خود را که قبلا نوشته و در سیستم کامپیوتر خود ذخیره نموده اید وارد کنید، یا از قالب هایی که برای راحتی کار شما در نظر گرفته شده، استفاده کنید. همچنین امکان استفاده از متن هوشمند (به عنوان یکی از ویژگی های خاص پیام گستر) در این گام برای شما فراهم شده است
 
-لطفا ابتدا گام دوم - [محتوی پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/gam-do/gam-do.md) در اطلاعات مشترک ابزارها را مطالعه کنید.
+لطفا ابتدا گام دوم - [محتوی پیام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam-do/gam-do.md) در اطلاعات مشترک ابزارها را مطالعه کنید.
 
 ![](advertising-sendinggroupmail-secondstep.png)
 
-**1. قرار دادن تصویر در متن:** به قسمت طریقه ایجاد یک  [ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Photo-email/Photo-email.md) مراجعه کنید.
+**1. قرار دادن تصویر در متن:** به قسمت طریقه ایجاد یک  [ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Photo-email/Photo-email.md) مراجعه کنید.
 
 **2. لینک آدرس اینترنتی:** استفاده از قابلیت لینک، در هر قسمت از متن که بخواهید می توانید یک آدرس اینترنتی را با کلیک بر آیکون InsertLink در بالای کادر متن به صورت لینک درآورید .کافی است URL مربوط به آن را در کادر آن وارد نمایید.
 
-3. به قسمت [ایمیل ویژه - هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Smart-email/smart-email.md) مراجعه کنید.
+3. به قسمت [ایمیل ویژه - هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Smart-email/smart-email.md) مراجعه کنید.
 
 
 

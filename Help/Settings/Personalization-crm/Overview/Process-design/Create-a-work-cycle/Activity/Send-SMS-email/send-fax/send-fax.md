@@ -1,7 +1,7 @@
 #  فعالیت ارسال فکس 
 
 
-لطفا ابتدا قسمت[ ارسال پیامک-ایمیل-فکس-چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/Send%20SMS%2C%20email.md)را مطالعه کنید.
+لطفا ابتدا قسمت[ ارسال پیامک-ایمیل-فکس-چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/Send%20SMS%2C%20email.md)را مطالعه کنید.
 
 
 با انتخاب این فعالیت می توانید یک متن مشخص، پیش نمایش آیتم تحت چرخه یا پیش نمایش یک از فیلدهای وابسته به آن را از طریق فکس ارسال کنید.

@@ -30,7 +30,7 @@
 
  **مخاطب:** مخاطب حقیقی یا حقوقی شامل سرنخ‌هایی است که صلاحیت آنها تایید شده است و یا افراد و سازمان‌هایی است که به دلیل اینکه از قبل با آنها کار کرده ایم و یا از صلاحیت آن‌ها اطمینان داریم از ابتدا به عنوان مخاطب ذخیره کرده ایم.
 
-> نکته: می‌توانید در قسمت [جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Advanced-search/Advanced-search.md) لیست سرنخ‌هایی را که صلاحیت آن‌ها تایید شده است (تبدیل به مخاطب شده اند) را در اختیار داشته باشید. برای انجام این کار باید پارامتر "وضعیت سرنخ"
+> نکته: می‌توانید در قسمت [جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Advanced-search/Advanced-search.md) لیست سرنخ‌هایی را که صلاحیت آن‌ها تایید شده است (تبدیل به مخاطب شده اند) را در اختیار داشته باشید. برای انجام این کار باید پارامتر "وضعیت سرنخ"
  را بر اساس گزینه "واجد شرایط" فیلتر کنید. 
  
 > نکته: در صورت نیاز می‌توانید ماژول بانک فهرست مشاغل اول را که در 15 دسته بندی اصلی، اطلاعات مشاغل ثبت شده در پرتال اول(1st.ir ) را برای شما نمایش می‌دهد و شامل بیش از 200 هزار هویت مختلف از مشاغل سراسر کشور است را به عنوان یک بانک کمکی تهیه کنید. این اطلاعات در قالب هویت‌هایی از نوع سرنخ در بانک اطلاعاتی شما نمایش داده خواهند شد.
@@ -79,7 +79,7 @@
 
 > **نکته:** برای اختصاصی کردن و بالعکس عمومی‌کردن یک دسته بندی فقط کاربر سازنده دسته بندی و البته مدیر سیستم و یا مدیر بانک اطلاعاتی میتوانند این عملیات را انجام دهند.
 
-**4. ورود اطلاعات از اکسل:** به قسمت[ ورودی اکسل ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Excel-input/Excel-input.md) مراجعه کنید .
+**4. ورود اطلاعات از اکسل:** به قسمت[ ورودی اکسل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Excel-input/Excel-input.md) مراجعه کنید .
 
 ![](bankk4.png)
 
@@ -99,7 +99,7 @@
 
 **5. تغییر رنگ:** با استفاده از این منو می‌توانید برای هویت‌های انتخاب شده رنگ از لیست رنگ‌های موجود تعیین کنید.
 
-> نکته: برای اضافه یا حذف کردن رنگ‌ها به قسمت[ مدیریت رنگ‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Color-management/Color-management.md)مراجعه کنید.
+> نکته: برای اضافه یا حذف کردن رنگ‌ها به قسمت[ مدیریت رنگ‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Color-management/Color-management.md)مراجعه کنید.
 
 
 **6. حذف:** هویت(های) مورد نظر را حذف می‌کند.
@@ -121,7 +121,7 @@
 
 **13. تخصیص:** میتوانید به هویت‌های انتخاب شده، مسئول ( کارشناس فروش، پشتیبانی و یا متفرقه ) تخصیص دهید.
 
-**14. فرصت جدید:** برای هویت یا هویت‌های انتخاب شده می‌توانید یک [فرصت فروش جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md)ایجاد نمایید.
+**14. فرصت جدید:** برای هویت یا هویت‌های انتخاب شده می‌توانید یک [فرصت فروش جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md)ایجاد نمایید.
 
 **15. تبدیل به:** در این بخش دو قابلیت تبدیل نوع هویت و تبدیل سرنخ به مخاطب وجود دارد:
 
@@ -139,13 +139,13 @@
 
 ### شخصی سازی جدول هویت‌ها:
 
-برای تعیین ستون‌هاي مجاز به نمايش در لیست هویت(Gridview)میتوان از طریق بخش شخصی سازی crm از طریق[ تنظیمات نمایشی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)روی موجودیت هویت فیلد‌های مورد نظر جهت نمایش در لیست هویت را تعیین کرد . اين ستون‌ها به عنوان پیش فرض در جدول مخاطبان نمايش داده مي شود و کاربران از ميان گزينه‌هاي فعال اين قسمت میتوانند براي خود ستون‌هاي مورد نياز را انتخاب کنند.
+برای تعیین ستون‌هاي مجاز به نمايش در لیست هویت(Gridview)میتوان از طریق بخش شخصی سازی crm از طریق[ تنظیمات نمایشی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)روی موجودیت هویت فیلد‌های مورد نظر جهت نمایش در لیست هویت را تعیین کرد . اين ستون‌ها به عنوان پیش فرض در جدول مخاطبان نمايش داده مي شود و کاربران از ميان گزينه‌هاي فعال اين قسمت میتوانند براي خود ستون‌هاي مورد نياز را انتخاب کنند.
 
 هر کاربر در قسمت  با کليک بر روي آيکون تنظيمات در لیست هویت‌ها مي تواند از بين ستون‌هاي مجاز تعيين شده در اين قسمت، برخي از آن‌ها را براي خود فعال/غيرفعال کند.
 
 **1. فيلدهاي اصلي:** مي توانيد تعيين کنيد که کداميک از خصوصيات پيش فرض هویت‌ها در ليست هویت‌ها نمايش داده شود.
 
-**2. خصوصيات اضافه شده:** علاوه بر فيلدهاي اصلي، فيلدهايي که از طريق [شخصی سازی-افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) به  فیلد‌های انواع هویت اضافه شده اند را نيز مي توانيد به عنوان ستون‌هاي نمايش لیست هویت انتخاب کنيد.
+**2. خصوصيات اضافه شده:** علاوه بر فيلدهاي اصلي، فيلدهايي که از طريق [شخصی سازی-افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) به  فیلد‌های انواع هویت اضافه شده اند را نيز مي توانيد به عنوان ستون‌هاي نمايش لیست هویت انتخاب کنيد.
 
 
 ![](bank6.png)

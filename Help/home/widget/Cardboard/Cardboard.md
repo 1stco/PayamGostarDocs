@@ -1,6 +1,6 @@
 # ویجت کارتابل 
 
- در این قسمت کارهای ارجاع شده به کاربر([تایید آیتم‌های مالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/widget/Cardboard/Approved-items/Approved-items.md)، [فرآیندها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Category-docs/Process-management.md) و... )  در دسته‌بندی‌های ذیل نمایش داده می‌شوند.
+ در این قسمت کارهای ارجاع شده به کاربر([تایید آیتم‌های مالی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Cardboard/Approved-items/Approved-items.md)، [فرآیندها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Category-docs/Process-management.md) و... )  در دسته‌بندی‌های ذیل نمایش داده می‌شوند.
  
  > **نکته:** عددی که رو به روی هر کارتابل نمایش داده می‌شود نشانگر نسبت تعداد کارهایی است که  امروز (از 12:01 بامداد) وارد آن کارتابل شده (عدد بالایی) به کل کارهایی که در اون کارتابل وجود دارد .
 

@@ -18,19 +18,19 @@
 
 ·  **ب) گروه کاربری(علامت 3 آدمک):** اجازه می دهد یک گروه کاربری را برای ارجاع وظیفه انتخاب کنید.
 
-نکته: برای تغییر این گروه ها به قسمت [مدیریت گروه ها و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md) مراجعه کنید.
+نکته: برای تغییر این گروه ها به قسمت [مدیریت گروه ها و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/Manage-groups-and-users.md) مراجعه کنید.
 
 ·  **ج) سمت:** می توانید یک سمت کاربری (مثلا تمامی سرپرست فروش ها) را برای ارجاع انتخاب کنید. در این حالت تمامی کاربرانی که دارای این سمت باشند برای ارسال وظیفه انتخاب خواهند شد.
 
-نکته: برای تغییر این سمت ها به قسمت[ مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)مراجعه کنید.
+نکته: برای تغییر این سمت ها به قسمت[ مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/branches-department/branches-department.md)مراجعه کنید.
 
 · **د) دپارتمان:** می توانید یک دپارتمان (برای مثال دپارتمان مالی) را برای ارجاع انتخاب کنید. در این حالت این وظیفه برای تمامی کاربرانی که تحت آن دپارتمان کار می کنند ارسال خواهد شد.
 
-> نکته: برای تغییر این دپارتمان ها به قسمت[ مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)مراجعه کنید.
+> نکته: برای تغییر این دپارتمان ها به قسمت[ مدیریت شعب - دپارتمان و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/branches-department/branches-department.md)مراجعه کنید.
 
 **و) حکم:** می توانید یک حکم پرسنلی (برای مثال کاربرانی که حکم مدیر فروشی دارند.) را برای ارجاع انتخاب کنید. در این حالت تمامی کاربرانی که شامل آن حکم می شوند، برای ارجاع وظیفه انتخاب خواهند شد.
 
-> نکته: برای تغییر این حکم ها به قسمت [  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)   مراجعه کنید
+> نکته: برای تغییر این حکم ها به قسمت [  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md)   مراجعه کنید
 
 **3. مهلت:** زمانی که وظیفه باید به انتها برسد را مشخص کنید. (این زمان در لیست پیگیری های فرد دریافت کننده وظیفه نمایش داده می شود.)
 
@@ -38,7 +38,7 @@
 
 **5. پیام خاتمه:** در صورت خاتمه پیدا کردن این وظیفه یک پیام به کاربری که این وظیفه را ارجاع داده است ارسال می کند. این پیام می تواند پیامک، ایمیل، پیام شبکه اجتماعی و یا یک پیام داخل سیستمی باشد.
 
-> نکته: این پیام ها را در قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md) می توانید تنظیم کنید.
+> نکته: این پیام ها را در قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Manage-system-messages/Manage-system-messages.md) می توانید تنظیم کنید.
 
 **6. نوع ارسال:** ارسال به سه صورت می تواند انجام شود:
 

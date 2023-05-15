@@ -10,7 +10,7 @@
 
 **1)**    با فعال‌کردن چک باکس اعمال و تعیین مقدار موردنظر، آن فیلد طی این فرایند مقداردهی می‌شود.
 
-**2)**    درصورتی‌که بخواهید مقداردهی فیلدها از بانک اطلاعاتی پیام‌گستر انجام شود، باید چک باکس عبارت هم فعال شود و کوئری موردنظر برای دریافت اطلاعات نوشته شود.(نحوه مقداردهی فیلدها از طریق نوشتن Custom Expression در بخش [نحوه استفاده از Expression](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom-Expression.md) توضیح داده شده است.)
+**2)**    درصورتی‌که بخواهید مقداردهی فیلدها از بانک اطلاعاتی پیام‌گستر انجام شود، باید چک باکس عبارت هم فعال شود و کوئری موردنظر برای دریافت اطلاعات نوشته شود.(نحوه مقداردهی فیلدها از طریق نوشتن Custom Expression در بخش [نحوه استفاده از Expression](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/Custom-Expression.md) توضیح داده شده است.)
 
 > **نکته:**<br>
 > اگر برای یکی از فیلدها مقداری وارد نکنید و چک باکس "اعمال" را برای آن فعال کرده باشید، فیلد با اجرای این فعالیت خالی خواهد شد.

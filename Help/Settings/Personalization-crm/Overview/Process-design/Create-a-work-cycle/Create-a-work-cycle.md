@@ -17,19 +17,19 @@
 
 ![نمای کلی ایجاد چرخه‌کاری](./Images/Work-flow-settings-over-view.png)
 
-**1. ابزار طراحی فرآیند جدید:** به [ ابزار طراحی فرآیند به صورت شماتیک با ابزار پیام گستر](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/abzar-tarahi/abzar-tarahi.md) مراجعه کنید.
+**1. ابزار طراحی فرآیند جدید:** به [ ابزار طراحی فرآیند به صورت شماتیک با ابزار پیام گستر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/abzar-tarahi/abzar-tarahi.md) مراجعه کنید.
 
 **2. ابزار طراحی فرآیند:** به  ابزار طراحی فرآیند به صورت شماتیک با ابزار گوگل مراجعه کنید .
 
-**3. افزودن کارتابل:** به [ کارتابل ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Cardboard/Cardboard.md)مراجعه کنید.
+**3. افزودن کارتابل:** به [ کارتابل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Cardboard/Cardboard.md)مراجعه کنید.
 
 
-**4. افزودن فعالیت:** به [ فعالیت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Activity.md)مراجعه کنید.
+**4. افزودن فعالیت:** به [ فعالیت ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Activity.md)مراجعه کنید.
 
-**5. افزودن حالت نهایی:** می توانید حالت نهایی چرخه کاری را ایجاد کنید. به[ حالت نهایی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Final-mode/Final-mode.md) مراجعه کنید.
+**5. افزودن حالت نهایی:** می توانید حالت نهایی چرخه کاری را ایجاد کنید. به[ حالت نهایی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Final-mode/Final-mode.md) مراجعه کنید.
 
 
-**6. افزودن عملیات جدید:** با انتخاب یکی از کارتابل ها و کلیک روی این دکمه می توانید یک[ اقدام](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Action/Action.md) جدید برای کارتابل مربوطه ایجاد کنید.
+**6. افزودن عملیات جدید:** با انتخاب یکی از کارتابل ها و کلیک روی این دکمه می توانید یک[ اقدام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Action/Action.md) جدید برای کارتابل مربوطه ایجاد کنید.
 
 **7. ترتیب گذاری کارتابل ها و انتظارها:**  در این قسمت می‌توانید ترتیب گذاری مراحل فرآیند(کارتابل‌ها و انتظارها) را برای نمایش در گزارشات کانبان تعیین کنید.
 این تنظیمات ارتباطی با چگونگی گردش کار ندارد، زیرا چگونگی گردش کار فرآیند با استفاده از اقدام ها و تنظیمات فعالیت ها مشخص می گردد. 

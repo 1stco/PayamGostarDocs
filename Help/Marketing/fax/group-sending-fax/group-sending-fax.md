@@ -4,11 +4,11 @@
 
  اما برای اجرای یک برنامه جدید باید بر روی دکمه " ارسال گروهی جدید " در سمت راست و بالای صفحه کلیک کرده و با گذراندن چند گام ساده، برنامه را به راحتی اجرا کرد .
  
-گام اول - [اطلاعات اولیه]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/1-avalie-print/1-avalie-print.md)
+گام اول - [اطلاعات اولیه]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/print/group-sending-print/1-avalie-print/1-avalie-print.md)
 
-گام دوم- [محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/2-tanzimmatn-print/2-tanzimmatn-print.md)
+گام دوم- [محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/print/group-sending-print/2-tanzimmatn-print/2-tanzimmatn-print.md)
 
-گام سوم- [انتخاب مخاطبان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/3-mokhatab-print/3-mokhatab-print.md)
+گام سوم- [انتخاب مخاطبان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/print/group-sending-print/3-mokhatab-print/3-mokhatab-print.md)
 
 ![](advertising-sendinggroupfax-home.png)
 

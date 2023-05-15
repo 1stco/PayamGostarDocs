@@ -7,7 +7,7 @@
 
 **1. فيلدهاي اصلي:** مي توانيد تعيين کنيد که کداميک از خصوصيات پيش فرض هویت ها در ليست هویت ها نمايش داده شود.
 
-**2. خصوصيات اضافه شده:** علاوه بر فيلدهاي اصلي، فيلدهايي که از طريق [شخصی سازی-افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) به  فیلد های انواع هویت اضافه شده اند را نيز مي توانيد به عنوان ستون هاي نمايش لیست هویت انتخاب کنيد.
+**2. خصوصيات اضافه شده:** علاوه بر فيلدهاي اصلي، فيلدهايي که از طريق [شخصی سازی-افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) به  فیلد های انواع هویت اضافه شده اند را نيز مي توانيد به عنوان ستون هاي نمايش لیست هویت انتخاب کنيد.
 
 ![](bank6.png)
 

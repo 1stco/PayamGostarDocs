@@ -3,7 +3,7 @@
  در این صفحه ایمیل‌های ارسالی، آدرس گیرنده، تاریخ ارسال، وضعیت ارسال، وضعیت تحویل، وضعیت دنبال، محتوای پیام و گیرندگان قابل مشاهده است.
 
 >**نکته**<br>
->برای اطلاعات بیشتر در خصوص لیست ارسال ها به قسمت  [اطلاعات مشترک لیست ارسال](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Send-ist/moshtarake-liste-ersal.md) مراجعه کنید.
+>برای اطلاعات بیشتر در خصوص لیست ارسال ها به قسمت  [اطلاعات مشترک لیست ارسال](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Send-ist/moshtarake-liste-ersal.md) مراجعه کنید.
 
 ![لیست ایمیل‌های ارسالی](ListofSentEmailsAdvertising.png)
 

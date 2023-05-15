@@ -10,7 +10,7 @@
 
 **1**. نام مناسبی برای حالت نهایی فرآیند، برگزینید.
 
-**2**. می توانید پیام سیستمی مربوط به پایان فرآیند را جهت ارسال به هویت مرتبط با آیتم در این وضعیت نهایی فعال کنید. دکمه ویرایش موجود در این قسمت، میانبری برای ویرایش متن مرتبط با این پیام در قسمت[ مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md) می باشد.
+**2**. می توانید پیام سیستمی مربوط به پایان فرآیند را جهت ارسال به هویت مرتبط با آیتم در این وضعیت نهایی فعال کنید. دکمه ویرایش موجود در این قسمت، میانبری برای ویرایش متن مرتبط با این پیام در قسمت[ مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Manage-system-messages/Manage-system-messages.md) می باشد.
 
 
 

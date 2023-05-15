@@ -14,7 +14,7 @@
 
 ![](Phonesystemsmanagement2.jpg)
 
-از این داخلی‌ها درلیست تماس‌های نرم‌افزار استفاده می‌شود. همچنین در گزارشات و تنظیمات [محدودیت‌های مشاهده تماس‌های ورودی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/calls/calls.md)، بر روی این داخلی‌های تعریف شده لحاظ خواهد شد.
+از این داخلی‌ها درلیست تماس‌های نرم‌افزار استفاده می‌شود. همچنین در گزارشات و تنظیمات [محدودیت‌های مشاهده تماس‌های ورودی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/calls/calls.md)، بر روی این داخلی‌های تعریف شده لحاظ خواهد شد.
 
 
 

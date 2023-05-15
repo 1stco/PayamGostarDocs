@@ -6,7 +6,7 @@
 
 ![](2020-01-08_9-37-49.png)
 
-> نکته: لطفا ابتدا قسمت[  فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md)را مطالعه کنید.
+> نکته: لطفا ابتدا قسمت[  فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md)را مطالعه کنید.
 
 
 **1. نوع:** می توانید نوع آیتم دلخواه را برای فیلتر کردن مشخص کنید.

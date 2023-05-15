@@ -2,7 +2,7 @@
 
 برای طراحی فرآیند های کاری سازمانی خود میتوانید بر روی موجودیت های crm ، یک چرخه کاری طراحی کنید و آن را فعالسازی کنید. برای طراحی چرخه کاری بر روی هر یک از آیتم ها به طور مثال فاکتور، فرم و فرصت و ...، لطفا مراحل زیر را طی نمایید.
 
-> **نکته:** ابتدا بخش [اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md)را مطالعه فرمایید.
+> **نکته:** ابتدا بخش [اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/General-information.md)را مطالعه فرمایید.
 
 
 در اولین مرحله، فرآیند یا چرخه کاری خود را بایستی از بخش ویرایش چرخه کاری طراحی نمایید.
@@ -21,7 +21,7 @@
 
 فیلدهای مورد نیازی که باید طی مراحل فرآیند توسط کاربران تکمیل شود و پردازشی روی آن صورت گیرد و یا نیاز باشد گزارشی از آن تهیه شود باید در این قسمت ساخته شود.
 
-برای اطلاع از شیوه اضافه کردن فیلدها به [تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)مراجعه کنید.
+برای اطلاع از شیوه اضافه کردن فیلدها به [تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)مراجعه کنید.
 
 
 ![](ProcessDesignCycle5.jpg)

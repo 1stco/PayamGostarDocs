@@ -2,7 +2,7 @@
 
 از این صفحه می توانید سیستم درخواست (Ticketing) جدیدی را تنظیم و درخواست های  ساخته شده را ویرایش و یا حذف نمایید.
 
-لطفا ابتدا [اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md)را در این خصوص مطالعه فرمایید.
+لطفا ابتدا [اطلاعات کلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/General-information.md)را در این خصوص مطالعه فرمایید.
 
 
 درخواست در واقع پاسخ دهی به ایمیل ها بر روی یک خط خاص و مدیریت ایمیل های آن خط محسوب می شود، به طوری که که هر ایمیل ارسال شده بر روی آن خط شماره ای به صورت خودکار دریافت می کند و ارسال کننده ایمیل می توانند ایمیل را از طریق شماره آن پیگیری نماید.
@@ -11,7 +11,7 @@
 
 با کلیک بر روی آیکون + می توانید یک نوع درخواست پشتیبانی جدید را ایجاد نمایید.
 
-برای تنظیمات عمومی درخواست پشتیبانی به[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)مراجعه کنید.
+برای تنظیمات عمومی درخواست پشتیبانی به[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)مراجعه کنید.
 
 
 ![](67.png)

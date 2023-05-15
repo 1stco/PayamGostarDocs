@@ -4,7 +4,7 @@
 
 در این بخش لیست فرصت‌های ثبت شده برای هویت به دو حالت نمایش کانبان و لیستی قابل مشاهده می‌باشد.
 
-در حالت کانبان فرصت‌ها براساس مراحلی که در آن قرار دارند نمایش داده می‌شود. (برای مطالعه بیشتر به بخش[ مرحله‌بندی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید.)
+در حالت کانبان فرصت‌ها براساس مراحلی که در آن قرار دارند نمایش داده می‌شود. (برای مطالعه بیشتر به بخش[ مرحله‌بندی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید.)
 
 ![](Opportunities1.png)
 
@@ -23,7 +23,7 @@
 
 **4. نوع فیلتر:** می توانید فیلترهای انتخاب شده را با یک نام مشخص ذخیره کرد تا بتوان به سرعت از آن استفاده کرد .
 
-**5. جدول فرصت ها:** در این جدول می توانید تمامی فرصت های ثبت شده برای این هویت را بر اساس فیلدهای فرصت (فیلد هایی که در بخش شخصی سازی برای نمایش در لیست فرصت انتخاب شده اند) را مشاهده کنید، برای آشنایی با هرکدام از این فیلدها به صفحه راهنمای[ فرصت جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md) مراجعه کنید. در واقع مزیت استفاده از این جدول در اینست که می توان در یک نگاه مشاهده نمود که فرصت های ثبت شده برای مشتری از چه منابعی شکل گرفته اند و یا اینکه در کدام مرحله قرار دارند. شما در این لیست امکان گزارش گیری از فرصت های ثبت شده برای این مخاطب را دارید .  برای آشنایی بیشتر با نحوه گزارش گیری به بخش[ گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید
+**5. جدول فرصت ها:** در این جدول می توانید تمامی فرصت های ثبت شده برای این هویت را بر اساس فیلدهای فرصت (فیلد هایی که در بخش شخصی سازی برای نمایش در لیست فرصت انتخاب شده اند) را مشاهده کنید، برای آشنایی با هرکدام از این فیلدها به صفحه راهنمای[ فرصت جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md) مراجعه کنید. در واقع مزیت استفاده از این جدول در اینست که می توان در یک نگاه مشاهده نمود که فرصت های ثبت شده برای مشتری از چه منابعی شکل گرفته اند و یا اینکه در کدام مرحله قرار دارند. شما در این لیست امکان گزارش گیری از فرصت های ثبت شده برای این مخاطب را دارید .  برای آشنایی بیشتر با نحوه گزارش گیری به بخش[ گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید
 
 ![](Opportunities2.jpg)
 

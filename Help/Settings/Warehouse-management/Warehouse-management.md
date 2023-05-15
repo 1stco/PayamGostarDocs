@@ -2,7 +2,7 @@
 
 در این صفحه می توانید گروه های انباری مختلف ایجاد و برای هر گروه انباری، انبارهای مختلفی را تعریف کنید. مجوز های هر انبار و محصولات مجاز در آن نیز در این قسمت تعیین می گردد.
 
-> نکته: لطفا ابتدا محصولات خود را در قسمت[ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)دسته بندی و ایجاد کنید.
+> نکته: لطفا ابتدا محصولات خود را در قسمت[ مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product%20management/Product-management.md)دسته بندی و ایجاد کنید.
 
 ![](Warehousemanagement1.png)
 

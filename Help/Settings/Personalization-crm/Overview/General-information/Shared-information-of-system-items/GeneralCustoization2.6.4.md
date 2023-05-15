@@ -35,7 +35,7 @@
 *به عنوان مثال*<br>
 *برای آیتم فرصت، کد Opportunity را می‌توانید انتخاب کنید.*
 
-6. **مالک**: مالک آیتم کسی است که علاوه بر مدیران و راهبران سیستم می تواند گردش کار آیتم مربوطه را ویرایش کند و مجوزی همانند مدیر ارتباط با مشتریان در آن آیتم را کسب می کند . جزئیات مربوط به این قابلیت را در مقاله [مالک آیتم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Item-owner/Item-owner.md) مطالعه کنید.
+6. **مالک**: مالک آیتم کسی است که علاوه بر مدیران و راهبران سیستم می تواند گردش کار آیتم مربوطه را ویرایش کند و مجوزی همانند مدیر ارتباط با مشتریان در آن آیتم را کسب می کند . جزئیات مربوط به این قابلیت را در مقاله [مالک آیتم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Item-owner/Item-owner.md) مطالعه کنید.
 
 7. **نوع هویت مرتبط پیش‌فرض**: در این قسمت می‌توانید نوع هویت پیش فرض برای ایجاد هویت مرتبط با آیتم را که که از قسمت مرتبط با هر آیتم ایجاد میشود را انتخاب کرد. 
  
@@ -56,19 +56,19 @@
 13. **وب هوک**: به عنوان یکی از امکانات نرم افزار، شما از این قسمت می‌توانید تعیین کنید که پس از هر بار ایجاد، به روز رسانی و ویرایش این آیتم یک آی دی مبنی بر تغییر آیتم به آدرسی که در این قسمت تعیین می‌کنید فرستاده شود.
  این امکان برای ارتباط این آیتم با یک وب سرویس بیرونی در نظر گرفته شده و قابل استفاده توسط برنامه نویسان است. (برای مثال ارتباط با نرم افزار حسابداری یا یک وب سایت و ...)
  
-14. **مشتریان اجازه مشاهده این نوع را دارند**: با فعال کردن این گزینه مشتریان با ورود به صفحه تاریخچه من[ باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md) خود می‌توانند آیتم‌هایی از این نوع را که در سوابق خود دارند مشاهده کنند. 
+14. **مشتریان اجازه مشاهده این نوع را دارند**: با فعال کردن این گزینه مشتریان با ورود به صفحه تاریخچه من[ باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md) خود می‌توانند آیتم‌هایی از این نوع را که در سوابق خود دارند مشاهده کنند. 
 (برای مثال بتوانند پرداخت‌های خود را مشاهده کنند.)
  
-15. **مشتریان اجازه مشاهده فیلدهای اضافه شده به این نوع را دارند**: با فعال بودن این گزینه مشتریان با باز کردن آیتم مربوطه در صفحه تاریخچه من [باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)خود می‌توانند فیلد‌های اضافه شده
+15. **مشتریان اجازه مشاهده فیلدهای اضافه شده به این نوع را دارند**: با فعال بودن این گزینه مشتریان با باز کردن آیتم مربوطه در صفحه تاریخچه من [باشگاه مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)خود می‌توانند فیلد‌های اضافه شده
 (جهت مشاهده تنظیمات اضافه کردن فیلد مورد 14 را مشاهده نمایید) در آیتم مربوطه را مشاهده کنند. (برای مثال فیلد‌های اضافه شده به پیش فاکتور خود را مشاهده کنند.)
  
 16. **مشتریان اجازه ایجاد این نوع را دارند**: با فعال بودن این گزینه مشتریان با ورود به صفحه باشگاه مشتریان خود می‌توانند این نوع آیتم را ایجاد کنند. (برای مثال می‌توان اجازه ایجاد فرم نظر سنجی را به مشتریان عضو باشگاه مشتریان تخصیص داد.) 
 
 > **نکته**<br>
-> برای اطلاعات بیشتر در این خصوص، قسمت [داشبورد مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)را مطالعه کنید.
+> برای اطلاعات بیشتر در این خصوص، قسمت [داشبورد مشتریان ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)را مطالعه کنید.
  
  
-17. **طراح فرم**: اجازه اضافه کردن فیلدها با استفاده از یک ویرایشگر شماتیک (تصویری) را فراهم می‌کند. برای اطلاع از جزییات بیشتر قسمت [ طراح فرم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Form-designer/Form-designer.md)را مطالعه کنید.
+17. **طراح فرم**: اجازه اضافه کردن فیلدها با استفاده از یک ویرایشگر شماتیک (تصویری) را فراهم می‌کند. برای اطلاع از جزییات بیشتر قسمت [ طراح فرم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Form-designer/Form-designer.md)را مطالعه کنید.
  
 18. **گروه فیلدها**: برای فیلدهایی که قصد ساخت آن را دارید نام و تعداد ستون‌های گروه آن را تعیین کنید.
  این کار به منظور دسته بندی فیلدهای ساخته شده صورت می‌پذیرد که سهولت استفاده از آن آیتم را در برخواهد داشت.
@@ -99,16 +99,16 @@
  
 20. **افزودن مشخصه( فیلد)** فیلدهای خاص مربوط به آیتم خود را می‌توانید از قسمت فیلدها و دکمه افزودن مشخصه بسازید. <br>
 همچنین فیلد اضافه شده در قسمت پارامترهای هوشمند، به عنوان فیلدهای آیتم نمایش داده می‌شود. .برای ساخت فیلدها فقط کافیست نام فیلد، نوع فیلد( یکی از انواع متن، لیست، چک باکس و ...) و گروه فیلدی مربوطه را انتخاب نمایید.
-(برای اطلاعات تکمیلی در خصوص انواع فیلدها به [افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/2.6.0/Add-features.md) مراجعه کنید.) 
+(برای اطلاعات تکمیلی در خصوص انواع فیلدها به [افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/2.6.0/Add-features.md) مراجعه کنید.) 
 
 21. **افزودن عبارت**: در این قسمت می‌توانید یک عبارت ثابت وارد کرده و از آن در تنظیم قالب چاپی استفاده نمایید. این عبارت به عنوان یکی از فیلدهای آیتم نمایش داده نخواهد شد و تنها می‌توانید از پارامتر هوشمند آن برای تنظیم قالب چاپی (پیش نمایش) آیتم‌ها استفاده کنید. (به طور مثال اگر در پیش نمایش تعداد زیادی از فرم‌ها و سوابق دیگر، آدرس شرکت را درج میکنید، می‌توانید آدرس را به عنوان یک عبارت در قسمت سوپرفیلدهای هویت تعریف نموده و از آن در تنظیم قالب چاپی تمامی آیتم‌ها استفاده کنید)
 
-22. **قالب چاپ**: در این قسمت می‌توانید قالب چاپ (پیش نمایش) آیتم را تنظیم کنید. برای اطلاع از چگونگی انجام این کار به قسمت [تنظیم قالب چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Set-the-print-template/Set-the-print-template.md)مراجعه کنید.
+22. **قالب چاپ**: در این قسمت می‌توانید قالب چاپ (پیش نمایش) آیتم را تنظیم کنید. برای اطلاع از چگونگی انجام این کار به قسمت [تنظیم قالب چاپ ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Set-the-print-template/Set-the-print-template.md)مراجعه کنید.
 
 
 23. **بازخوانی از قالب**: برای برخی از آیتم‌های (مانند پیش فاکتور یا فاکتور فروش) یک قالب چاپی پیشفرض در نرم افزار پیام گستر طراحی شده است، با استفاده از این دکمه می‌توان قالب پیشفرض نرم افزار را جایگزین قالب چاپ فعلی کرد.
 
-24. **مراحل**: برای مطالعه بیشتر به [بخش مرحله بندی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید .
+24. **مراحل**: برای مطالعه بیشتر به [بخش مرحله بندی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md) مراجعه کنید .
 
 ### تنظیمات نمایشی فیلد در لیست
 

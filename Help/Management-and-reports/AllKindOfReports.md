@@ -2,9 +2,9 @@
 در صفحه گزارش‌ها به طور پیش‌فرض دو  دسته‌بندی اصلی به نام‌های **گزارش‌های سیستمی** و **گزاش‌های پرکاربرد** وجود دارد. <br>
 علاوه بر آن در این قسمت امکان ایجاد **دسته‌بندی و گزارش جدید** وجود دارد که می‌توانید منابع اطلاعاتی دلخواه و نوع گزارش مدنظر خود را از این طریق ایجاد کنید. <br>
 برای دسترسی به صفحه‌ی گزارش‌ها از مسیر **گزارش‌ها** > **لیست گزارش‌ها** اقدام نمایید. در منوی سمت راست، نمودار درختی دسته‌بندی‌ها را مشاهده می‌کنید. 
-- [**دسته‌بندی گزارش‌های سیستمی**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/SystemReports.md)<br>
+- [**دسته‌بندی گزارش‌های سیستمی**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/SystemReports.md)<br>
    در این بخش تمامی گزارش‌های پیش‌فرضی که از گذشته در نرم‌افزار بودند، قرار دارد و در نسخه جدید تنها نمایش نمودار درختی آن  تغییر کرده است.
-- [**گزارش‌های پرکاربرد**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/FrequentlyUsedReports/FrequentlyUsedReportsIntroduction.md)<br>
+- [**گزارش‌های پرکاربرد**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/FrequentlyUsedReports/FrequentlyUsedReportsIntroduction.md)<br>
    با توجه به نیاز کسب‌وکارها، بر روی آیتم‌های CRM، ابزارهای ارتباطی، پیگیری‌ها، اطلاعات هویت‌ها و سایر اطلاعات ثبت شده در نرم‌افزار، پرکاربردترین گزارش‌ها در 9 دسته‌بندی مجزا طراحی و به صورت آماده در این بخش پیاده‌سازی شده است. <br>
-- [**سایر دسته‌بندی‌ها و گزارش‌های ایجاد شده توسط کاربر**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/Report-Builder/ReportBuilderIntroduction.md)<br>
+- [**سایر دسته‌بندی‌ها و گزارش‌های ایجاد شده توسط کاربر**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/ReportBuilderIntroduction.md)<br>
    علاوه بر دو نوع گزارش بالا، تمامی گزارش‌هایی که از قسمت گزارش‌ساز جدید پیام‌گستر ساخته‌اید، در این بخش قابل مشاهده است.<br>

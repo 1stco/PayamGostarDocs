@@ -3,7 +3,7 @@
 **نکته:** لازم به ذکر است برای دریافت این گزارش بایستی مجوز مدیر فروش را داشته باشید.
 
 
-در [مدیریت گروه و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Manage-groups-and-users.md) همانطور که در شکل دیده می شود می توان برای هر کدام از کاربران درصد پورسانتی را مشخص کرد. ب
+در [مدیریت گروه و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/Manage-groups-and-users.md) همانطور که در شکل دیده می شود می توان برای هر کدام از کاربران درصد پورسانتی را مشخص کرد. ب
 
 ![](MohasebeyePorsant3.png)
 

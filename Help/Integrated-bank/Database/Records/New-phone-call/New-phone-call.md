@@ -5,7 +5,7 @@
 برای ثبت سابقه تماس تلفنی مراحل زیر را انجام دهید:
 
 **1.**  ابتدا موضوع تماس مشتری را در  **موضوع** ثبت کنید.<br>
-**2.** نوع تماس را با توجه به هدف آن در **نوع تماس** مشخص کنید. ردیف لیست‌های نمایش داده شده در  [مدیریت آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md)  قابل تغییر است<br>
+**2.** نوع تماس را با توجه به هدف آن در **نوع تماس** مشخص کنید. ردیف لیست‌های نمایش داده شده در  [مدیریت آیتم‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Management-of-system-items/Management-of-system-items.md)  قابل تغییر است<br>
 **3.** در قسمت  **مدت مکالمه**، با زدن دکمه  سبز رنگ Play   در ابتدای تماس و زدن دکمه توقف در پایان تماس، مدت مکالمه را ثبت کنید.<br>
 
 > **نکته**<br>
@@ -21,4 +21,4 @@
 ![یجاد آیتم تماس تلفنی جدید](NewCallItem.png)
 
 >**نکته**<br>
->بعد از ذخیره انواع سوابق، سربرگ‌های مشترکی در تمام آنها نمایش داده می‌شود. برای توضیحات بیشتر [اطلاعات مشترک سوابق](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md) را مطالعه کنید.
+>بعد از ذخیره انواع سوابق، سربرگ‌های مشترکی در تمام آنها نمایش داده می‌شود. برای توضیحات بیشتر [اطلاعات مشترک سوابق](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md) را مطالعه کنید.

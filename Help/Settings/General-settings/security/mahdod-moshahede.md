@@ -2,7 +2,7 @@
 
 در بخش امنیتی نرم‌افزار امکان محدود کردن مشاهده‌ی هویت‌ها به مسئولین پروفایل با فعال کردن چک باکس "محدود کردن مشاهده اطلاعات مخاطبان به کاربران مرتبط" وجود دارد.
 
-منظور از کاربران مرتبط مسئول فروش، پشتیبانی و متفرقه می‌باشد که در صفحه [مشخصات مخاطب](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/General-specifications/General-specifications.md) مشخص شده اند. 
+منظور از کاربران مرتبط مسئول فروش، پشتیبانی و متفرقه می‌باشد که در صفحه [مشخصات مخاطب](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/General-specifications.md) مشخص شده اند. 
 
 ![](mahdod1.jpg)
 

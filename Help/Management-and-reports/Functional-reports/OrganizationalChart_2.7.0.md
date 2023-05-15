@@ -9,7 +9,7 @@
 
  ![انتخاب شعبه](./Images/select-branch.jpg)
 
- تنظیمات و ویرایش چارت سازمانی از طریق منوی[ مدیریت شعب، دپارتمان و سمت](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/branches-department/branches-department.md) صورت می‌گیرد. مجموع تعداد وظایف، پیگیری‌ها،
+ تنظیمات و ویرایش چارت سازمانی از طریق منوی[ مدیریت شعب، دپارتمان و سمت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/branches-department/branches-department.md) صورت می‌گیرد. مجموع تعداد وظایف، پیگیری‌ها،
  قرارملاقات‌ها و فرآیندهای هر دپارتمان‌ در یک چارت نمایش داده می‌شود.
 
 > **نکته:** <br> توجه داشته باشید که آیتم‌های وظیفه، پیگیری، قرار ملاقات و فرایند موجود در کارتابل کاربرانی که به آنها حکم سازمانی تخصیص نداده‌اید در محاسبات این گزارش لحاظ **نخواهد شد**.

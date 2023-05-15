@@ -1,6 +1,6 @@
 #  مشاهده مسئولیت‌های کاربر در کارتابل فرآیند    
 
- در این قسمت می توانید تمام فرآیند هایی که توسط [چرخه‌ها و گردش‌های کاری](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Category-docs/Process-management.md) برای شما ارسال شده است را مشاهده کنید.
+ در این قسمت می توانید تمام فرآیند هایی که توسط [چرخه‌ها و گردش‌های کاری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Category-docs/Process-management.md) برای شما ارسال شده است را مشاهده کنید.
  
  
 **تغییر رنگ آیتم‌ها در کارتابل:**

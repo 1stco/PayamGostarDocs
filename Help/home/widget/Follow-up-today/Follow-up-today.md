@@ -1,6 +1,6 @@
 # ویجت پیگیری و یادآوری 
 
-در این ویجت لیست کلیه [پیگیری‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) و [وظایف](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Records/New-task/New-task.md)ی که برای خود ثبت کرده‌اید یا وظایفی که کاربران دیگر به شما ارجاع داده‌اند را می‌توانید مشاهده کنید
+در این ویجت لیست کلیه [پیگیری‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) و [وظایف](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-task/New-task.md)ی که برای خود ثبت کرده‌اید یا وظایفی که کاربران دیگر به شما ارجاع داده‌اند را می‌توانید مشاهده کنید
 
 > نکته: نحوه نمایش پیگیری‌ها و وظایف در این قسمت متفاوت است، پیگیری‌ها با آیکون پرچم قرمز رنگ و وظایف با آیکون یادداشت سبزرنگ نمایش داده می‌شوند
 

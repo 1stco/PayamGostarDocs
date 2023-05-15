@@ -6,15 +6,15 @@
 
  در صفحه اول، می توان با تعیین تاریخ اجرا ، ایجاد کننده رویداد و یا عنوان تعریف شده برای رویداد و زدن دکمه فیلتر، لیست برنامه های اجرا شده در گذشته را مشاهده کرد. اما برای اجرای یک برنامه جدید باید بر روی دکمه " رویداد جدید " در سمت راست و بالای صفحه کلیک کرده و با گذراندن چند گام ساده، برنامه را به راحتی اجرا کرد
  
- لطفا ابتدا [اطلاعات مشترک بین ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md) را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید
+ لطفا ابتدا [اطلاعات مشترک بین ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/moshtarak-abzar.md) را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید
 
- گام 1- [اطلاعات رویداد]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/1-avalie-roydad-email/1-avalie-roydad-email.md)
+ گام 1- [اطلاعات رویداد]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Advertising-event-email/1-avalie-roydad-email/1-avalie-roydad-email.md)
 
-گام 2-  [زمان اجرا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/2-zamanbandi-roydad-email/2-zamanbandi-roydad-email.md)
+گام 2-  [زمان اجرا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Advertising-event-email/2-zamanbandi-roydad-email/2-zamanbandi-roydad-email.md)
 
-گام 3-  [تنظیم متن]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
+گام 3-  [تنظیم متن]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/email/Advertising-event-email/3-matn-roydad-email/3-matn-roydad-email.md)
 
-گام 4-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Newsletters/3-entekhab-mokhatab/entekhab-mokhatab.md)
+گام 4-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Newsletters/3-entekhab-mokhatab/entekhab-mokhatab.md)
 
 ![](advertising-sendingeventmail-home.png)
 

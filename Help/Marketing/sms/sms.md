@@ -11,20 +11,20 @@
 
 ![](advertising-sms.png)
 
-[مدیریت ارسال گروهی پیامک](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/send-group/send-group.md)
+[مدیریت ارسال گروهی پیامک](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/send-group/send-group.md)
 
-[رویداد تبلیغاتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Advertising-event/advertising-event.md)
+[رویداد تبلیغاتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Advertising-event/advertising-event.md)
 
-[خبرنامه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Newsletters/newsletters.md)
+[خبرنامه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Newsletters/newsletters.md)
 
- [نظرسنجی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/survey/survery.md)
+ [نظرسنجی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/survey/survery.md)
  
-[مسابقه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Competition/compertition.md)
+[مسابقه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Competition/compertition.md)
 
-[پاسخگوی خودکار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Autoresponder/autoresponder.md)
+[پاسخگوی خودکار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Autoresponder/autoresponder.md)
 
-[لیست پیامک‌های ارسالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Send-ist/send-list-new.md)
+[لیست پیامک‌های ارسالی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/Send-ist/send-list-new.md)
 
-[لیست پیامک‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/resive-list/resive-list.md)
+[لیست پیامک‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/resive-list/resive-list.md)
 
 
