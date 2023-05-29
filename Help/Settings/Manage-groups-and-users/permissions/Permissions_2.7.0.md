@@ -23,7 +23,7 @@
  ![تخصیص مجوز روی گروه‌ها و کاربران](./Images/GroupsAndUsersManagement.png)
 
 - از مسیر **مدیریت شعب، دپارتمان‌ها و سمت‌ها**<br>
-    در این صفحه می‌توانید با توجه به چارت سازمانی به ازای  شعب،دپارتمان و سمت‌های تعریف شده مجوز‌ها را تعیین کنید، پس از تعریف مجوزها می‌توانید در صفحه [ مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md) با توجه به چارت سازمانی حکم‌ها را به کاربران مربوطه تخصیص دهید، در این صورت کاربران با توجه به حکم پرسنلی تخصیص یافته از دسترسی‌های تعریف شده بر روی شعب،دپارتمان و سمت برخوردار خواهند شد. <br>
+    در این صفحه می‌توانید با توجه به چارت سازمانی به ازای  شعب،دپارتمان و سمت‌های تعریف شده مجوز‌ها را تعیین کنید، پس از تعریف مجوزها می‌توانید در صفحه [ مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md) با توجه به چارت سازمانی حکم‌ها را به کاربران مربوطه تخصیص دهید، در این صورت کاربران با توجه به حکم پرسنلی تخصیص یافته از دسترسی‌های تعریف شده بر روی شعب،دپارتمان و سمت برخوردار خواهند شد. <br>
    **برای نظم و ساماندهی به مجوزها، بر روی شعب، دپارتمان‌ها و سمت مجوزها را تخصیص دهید.**
 
 ![تخصیص مجوز روی سمت و دپارتمان](./Images/PermissionOnPositionAndDepartment.png)
@@ -33,7 +33,7 @@
 
 ![تخصیص دسترسی از صفحه شخصی‌سازی آیتم‌ها](./Images/PermisionFromCustomisationPade.png)
 
-   برای مطالعه بیشتر به بخش[ شخصی سازی-مجوزهای آیتم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Item-permissions/Item-permissions.md)مراجعه کنید.
+   برای مطالعه بیشتر به بخش[ شخصی سازی-مجوزهای آیتم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Item-permissions/Item-permissions.md)مراجعه کنید.
 
 ## اولویت عملکرد نرم‌افزار نسبت به مجوزهای داده شده کدام است؟{#OrderOfPermision}
 هر مجوز سه حالت دارد:

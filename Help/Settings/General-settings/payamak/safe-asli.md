@@ -27,20 +27,20 @@
 
 ### اپراتورهای قابل پشتیبانی در پیام‌گستر :
 
-- [تعریف خطوط URL](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/payamak/url.md)
+- [تعریف خطوط URL](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/payamak/url.md)
 
 ارسال پیامک از سایر اپراتورها از طریق URL انجام می‌شود. لازم است اطلاعات پنل پیامکی خود را در بخش تنظیمات URL در تنظیمات کلی > پیامک وارد کنید و هنگام ارسال پیام‌کوتاه نوع رسانه خود را روی URL قرارداده تا از این طریق پیامک ارسال شود.
 
-- [تعریف خطوط مگفا](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/payamak/magfa.md)
+- [تعریف خطوط مگفا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/payamak/magfa.md)
 
 اپراتور ارائه کننده خطوط اینترنتی با سرشماره 3000؛ در بخش مگفا در تنظیمات کلی > پیامک اطلاعات مورد نیاز را وارد کرده و هنگام ارسال پیام‌کوتاه نوع رسانه خود را روی مگفا قرار داده تا از این طریق پیامک ارسال شود.
  
 
-- [تعریف خطوط پرتال اول](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/1st/2.6.0/1st.md)
+- [تعریف خطوط پرتال اول](https://github.com/1stco/PayamGostarDocs/blob/master/Help/1st/2.6.0/1st.md)
 
 اپراتور ارائه دهنده خطوط با سرشماره‌ی 3000 و خط‌های 8 رقمی متناظر با خطوط ثابت؛ برای ارتباط با تجارت اول باید دارای یک حساب کاربری در تجارت اول (www.1st.ir) باشید پس از ثبت‌نام در سایت می‌توانید از طریق منوی بالای صفحه پیام‌گستر، 1st.ir را باز کنید و مشخصات کاربری خود را وارد نمایید و از برقراری اتصال اطمینان حاصل نمایید.
 
-- [GSM Modem](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/gsm/modm-gsm-set.md)
+- [GSM Modem](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/sms/gsm/modm-gsm-set.md)
 
 با نصب و راه‌اندازی دستگاه GSM Modem می‌توانید از طریق سیم کارت پیام خود را ارسال نمایید.
 

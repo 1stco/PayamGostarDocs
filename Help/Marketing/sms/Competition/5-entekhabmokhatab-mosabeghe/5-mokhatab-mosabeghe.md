@@ -2,7 +2,7 @@
 
 اگر در گام قبل تصمیم به ارسال دعوتنامه گرفته باشید، در این گام باید مخاطبان دعوتنامه را تعیین کنید .
 
-برای اطلاعات بیشتر به قسمت[ انتخاب مخاطبان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/gam%20se/select-Audience.md) ارسال گروهی پیام کوتاه مراجعه نمایید.
+برای اطلاعات بیشتر به قسمت[ انتخاب مخاطبان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam%20se/select-Audience.md) ارسال گروهی پیام کوتاه مراجعه نمایید.
 
 
 این مخاطبان باید شامل پروفایل هایی باشند که شماره تلفن همراه در آن ها وجود داشته باشد

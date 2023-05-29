@@ -18,7 +18,7 @@
 > نکته: در نظر داشته باشید که فیلدهایی که حاوی مقادیر و تنظیمات بیشتر هستند (مانند لیست، عدد و ...) باید پس از ساختن آنها به قسمت ویرایش آیتم رفته و مقادیر را در آنها درج کنید
 
 
-> نکته: برای آشنایی بیشتر با انواع فیلدهای موجود و کاربرد آنها، قسمت [ افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) را مطالعه کنید.
+> نکته: برای آشنایی بیشتر با انواع فیلدهای موجود و کاربرد آنها، قسمت [ افزودن مشخصه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md) را مطالعه کنید.
 
 
 **4. تعداد ستون ها:** با کلیک بر روی علامت ویرایش، تعداد ستون هر گروه فیلد را مشخص کنید.

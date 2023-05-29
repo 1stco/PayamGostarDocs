@@ -9,7 +9,7 @@
 
 **1. نوع فیلتر:** میتوانید فیلترهای اعمال شده را به عنوان یک فیلتر اختصاصی خود ذخیره کنید.
 
-> نکته: لطفا ابتدا قسمت[  فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
+> نکته: لطفا ابتدا قسمت[  فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 
 **2. ارسال از:** می توانید تاریخ اولین ارسال را مشخص کنید. این فیلتر به صورت پیشفرض با تاریخ 1 ماه گذشته تکمیل شده است، اما می توانید آن را تغییر دهید.

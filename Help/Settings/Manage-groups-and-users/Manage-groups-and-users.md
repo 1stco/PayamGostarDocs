@@ -10,11 +10,11 @@
 
 ### این منو شامل 3 دسته از تنظیمات به صورت ذیل است:
 
-[1. کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/users/users.md)
+[1. کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/users/users.md)
 
-[2. گروه ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/Groups/Groups.md)
+[2. گروه ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/Groups/Groups.md)
 
-[3. مجوزها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Manage-groups-and-users/permissions/permissions.md)
+[3. مجوزها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/permissions/permissions.md)
 
 ![](GroupsManagementAndUsers1.jpg)
 

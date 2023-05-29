@@ -16,10 +16,10 @@
 ![کل مناسبت‌ها برای زمان‌بندی رویداد تبلیغاتی پیامکی](../Images/all-Events.png)
 
 > **نکته**<br>
-> اگر در [مدیریت اعیاد و مناسبت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md) برای مناسبت‌های تعریف شده پیامی تنظیم شده باشد ، زمانی که تاریخ مورد نظر انتخاب شود برای ارسال رویداد، متن پیام تعریف شده نمایش داده خواهد شد که می‌توانید متن آن را ویرایش کرده و در برنامه استفاده نمایید.
+> اگر در [مدیریت اعیاد و مناسبت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md) برای مناسبت‌های تعریف شده پیامی تنظیم شده باشد ، زمانی که تاریخ مورد نظر انتخاب شود برای ارسال رویداد، متن پیام تعریف شده نمایش داده خواهد شد که می‌توانید متن آن را ویرایش کرده و در برنامه استفاده نمایید.
  
 4. **مناسبت‌های انتخابی**<br>
-   در این حالت لیست تمامی مناسبت‌هایی که در بخش [مدیریت اعیاد و مناسبت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md) تعیین کرده‌اید را نمایش داده ولی چک باکس همه‌ی آن‌ها انتخاب شده نیست و می‌توانید هرکدام از آن مناسبت‌ها را برای رویداد خود انتخاب نمایید.
+   در این حالت لیست تمامی مناسبت‌هایی که در بخش [مدیریت اعیاد و مناسبت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md) تعیین کرده‌اید را نمایش داده ولی چک باکس همه‌ی آن‌ها انتخاب شده نیست و می‌توانید هرکدام از آن مناسبت‌ها را برای رویداد خود انتخاب نمایید.
 
 ![مناسبت‌های انتخابی در رویداد پیامکی](../Images/Event-Optional.png)
    

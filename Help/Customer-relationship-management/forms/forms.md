@@ -7,7 +7,7 @@
 ![](1.png)
 
 
-> نکته: لطفا ابتدا قسمت [ فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.  
+> نکته: لطفا ابتدا قسمت [ فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.  
 
 
 **1. نوع فیلتر:** میتوانید فیلترهای اعمال شده را به عنوان یک فیلتر اختصاصی خود ذخیره کنید.
@@ -20,11 +20,11 @@
 
 **4. حذف کردن:** می توانید فرم(های) انتخاب شده را حذف کنید .
 
-**5. اضافه کردن:** می توانید یک[  فرم جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/New-form/New-form.md) ایجاد نمایید .
+**5. اضافه کردن:** می توانید یک[  فرم جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-form/New-form.md) ایجاد نمایید .
 
 **6. فرستادن به اکسل:** می توانید فرم های انتخاب شده را به صورت خروجی اکسل دریافت نمایید .
 
-**7. مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید .
+**7. مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست درخواست ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید .
 
 **8.زیرنوع فرم:** با استفاده از این فیلد کشویی می توانید زیرنوع  فرم را تغییر دهید (فرم مورد نظر را انتخاب نمایید ).
 
@@ -32,4 +32,4 @@
 
 **کلیک راست:** با کلیک راست بر روی یک یا چند تا از فرم ها می توانید اقدام به ویرایش گروهی یا افزودن سابقه برای آن ها کنید.
 
-> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid وKanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
+> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid وKanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.

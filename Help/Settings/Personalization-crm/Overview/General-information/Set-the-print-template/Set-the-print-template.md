@@ -12,7 +12,7 @@
 
 ![](printpreviewdesign1.png)
 
-**1. قالب:** برای انتخاب یک قالب چاپ از  قالب‌های تعریف شده در[ بخش مدیریت قالب پیام ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Model-message-management/Model-message-management.md)ها  و یا تعریف یک قالب جدید با آپلود یک فایل برای قرارگیری در قالب چاپی، می‌توانید از این گزینه استفاده کنید.
+**1. قالب:** برای انتخاب یک قالب چاپ از  قالب‌های تعریف شده در[ بخش مدیریت قالب پیام ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Model-message-management/Model-message-management.md)ها  و یا تعریف یک قالب جدید با آپلود یک فایل برای قرارگیری در قالب چاپی، می‌توانید از این گزینه استفاده کنید.
 
 **2. محتوا:** جهت ویرایش متن (تنظیم قالب چاپ) از این گزینه استفاده کنید.
 
@@ -57,7 +57,7 @@
 
 ### اضافه کردن امضا
 
-برای اضافه کردن امضا به قالب چاپ آیتم‌هایی که می‌توانند نیاز به تایید داشته باشند (مانند فاکتور، پرداخت، قرارداد و ...)، ابتدا فایل تصویر امضای مورد نظر را در[  آیتم‌های حقوقی/مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md) اضافه و ذخیره کنید و سپس به ترتیب زیر عمل کنید.
+برای اضافه کردن امضا به قالب چاپ آیتم‌هایی که می‌توانند نیاز به تایید داشته باشند (مانند فاکتور، پرداخت، قرارداد و ...)، ابتدا فایل تصویر امضای مورد نظر را در[  آیتم‌های حقوقی/مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md) اضافه و ذخیره کنید و سپس به ترتیب زیر عمل کنید.
 
 **1**. ابتدا یک Text Box ساده ایجادکنید.
 

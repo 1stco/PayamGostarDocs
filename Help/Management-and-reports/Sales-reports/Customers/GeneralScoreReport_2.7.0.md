@@ -3,7 +3,7 @@
 
  ![گزارش کلی امتیازات](./Image/general-score-report.png)
 
-> **نکته:** <br> برای دریافت گزارش کلی امتیازات باید مجوز  **مشاهده‌ امتیازات مشتریان**   و همچنین مجوز [**مشاهده این گزارش**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/SystemReports_2.7.0.md#SystemReportAccess) را داشته باشید.
+> **نکته:** <br> برای دریافت گزارش کلی امتیازات باید مجوز  **مشاهده‌ امتیازات مشتریان**   و همچنین مجوز [**مشاهده این گزارش**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/SystemReports_2.7.0.md#SystemReportAccess) را داشته باشید.
 
  با استفاده از این گزارش شما می‌توانید  مجموع امتیازات کسب‌شده توسط مشتریان را به تفکیک پایه امتیازهای مختلف مشاهده کنید. امکان تهیه خروجی اکسل از این اطلاعات نیز وجود دارد.
 

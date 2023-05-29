@@ -12,4 +12,4 @@
 
 ![](tabdil-sarnakh1.jpg)
 
-> **نکته:** می توانید در قسمت [جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Advanced-search/Advanced-search.md) لیست سرنخ هایی را که صلاحیت آن ها تایید شده است (تبدیل به مخاطب شده اند) را در اختیار داشته باشید. برای انجام این کار باید پارامتر "وضعیت سرنخ" را بر اساس گزینه "واجد شرایط" فیلتر کنید. 
+> **نکته:** می توانید در قسمت [جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Advanced-search/Advanced-search.md) لیست سرنخ هایی را که صلاحیت آن ها تایید شده است (تبدیل به مخاطب شده اند) را در اختیار داشته باشید. برای انجام این کار باید پارامتر "وضعیت سرنخ" را بر اساس گزینه "واجد شرایط" فیلتر کنید. 

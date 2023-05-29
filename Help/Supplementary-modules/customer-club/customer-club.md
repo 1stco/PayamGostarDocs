@@ -8,9 +8,9 @@
 
 > نکته: آیتم های 11، 12 و 13 از قسمت  تنظیمات مشترک آیتم های سیستم را مطالعه کنید.
 
-[ایجاد نام کاربری](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Supplementary-modules/customer-club/Create-username%2FCreate-username.md)
+[ایجاد نام کاربری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Create-username%2FCreate-username.md)
 
-[داشبورد مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)
+[داشبورد مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)
 
  
 

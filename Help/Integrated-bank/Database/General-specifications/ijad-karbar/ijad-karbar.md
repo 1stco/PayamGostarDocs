@@ -10,5 +10,5 @@
 
 > نکته: لازم به ذکر است مشتریانی که از این طریق برایشان نام کاربری و رمز عبور ایجاد کرده اید به صورت پیش فرض فعال هستند. لذا پیام فعالسازی برای آنها ارسال نمی گردد.در نظر داشته باشید، به منظور ایجاد نام کاربری از طریق ثبت نام در باشگاه مشتریان،این پیام جهت فعالسازی، برای مشتریان ارسال می شود.
 
-برای توضیحات مربوط به پیام فعال سازی می توانید به قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Manage-system-messages/Manage-system-messages.md)
+برای توضیحات مربوط به پیام فعال سازی می توانید به قسمت [مدیریت پیام های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Manage-system-messages/Manage-system-messages.md)
  مراجعه کنید.

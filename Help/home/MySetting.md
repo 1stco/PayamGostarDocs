@@ -2,7 +2,7 @@
 
 این قسمت تنظیمات مرتبط با هر کاربر نمایش داده می‌شود.
 
- **1. کارتابل من:** تب های نمایش داده شده در[ کارتابل](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/home/widget/Cardboard/Cardboard.md) خود را در این قسمت می توانید تعیین کنید.
+ **1. کارتابل من:** تب های نمایش داده شده در[ کارتابل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Cardboard/Cardboard.md) خود را در این قسمت می توانید تعیین کنید.
  
  
  ![معرفی صفحه تنظظیمات من (تنظیمات حساب کاربر)](./Images/User-account-setting-introduction.jpg)

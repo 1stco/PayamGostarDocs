@@ -4,7 +4,7 @@
 
 ![](Phonesystemsmanagement5.png)
 
-**1. انتخاب شعبه:** ابتدا شعبه ای را که می خواهید سیستم های تلفنی را برای آن تنظیم نمایید، باید انتخاب شود. این شعب از قسمت مدیریت[ شعب، دپارتمان ها و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md)ایجاد می شوند.
+**1. انتخاب شعبه:** ابتدا شعبه ای را که می خواهید سیستم های تلفنی را برای آن تنظیم نمایید، باید انتخاب شود. این شعب از قسمت مدیریت[ شعب، دپارتمان ها و سمت ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/branches-department/branches-department.md)ایجاد می شوند.
 
 **2. شماره خط:** با استفاده از این فیلد می توانید شماره خط مورد نظر را فیلتر نمایید.
 
@@ -12,7 +12,7 @@
 
 **4. کاربر متناظر:** با استفاده از این فیلد می توانید کاربر مورد نظری که داخلی برای او تعریف شده است فیلتر کنید . 
 
-**5. سیستم های تلفنی:** سیستم های تلفنی تعریف شده در این لیست نمایش داده می شوند. با کلیک بر روی کلید"مشاهده" صفحه مرتبط با[ وضعیت کنونی مرکز تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Windows/Contact-center-status/Contact-center-status.md)نمایش داده خواهد شد.
+**5. سیستم های تلفنی:** سیستم های تلفنی تعریف شده در این لیست نمایش داده می شوند. با کلیک بر روی کلید"مشاهده" صفحه مرتبط با[ وضعیت کنونی مرکز تماس ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Windows/Contact-center-status/Contact-center-status.md)نمایش داده خواهد شد.
 
 **6. اضافه کردن سیستم تلفنی:** با استفاده از این کلید می توانید یک سیستم تلفنی جدید ایجاد نمایید.
 

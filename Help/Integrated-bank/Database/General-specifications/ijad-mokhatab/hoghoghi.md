@@ -4,7 +4,7 @@
 
 ![](hoghooghii1.png)
 
-پس از انتخاب شرکت، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق [شخصی سازی]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) هویت انجام دهید. 
+پس از انتخاب شرکت، صفحه زیر باز شده و می‌توانید در این صفحه زیرنوع هویت مورد نظرتان را انتخاب کنید.ساخت و ویرایش زیرنوع هویت‌ها را می‌توانید ازطریق [شخصی سازی]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/General-information.md) هویت انجام دهید. 
 
 ![](hoghoghi3.png)
 
@@ -14,7 +14,7 @@
 ![](hoghoghi5.png)
 
  
-**1.کلاس مشتری:** کلاس مشتری را بر حسب خرید (میزان فاکتورها فروش، قراردادهای مالی) تعیین می‌کند. برای اطلاعات بیشتر می‌توانید به [ مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Customer-classification-management/Customer-classification-management.md) رجوع کنید.
+**1.کلاس مشتری:** کلاس مشتری را بر حسب خرید (میزان فاکتورها فروش، قراردادهای مالی) تعیین می‌کند. برای اطلاعات بیشتر می‌توانید به [ مدیریت کلاس بندی مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Customer-classification-management/Customer-classification-management.md) رجوع کنید.
 
 > نکته: قرار گیری مخاطبان در کلاس‌های مختلف به صورت خودکار و بر اساس تنظیمات مشخص شده توسط شما در مدیریت کلاس بندی مشتریان انجام می‌شود و امکان تغییر آن به صورت دستی وجود ندارد.
 
@@ -24,13 +24,13 @@
 
 > نکته: لازم به ذکر است رنگ انتخاب شده برای هویت مورد نظر، علاوه بر اینکه در پنجره تماس نمایان می‌شود در تمامی‌فیلدهایی از نوع شرکت/شخص در نرم افزار نیز پس از انتخاب هویت نمود پیدا می‌کند.
 
-> نکته: برای تغییر رنگ‌ها و افزودن رنگ جدید می‌توانید به [مدیریت رنگ‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Color-management/Color-management.md) مراجعه کنید.
+> نکته: برای تغییر رنگ‌ها و افزودن رنگ جدید می‌توانید به [مدیریت رنگ‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Color-management/Color-management.md) مراجعه کنید.
 
 **4.نام هویت حقوقی:** نام شرکت را وارد نمایید.
 
-**5.نام مدیر:** در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت‌ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می‌شود.
+**5.نام مدیر:** در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت‌ها، شخصی را که به عنوان مدیر تعیین کرده اید در این قسمت نمایان می‌شود.
 
-**6.نام رابط:** در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت‌ها، شخصی را که به عنوان رابط تعیین کرده اید در این قسمت نمایان می‌شود.
+**6.نام رابط:** در[  تب پرسنل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Personnel-Companies/Persenelmd.md)هویت‌ها، شخصی را که به عنوان رابط تعیین کرده اید در این قسمت نمایان می‌شود.
 
 **7.نام تجاری:** در این قسمت نام برند تجاری، وارد خواهد شد
 
@@ -42,11 +42,11 @@
 
 **11.نحوه آشنایی:** می‌توانید نحوه جذب هویت به مجموعه خود را تعیین کنید تا در گزارشات و جستجو‌های نرم افزار از آن استفاده کنید. با تکمیل فیلد نحوه آشنایی می‌توانید گزارش دقیق تری از برجسته ترین روش‌های بازاریابی خود در قسمت گزارشات تحلیلی نرم افزار داشته باشید.
 
-برای ویرایش گزینه‌های نحوه اشنایی و تمام فیلدهای از نوع لیست می‌توانید به[ مدیریت آیتم‌های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md) مراجعه کنید.
+برای ویرایش گزینه‌های نحوه اشنایی و تمام فیلدهای از نوع لیست می‌توانید به[ مدیریت آیتم‌های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Management-of-system-items/Management-of-system-items.md) مراجعه کنید.
 
 **12.مسئول فروش، پشتیبانی و متفرقه:** می‌توانید هر یک از کاربران سیستم را به عنوان یکی از این مسئولان مرتبط با این هویت تعیین کنید و از این مسئولان در گزارشات مختلف استفاده کرده و حتی بر اساس آنها محدودیت مشاهده مخاطبان اعمال کنید و یا در چرخه‌های کاری کارتابل‌ها را به آن‌ها اختصاص دهید.
 
-> نکته: محدودیت مشاهده مخاطبان به کاربران مرتبط را می‌توانید از منوی [امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/General-settings/security/security.md)
+> نکته: محدودیت مشاهده مخاطبان به کاربران مرتبط را می‌توانید از منوی [امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/security/security.md)
 در تنظیمات کلی اعمال کنید
 
 >  **نکته:** مجوزهای مورد نیاز جهت ویرایش مسئول فروش، پشتیبانی و متفرقه‌ی هویت به شرح ذیل می‌باشد
@@ -74,7 +74,7 @@
 
 > نکته: یک هویت می‌تواند همزمان در چند دسته بندی باشد.
 
-**17.مشخصات اضافه:** در قسمت مشخصات اضافه، پارامترهایی که شما با توجه به نیاز کسب و کار خود در ارتباط با مشتریان در قسمت شخصی سازی نرم افزار، از بخش [افزودن مشخصه ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)اضافه کرده اید، نمایش داده خواهند شد.
+**17.مشخصات اضافه:** در قسمت مشخصات اضافه، پارامترهایی که شما با توجه به نیاز کسب و کار خود در ارتباط با مشتریان در قسمت شخصی سازی نرم افزار، از بخش [افزودن مشخصه ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Add-features/Add-features.md)اضافه کرده اید، نمایش داده خواهند شد.
 
 **18**.از این قسمت می‌توانید راه‌های ارتباطی با هویت ( اطلاعات تلفن، تلفن همراه، فکس و تلفکس ) را اضافه کنید.
 
@@ -86,7 +86,7 @@
 
 **21.آدرس:** می‌توانید  با تکمیل پارامتر‌های آدرس، اقدام به ثبت آدرس مورد نظر خود کنید. با فعال کردن دایره کوچک کنار آدرس، می‌توانید یکی از آدرس‌های هویت را به عنوان **پیش‌فرض** تعیین کنید. 
 
-> نکته: میتوان برای ویرایش لیست کشور، استان و یا شهر به[ مدیریت شهر‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Management-of-countries-provinces-and-cities/Management-of-countries-provinces-and-cities.md)مراجعه کنید.
+> نکته: میتوان برای ویرایش لیست کشور، استان و یا شهر به[ مدیریت شهر‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Management-of-countries-provinces-and-cities/Management-of-countries-provinces-and-cities.md)مراجعه کنید.
 
 **22. آدرس جدید:** با استفاده از این گزینه می‌توانید یک آدرس دیگر  (برای مثال آدرس دفتر مرکزی و یا انبار) برای این هویت ایجاد کنید.
 

@@ -27,11 +27,11 @@
 
 **8. قیمت خرید:** می‌توانید قیمت خرید کالا را نیز تعیین نمایید. این قیمت در پیش فاکتور و فاکتورهای خرید به صورت خودکار برای این محصول وارد خواهد شد.(در فاکتور و پیش فاکتور خرید قابل ویرایش می‌باشد)
 
-**9. واحد:** واحد کالا را تعیین نمایید، برای تغییر گزینه‌های این لیست به[ مدیریت آیتم‌های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Management-of-system-items/Management-of-system-items.md)مراجعه کنید.
+**9. واحد:** واحد کالا را تعیین نمایید، برای تغییر گزینه‌های این لیست به[ مدیریت آیتم‌های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Management-of-system-items/Management-of-system-items.md)مراجعه کنید.
 
 **10. برند:** مارک یا برند محصول خود را وارد کنید.
 
-**11. پورسانت فروش:**  می‌توانید برای محصول خود پورسانتی بر حسب درصد و یا یک رقم ثابت در نظر بگیرید.با مشخص کردن پورسانت مربوط به محصول و نوع پورسانت می‌توانید از قسمت مدیریت و گزارشات،[ گزارش پورسانت محصول محور ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Sales-reports/Payroll-calculation/Product-centric-commission/Product-centric-commission.md)، پورسانت هرکارشناس را در بازه زمانی مشخص نسبت به محصولاتی که به فروش رسانده است، مشاهده نمایید.
+**11. پورسانت فروش:**  می‌توانید برای محصول خود پورسانتی بر حسب درصد و یا یک رقم ثابت در نظر بگیرید.با مشخص کردن پورسانت مربوط به محصول و نوع پورسانت می‌توانید از قسمت مدیریت و گزارشات،[ گزارش پورسانت محصول محور ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Payroll-calculation/Product-centric-commission/Product-centric-commission.md)، پورسانت هرکارشناس را در بازه زمانی مشخص نسبت به محصولاتی که به فروش رسانده است، مشاهده نمایید.
 
 
 > توجه: ابتدا باید چک باکس "محاسبه پورسانت" را فعال کرده باشید.

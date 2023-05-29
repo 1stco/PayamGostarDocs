@@ -29,14 +29,14 @@
 
 **8**. محل قرار ملاقات را مشخص کنید. برای تعیین محل قرار 4 روش وجود دارد:
 
-**اتاق:** می توانید یکی از اتاق های تعریف شده در قسمت[ مدیریت اتاق ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Room-management/Room-management.md)را انتخاب کنید.
+**اتاق:** می توانید یکی از اتاق های تعریف شده در قسمت[ مدیریت اتاق ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Room-management/Room-management.md)را انتخاب کنید.
 **آدرس محل:** یک آدرس مشخص (ثابت برای تمامی قرارهای ایجاد شده از طریق این فعالیت) وارد کنید.
 
 **فیلد:** می توانید مقدار وارد شده در یکی از فیلدهای از نوع متن آیتم تحت چرخه را به عنوان محل قرار تعیین کنید.
 
 **آدرس مشتری:** آدرسی که در پروفایل هویت مرتبط با آیتم تحت چرخه وارد شده است به عنوان محل قرار تعیین می گردد.
 
-**9**. مشخص کنید که این قرار در چه تقویمی ثبت شود. برای اضافه کردن یا ویرایش انواع تقویم های کاری به[ مدیریت تقویم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)مراجعه کنید.
+**9**. مشخص کنید که این قرار در چه تقویمی ثبت شود. برای اضافه کردن یا ویرایش انواع تقویم های کاری به[ مدیریت تقویم ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Calendar-management/Calendar-management.md)مراجعه کنید.
 
 **10**. در این قسمت مدعوین جلسه را وارد کنید. برای اضافه کردن مدعوین 4 روش وجود دارد:
 

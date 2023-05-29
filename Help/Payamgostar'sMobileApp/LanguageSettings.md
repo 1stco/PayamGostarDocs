@@ -7,7 +7,7 @@
 
 ![انتخاب زبان نرم افزار](./Images/LanguageSelection.png)
 
-باید توجه داشته باشید که به محض کلیک بر روی هر گزینه، زبان برنامه عوض می‌شود و نیاز به تایید و یا ذخیره‌ی تغییرات نخواهید داشت. درصورتی‌که زبان مدنظر شما در بین گزینه‌ها نباشد، باید برای [تعریف زبان جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Basic-Information/Language-management/System-language/System-language.md) اقدام نمایید.
+باید توجه داشته باشید که به محض کلیک بر روی هر گزینه، زبان برنامه عوض می‌شود و نیاز به تایید و یا ذخیره‌ی تغییرات نخواهید داشت. درصورتی‌که زبان مدنظر شما در بین گزینه‌ها نباشد، باید برای [تعریف زبان جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Language-management/System-language/System-language.md) اقدام نمایید.
 در این مرحله با بستن و باز کردن مجدد نسخه‌ی اپلیکیشن خواهید دید که تغییرات انجام شده بر روی نسخه‌ی وب، بر روی اپ نرم‌افزار هم اعمال شده و زبان برنامه تغییر کرده است. 
 
 ![تغییر زبان در اپ 1](./Images/ChangeTheLanguageInTheApp1.png)

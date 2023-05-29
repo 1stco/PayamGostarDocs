@@ -5,12 +5,12 @@
 - [ویرایش داشبورد کاری](#EditeDashboard)
 - [حذف داشبوردهای اضافی](#DeleteDashboard)
 ### مزیت استفاده از قابلیت چند داشبود {#MultiDashboardAdvantage}
-داشبوردها محیطی هستند که می‌توانید متناسب با نیاز خود، [ویجت‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/widget/Widgets2.7.0.md) خود را به آن اضافه کنید، نام آن‌ها را تغییر دهید و رنگ مورد علاقه خود را برای هر ویجت در نظر بگیرید.<br>
+داشبوردها محیطی هستند که می‌توانید متناسب با نیاز خود، [ویجت‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Widgets2.7.0.md) خود را به آن اضافه کنید، نام آن‌ها را تغییر دهید و رنگ مورد علاقه خود را برای هر ویجت در نظر بگیرید.<br>
 به کمک قابلیت **چند داشبورد**، می‌توانید برای اهداف مختلی که دارید، داشبورد جدیدی ایجاد کنید و در مواقع نیاز به آن‌ها رجوع کنید.
 
 
-یکی از استفاده‌های مهم از امکانات چند داشبورد، ساخت داشبوردهای مجزا از ترکیت [گزارش‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Management-and-reports/FrequentlyUsedReports/FrequentlyUsedReportsIntroduction.md) است.<br>
-با اضافه شدن [**ویجت گزارش**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/widget/ReportWidget.md) به لیست ویجت‌ها، این امکان فراهم شد تا گزارش‌هایی را که در طول روز مرتبا بررسی می‌کنید، بر روی صفحه اصلی نرم‌افزار آورده و با کمترین کلیک، به آن‌ها دسترسی داشته باشید.<br>
+یکی از استفاده‌های مهم از امکانات چند داشبورد، ساخت داشبوردهای مجزا از ترکیت [گزارش‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/FrequentlyUsedReports/FrequentlyUsedReportsIntroduction.md) است.<br>
+با اضافه شدن [**ویجت گزارش**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/ReportWidget.md) به لیست ویجت‌ها، این امکان فراهم شد تا گزارش‌هایی را که در طول روز مرتبا بررسی می‌کنید، بر روی صفحه اصلی نرم‌افزار آورده و با کمترین کلیک، به آن‌ها دسترسی داشته باشید.<br>
 تصویر زیر نمونه‌ای از داشبوردهای ایجاد شده توسط کاربر است.
 
 ![نمونه‌ای از چند داشبورد](./Images/Multi-dashboard-sample.png)
@@ -25,7 +25,7 @@
 
  ![ایجاد داشبورد جدید](./Images/create-dashboard.png)
 
- 3. ویجت‌های مورد نیاز خود را از قسمت **اضافه کردن ویجت**، به صفحه اضافه کنید. برای آشنایی بیشتر با انواع ویجت‌ها، مقاله‌ی [**تعریف ویجت**](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/widget/Widgets2.7.0.md) را مطالعه نمایید.
+ 3. ویجت‌های مورد نیاز خود را از قسمت **اضافه کردن ویجت**، به صفحه اضافه کنید. برای آشنایی بیشتر با انواع ویجت‌ها، مقاله‌ی [**تعریف ویجت**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Widgets2.7.0.md) را مطالعه نمایید.
 
 ![نمونه‌ای از داشبورد کاربر](./Images/user-dashboard-sample.png)
 

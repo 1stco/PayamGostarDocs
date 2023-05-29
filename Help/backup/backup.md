@@ -6,6 +6,6 @@
 
 تنظیمات مربوط به پشتیبان گیری و یا همان بک آپ با از قسمت backup  انجام می‌شود .
 
-قسمت مرتبط با[ نسخه پشتیبان ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/backup/back-up/back-up.md)مطالعه کنید.
+قسمت مرتبط با[ نسخه پشتیبان ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/backup/back-up/back-up.md)مطالعه کنید.
 
 

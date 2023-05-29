@@ -23,13 +23,13 @@
 
 **6. تنظیمات کاربری:** قسمت های ذیل را مطالعه کنید.
 
-[تغییر رمز عبور]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/edit-password/edit-password.md)
+[تغییر رمز عبور]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/edit-password/edit-password.md)
 
-[مدیریت کاربران جانشین]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/Substitute-users/Substitute-users.md)
+[مدیریت کاربران جانشین]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/Substitute-users/Substitute-users.md)
 
-[تنظیمات من]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/my-setting/my-setting.md)
+[تنظیمات من]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/my-setting/my-setting.md)
 
-[پروفایل من]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/my-profile/my-profile.md)
+[پروفایل من]( https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/my-profile/my-profile.md)
 
 
 **7**. پیام های سیستمی، لیست پیام هایی که در نرم افزار برای کاربری شما ایجاد شده است را نمایش می دهد. این پیام ها بر اساس رخدادهایی مانند تخصیص وظیفه ، تنظیم شدن قرار ملاقات، تایید و رد آیتم مالی و ... برای شما ایجاد می شوند. برای فعال کردن و یا تغییر محتوای این پیام ها قسمت مدیریت پیام های سیستم را مطالعه کنید.

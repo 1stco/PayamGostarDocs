@@ -6,10 +6,10 @@
 ![صفحه شخصی‌سازی قراردادها](ContractManagement1.png)
 
 
-لطفا ابتدا[ اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
+لطفا ابتدا[ اطلاعات کلی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/General-information.md) را در این خصوص مطالعه فرمایید.
 ### قرارداد جدید:
 
-علاوه بر تنظیمات[ آیتم های حقوقی/مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md) و تنظیمات عمومی که در قسمت[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md) توضیح داده شد، تنظیمات اختصاصی قرار دادها به شرح زیر می باشد.
+علاوه بر تنظیمات[ آیتم های حقوقی/مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Legal-financial-items/Legal-financial-items.md) و تنظیمات عمومی که در قسمت[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md) توضیح داده شد، تنظیمات اختصاصی قرار دادها به شرح زیر می باشد.
 
 
 ![](ContractManagement.png)

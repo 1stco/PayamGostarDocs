@@ -15,9 +15,9 @@
 
 پیام ارسالی می تواند ایمیل، پیام کوتاه، پیام کوتاه شبکه اجتماعی و یا پیام سیستمی باشد. با تنظیم متن مورد نظر در هریک از گام ها، پیام مرتبط فعال خواهد شد. توجه داشته باشید که می توانید برای هرکدام از موقعیت های تعریف شده، متنی برای ارسال از طریق همه رسانه ها تنظیم نمایید. به طور مثال برای اطلاع رسانی تخصیص وظیفه به کاربران، هم پیام کوتاه و هم ایمیل تنظیم نمایید.
 
-برای اطلاعات بیشتر در خصوص نحوه تنظیم پیام به [اطلاعات مشترک ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md) و برای اطلاع از چگونگی عملکرد پارامترهای هوشمند به متن هوشمند مراجعه کنید.
+برای اطلاعات بیشتر در خصوص نحوه تنظیم پیام به [اطلاعات مشترک ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/moshtarak-abzar.md) و برای اطلاع از چگونگی عملکرد پارامترهای هوشمند به متن هوشمند مراجعه کنید.
 
-> لازم به ذکر است ارسال پیام‌ها از خطوط انتخاب شده در بخش [خطوط پیش فرض](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/General-settings/Default-lines/Default-lines.md) ارسال خواهد شد .
+> لازم به ذکر است ارسال پیام‌ها از خطوط انتخاب شده در بخش [خطوط پیش فرض](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/Default-lines/Default-lines.md) ارسال خواهد شد .
 
 ![](SystemMessagesManagement3.jpg)
 

@@ -29,7 +29,7 @@
 
 ![](ClientsClassroomManagement4.png)
 
->  نکته: برای ایجاد و ویرایش لیست قیمت ها به[ مدیریت لیست قیمت ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Price-list-management/Price-list-management.md) مراجعه کنید.
+>  نکته: برای ایجاد و ویرایش لیست قیمت ها به[ مدیریت لیست قیمت ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Price-list-management/Price-list-management.md) مراجعه کنید.
 
 
 

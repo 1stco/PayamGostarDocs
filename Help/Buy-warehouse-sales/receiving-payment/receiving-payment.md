@@ -6,7 +6,7 @@
 
 ![](daryaft.png)
 
-> نکته: لطفا ابتدا قسمت [ فیلتر پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید .
+> نکته: لطفا ابتدا قسمت [ فیلتر پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید .
 
 **1. زیرنوع آیتم:** زیرنوع های دریافت/پرداخت از این قسمت قابل تغییر است.
 
@@ -18,7 +18,7 @@
 
 **5. شماره چک:**  اگر نوع دریافت/پرداخت چکی باشد می توان براساس شماره چک فیلتر انجام داد . 
 
-**6. واریز به:** میتوانید نام یکی از حساب هایی که در قسمت [مدیریت حساب های مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Financial-account-management/Financial-account-management.md)ایجاد کرده اید، را انتخاب کنید.
+**6. واریز به:** میتوانید نام یکی از حساب هایی که در قسمت [مدیریت حساب های مالی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Financial-account-management/Financial-account-management.md)ایجاد کرده اید، را انتخاب کنید.
 
 **7. نوع دریافت:** می توانید نوع دریافت(های) مورد نظر را انتخاب کنید.
 
@@ -51,9 +51,9 @@
 > **نکته:** همانطور که قابل ملاحظه است، امکان تعیین حد پایین یا بالا برای تاریخ های شماره گذاری، تایید و رد دریافت/پرداخت و همچنین تعیین کاربر شماره گذاری کننده، تایید کننده و رد کننده نیز وجود دارد.
 
 
-**مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست دریافت / پرداخت با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
+**مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست دریافت / پرداخت با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
 
-> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان در صورت تعریف مراحل در بخش شخصی سازی نمایش داده می شود ..توضیحات این بخش را میتوانید از بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
+> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان در صورت تعریف مراحل در بخش شخصی سازی نمایش داده می شود ..توضیحات این بخش را میتوانید از بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید.
 
 
 > **نکته:**  با استفاده از بخش تنظیمات جدول میتوانیم فیلد هایی برای نمایش در لیست و خروجی اکسل انتخاب کنید.

@@ -5,10 +5,10 @@
 2- در همین صفحه در بخش **اطلاعات کاربری** تنظیمات حساب کاربری خود را انجام دهید.
 جزئیات مربوط به تنظیمات پروفایل خود را در قسمت‌های زیر مطالعه نمایید:
 
-- [پروفایل من](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/ClubUserAccount.md)
-- [مدیریت کاربران جانشین](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/SurrogateUser2.5.6.md)
-- [تغییر رمز عبور](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/UserPasswordChange.md)
-- [تنظیمات من](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/home/MySetting.md)
+- [پروفایل من](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/ClubUserAccount.md)
+- [مدیریت کاربران جانشین](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/SurrogateUser2.5.6.md)
+- [تغییر رمز عبور](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/UserPasswordChange.md)
+- [تنظیمات من](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/MySetting.md)
 
 3- پیام‌های اطلاع‌رسانی در مورد فعالیت‌های انجام شده در سیستم، در بخش پیام‌های سیستمی قابل مشاهده می‌باشد.
 این پیام ها بر اساس رخدادهایی مانند تخصیص وظیفه ، تنظیم شدن قرار ملاقات، تایید و رد آیتم مالی و ... برای شما ایجاد می شوند. 

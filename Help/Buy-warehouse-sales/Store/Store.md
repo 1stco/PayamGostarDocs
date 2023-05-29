@@ -2,9 +2,9 @@
 
 در صورت داشتن ماژول انبار داری ، در این قسمت مدیریت حواله‌ها و رسید‌های انبار‌های مختلف را می‌توان انجام داد.
 
-برای استفاده از انبارداری باید ابتدا محصولات در[ قسمت مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Product%20management/Product-management.md)تعریف شده باشند و محصولات هر انبار در قسمت[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Warehouse-management/Warehouse-management.md)به عنوان محصول مجاز تعیین گردند.
+برای استفاده از انبارداری باید ابتدا محصولات در[ قسمت مدیریت محصولات ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product%20management/Product-management.md)تعریف شده باشند و محصولات هر انبار در قسمت[ مدیریت انبارها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Warehouse-management/Warehouse-management.md)به عنوان محصول مجاز تعیین گردند.
 
-علاوه بر این برای تنظیم حواله‌ها و رسید‌های مرتبط با انبار می‌توانید از قسمت[ مدیریت تراکنش‌های انبار](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Management-warehouse-transactions/Management-warehouse-transactions.md)  اقدام کنید.
+علاوه بر این برای تنظیم حواله‌ها و رسید‌های مرتبط با انبار می‌توانید از قسمت[ مدیریت تراکنش‌های انبار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Management-warehouse-transactions/Management-warehouse-transactions.md)  اقدام کنید.
 
 **حواله:** به معنی خروج کالا از انبار است.
 
@@ -32,7 +32,7 @@
 
 **7. انجام انتقال:** زمانی که بخواهیم محصولاتی را از یک انبار به  انبار دیگری انتقال دهیم از این عملکرد استفاده می‌شود.
 
-نکته: ابتدا قسمت [فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md)را مطالعه کنید.
+نکته: ابتدا قسمت [فیلترهای پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md)را مطالعه کنید.
 
 
 **8. مبداء:** این فیلتر برای تراکنش‌های از نوع انتقال بین انباری (تراکنش‌هایی که در آن انبار فعلی به عنوان انبار مقصد انتخاب شده است) کاربرد دارد. می‌توان انبار مبدا مورد نظر را انتخاب کرد و تراکنش‌های بین انباری بین انبار مبدا و انبار فعلی را مشاهده کرد.
@@ -61,7 +61,7 @@
 
 **20. تحویل گیرنده:** تحویل گیرنده تراکنش انبار مورد نظر خود که می‌تواند یک کاربر، یک هویت از بانک اطلاعاتی یا یک شخص/شرکت متفرقه باشد را مشخص کنید.
 
-**21. مدیریت گزارش‌ها:**   با استفاده از این بخش میتوان از لیست تراکنش‌های انبار با توجه به فیلتر‌های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش[ گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
+**21. مدیریت گزارش‌ها:**   با استفاده از این بخش میتوان از لیست تراکنش‌های انبار با توجه به فیلتر‌های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش[ گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
 
 
 > **نکته:** در صورتی که حداقل یک انبار در سیستم تعریف کرده باشید و انبارداری را بر روی سریالی تنظیم کرده باشید، قادر به مشاهده انبارها در منو صفحه اصلی نرم‌افزار خواهید بود.

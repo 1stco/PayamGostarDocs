@@ -2,7 +2,7 @@
 
 
 
-  لطفا ابتدا به [گام دوم - محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Marketing/moshtarak-abzar/gam%20do/gam-do.md) در اطلاعات مشترک ابزارها مراجعه کنید.
+  لطفا ابتدا به [گام دوم - محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam%20do/gam-do.md) در اطلاعات مشترک ابزارها مراجعه کنید.
 
  
  **1. حالت رویداد:** در حالت تک متنی برای کلیه تاریخ های انتخابی فقط یک متن ارسال می شود و در حالت چند متنی می توانید برای هر تاریخ یک متن مشخص را ویرایش نمایید.

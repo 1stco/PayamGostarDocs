@@ -10,7 +10,7 @@
 
 **عنوان:** می توانید فرصت ها را بر اساس عنوان آن ها جستجو کنید.
 
-> نکته: لطفا ابتدا قسمت[ فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
+> نکته: لطفا ابتدا قسمت[ فیلترهای پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید.
 
 
 **منبع:** می توانید منبع ایجاد فرصت را مشخص کنید.
@@ -35,7 +35,7 @@
 
 **حذف کردن:** می توانید فرصت/فرصت های  انتخاب شده را حذف کنید.
 
-**اضافه کردن:** می توانید یک [فرصت فروش جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md) ایجاد نمایید.
+**اضافه کردن:** می توانید یک [فرصت فروش جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md) ایجاد نمایید.
 
 **فرستادن به اکسل:** می توانید فرصت های انتخاب شده را به صورت خروجی اکسل دریافت نمایید.
 
@@ -44,11 +44,11 @@
 > **نکته:** با کلیک راست بر روی یک یا چند فرصت می توانید اقدام به ویرایش گروهی یا افزودن سابقه برای آن ها کنید.
 
 
-**مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست فرصت با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
+**مدیریت گزارش‌ها:**  با استفاده از این بخش میتوان از لیست فرصت با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md)مراجعه کنید.
 
 ![](OpportunitiesList1.png)
 
-> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش[ نمایش کانبان ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مراحل مطالعه کنید.
+> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان براساس مراحل تعریف شده در بخش شخصی سازی میباشد.توضیحات این بخش را میتوانید از بخش[ نمایش کانبان ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مراحل مطالعه کنید.
 
 > **نکته:**  با استفاده از بخش تنظیمات جدول میتوانیم فیلد هایی برای نمایش در لیست و خروجی اکسل انتخاب کنید.
 

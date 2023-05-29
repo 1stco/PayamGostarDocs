@@ -6,7 +6,7 @@
 
 ![](ghardad.png)
 
-> نکته: لطفا ابتدا قسمت[  فیلتر پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید .  
+> نکته: لطفا ابتدا قسمت[  فیلتر پیشرفته ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Advanced-filter/Advanced-filter.md) را مطالعه کنید .  
 
 
 **1. زیرنوع آیتم:** زیرنوع قراردادها از این قسمت قابل تغییر است .
@@ -37,7 +37,7 @@
 
 **14. حذف کردن:** می توانید سابقه قرارداد انتخاب شده را حذف کنید .
 
-**15. افزودن:** می توانید یک سابقه[ قراردادجدید ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/New-contract/New-contract.md)ایجاد کنید .
+**15. افزودن:** می توانید یک سابقه[ قراردادجدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-contract/New-contract.md)ایجاد کنید .
 
 **16. فرستادن به اکسل:** می توانید سوابق فیلتر شده را در قالب فایل اکسل دریافت نمایید .
 
@@ -51,9 +51,9 @@
 > نکته: همانطور که قابل ملاحظه است، امکان تعیین حد پایین یا بالا برای تاریخ های شماره گذاری، تایید و رد قرارداد و همچنین تعیین کاربر شماره گذاری کننده، تایید کننده و رد کننده نیز وجود دارد .
 
 
-**مدیریت گزارش ها:**  با استفاده از این بخش میتوان از لیست قرارداد ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید .
+**مدیریت گزارش ها:**  با استفاده از این بخش میتوان از لیست قرارداد ها با توجه به فیلتر های اعمال شده، گزارش گیری کرد. برای توضیحات بیشتر میتوانید به بخش [گزارش ساز جدید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید .
 
-> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان در صورت تعریف مراحل در بخش شخصی سازی نمایش داده می شود ..توضیحات این بخش را میتوانید از  بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید .
+> نکته: تمامی لیست آیتم ها دو حالت نمایش Grid و Kanban دارند که حالت نمایشی کانبان در صورت تعریف مراحل در بخش شخصی سازی نمایش داده می شود ..توضیحات این بخش را میتوانید از  بخش [نمایش کانبان مراحل ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/leveling/leveling.md)مطالعه کنید .
 
 > نکته:  با استفاده از بخش تنظیمات جدول میتوانیم فیلد هایی برای نمایش در لیست و خروجی اکسل انتخاب کنید .
 

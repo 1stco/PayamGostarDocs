@@ -25,7 +25,7 @@
 
 > **نکته:** در انتخاب نوع نمایش بصورت صورت جلسه لیست قرار ملاقات‌ها از امروز تا یک هفته را نمایش می‌دهد .
 
-**7. مناسبت‌ها:** مناسبت‌های تعریف شده در قسمت [مدیریت اعیاد و مناسبت‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)در این قسمت نمایش داده می‌شوند.
+**7. مناسبت‌ها:** مناسبت‌های تعریف شده در قسمت [مدیریت اعیاد و مناسبت‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Holiday-management-and-occasions/Holiday-management-and-occasions.md)در این قسمت نمایش داده می‌شوند.
 
 **8.  جزئیات قرار ملاقات:** با نگه داشتن نشانگر بر روی هر کدام از قرار ملاقات‌ها می‌توانید برخی از جزییات آن را مشاهده کنید، با دوبار کلیک بر روی هر قرار ملاقات صفحه جزییات آن را مشاهده کنید.
 
@@ -37,5 +37,5 @@
 
 > **نکته:** در صورتی که کاربر به تقویم مورد نظر دسترسی خواندن و نوشتن داشته باشد می‌تواند برای سایر کاربران قرار ملاقات تنظیم نماید و تمامی‌قرار ملاقات‌های تنظیم شده روی آن تقویم را مشاهده کند کاربر برای مشاهده کامل یک قرارملاقات (قرارملاقات تنظیم شده را باز کند) نیاز به مجوز مشاهده روی اون نوع قرارملاقات دارد .
 
-> **نکته:** برای ایجاد تقویم‌های مختلف و تنظیم کاربران دارای دسترسی به آن‌ها به قسمت[ مدیریت تقویم‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/Calendar-management/Calendar-management.md)مراجعه کنید.
+> **نکته:** برای ایجاد تقویم‌های مختلف و تنظیم کاربران دارای دسترسی به آن‌ها به قسمت[ مدیریت تقویم‌ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Calendar-management/Calendar-management.md)مراجعه کنید.
 

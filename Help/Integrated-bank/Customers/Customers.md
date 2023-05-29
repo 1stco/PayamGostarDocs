@@ -14,4 +14,4 @@
 
 >  **نکته:**   با دوبار کلیک بر روی هر کدام از سطرها ، پروفایل مربوط به آن مشتری باز می شود .
 
-به کمک **مدیریت گزارشات** می‌توانید گزارش و داشبوردهای پیشرفته ایجاد نمایید. برای مطالعه بیشتر به بخش [  گزارش ها](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.
+به کمک **مدیریت گزارشات** می‌توانید گزارش و داشبوردهای پیشرفته ایجاد نمایید. برای مطالعه بیشتر به بخش [  گزارش ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Report-Builder/Report-Builder.md) مراجعه کنید.

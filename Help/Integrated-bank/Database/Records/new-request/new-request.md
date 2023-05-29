@@ -4,9 +4,9 @@
 
 می توانید برای هویت مورد نظر یک درخواست جدید (Ticket) را ایجاد و یا ویرایش کنید. توجه داشته باشید که ابتدا باید در قسمت شخصی سازی، انواع مدل های درخواست هایی که مد نظرتان است را باید ساخته باشید. درخواست علاوه بر اینکه امکان ایجاد توسط کاربران را دارد، می تواند از طرف  هویت هم از طریق ارسال ایمیل به آدرسی ایمیلی که این نوع درخواست روی آن تنظیم شده است، ایجاد گردد.
 
-برای ساخت درخواست جدید به[ مدیریت درخواست ها ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Manage-requests/Manage-requests.md)مراجعه کنید.
+برای ساخت درخواست جدید به[ مدیریت درخواست ها ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Manage-requests/Manage-requests.md)مراجعه کنید.
 
-> نکته مهم: لطفا ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
+> نکته مهم: لطفا ابتدا قسمت[ اطلاعات مشترک سوابق ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/Joint-record-information/Joint-record-information.md)را مطالعه کنید.
 
 
 ![DARKHAST](ticket1.png)
