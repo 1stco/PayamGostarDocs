@@ -2,11 +2,11 @@
 
 با استفاده از این ویجت، کارشناسان فروش می‌توانند چارت [فرصت فروش‌های باز](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Opportunities/Opportunities.md) که باید پیگیری کنند را به تفکیک مرحله‌ی آن‌ها مشاهده کنند و یا [لیست سرنخ‌](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/My-clues/My-clues.md)هایی که نیاز به پیگیری دارند را مشاهده کنند.
 
-![](Chart1.jpg)
+![فرصت‌های باز من در ویجت چارت](./Images/My-on-Progress-Opportunities.jpg)
 
 برای مثال لیست فرصت‌های باز من به شکل زیر نمایش داده می‌شود. توجه داشته باشید که این فرصت‌ها باید پیگیری کننده (فیلد تخصیص داده شده به) با کاربری که از این ویجت استفاده می‌کند پر شده باشند تا در این چارت  برای کاربر نمایش داده شوند.
 
-![](Chart.png)
+![نمودار قیف فروش در ویجت چارت](./Images/Funnel-Chart.png)
 
 > نکته: فرصت‌های باز به فرصت‌هایی گفته می‌شود که به شما تخصیص داده شده و  اما  فیلد علت موفقیت و علت شکست آن ها انتخاب نشده است .  
 
