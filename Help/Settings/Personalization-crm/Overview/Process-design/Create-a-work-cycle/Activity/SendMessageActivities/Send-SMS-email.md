@@ -6,7 +6,7 @@
 
 فیلدهای رفرنسی آیتم باشد) را مشخص کنید.
 
-![](CommunicationActivity123.png)
+![تنظیمات مشترک فعالیت‌های ارسال پیام](./Images/CommunicationActivity123.png)
 
 ## A. تنظیمات گیرنده پیام:
 
