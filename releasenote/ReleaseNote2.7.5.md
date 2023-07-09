@@ -1,7 +1,7 @@
 #  شرح تغییرات نسخه 2.7.5
 ###### 12 تیر 1402
 ##### قابلیت‌های جدید
-- [**بانک اطلاعاتی، تغییر نمایش صفحه سوابق به صورت تمام کانال (Omni Channel)**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/Records_2.7.5.md)<br>
+- [**بانک اطلاعاتی؛ تغییر نمایش صفحه سوابق به صورت تمام کانال (Omni Channel)**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/Records_2.7.5.md)<br>
    نمایش سربرگ سوابق به صورت تمام کانال (Omni channel) تغییر پیدا کرده است. بر اساس این تغییرات علاوه بر آیتم‌های ثبت شده توسط کاربران، لاگ‌های تماس‌های ورودی و خروجی به صورت یکپارچه قابل مشاهده است. این ساختار همچنین قابلیت ارسال پیام در صفحه سوابق را فراهم می‌آورد.  
 - [**سیستم ردیابی کاجو؛ اضافه شدن ماژول سیستم ردیابی کارجو (ATS)**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/PayamgostarATS/WhatIsPayamgostarATS.md)<br>
    سیستم ATS پیام‌گستر ابزاری است که به تیم استخدام و مدیران سازمان کمک می‌کند که روند بررسی رزومه متقاضیان کار با کیفیت و سرعت بالاتری انجام شود.
