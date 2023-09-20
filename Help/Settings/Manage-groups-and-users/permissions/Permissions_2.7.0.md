@@ -33,7 +33,7 @@
 
 ![تخصیص دسترسی از صفحه شخصی‌سازی آیتم‌ها](./Images/PermisionFromCustomisationPade.png)
 
-   برای مطالعه بیشتر به بخش[ شخصی سازی-مجوزهای آیتم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Item-permissions/Item-permissions.md)مراجعه کنید.
+   برای مطالعه بیشتر به بخش[شخصی‌سازی > مجوزهای آیتم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Item-permissions/Item-permissions.md)مراجعه کنید.
 
 ## اولویت عملکرد نرم‌افزار نسبت به مجوزهای داده شده کدام است؟{#OrderOfPermision}
 هر مجوز سه حالت دارد:
