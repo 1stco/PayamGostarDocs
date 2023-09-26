@@ -2,7 +2,7 @@
 
 با استفاده از تنظیمات بخش مدیریت اعضای باشگاه مشتریان، می توانید برای مشتریان خود نام کاربری و رمز عبور ایجاد کنید و یا مشتریانی که در باشگاه مشتریان شما عضو هستند را ویرایش کنید.  تعیین نام کاربری جدید همانند ساخت کاربر نرم افزار است.
 
-برای مشاهده راهنمای مرتبط با کاربر جدید،[ ساخت کاربر جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/NewUserCreation.md)را مطالعه نمایید. 
+برای مشاهده راهنمای مرتبط با کاربر جدید،[ ساخت کاربر جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/NewUserCreation.md)را مطالعه نمایید. 
 
 برای مشاهده راهنمای باشگاه مشتریان [اینجا ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Supplementary-modules/customer-club/Customer-dashboard/Customer-dashboard.md)کلیک کنید.
 
