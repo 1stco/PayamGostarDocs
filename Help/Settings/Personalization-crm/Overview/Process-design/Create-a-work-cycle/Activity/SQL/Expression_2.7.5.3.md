@@ -36,7 +36,7 @@
 
 > **نکته**{#ItemKey}<br>
 > برای فراخوانی اطلاعات از **فیلدهای اضافه‌ی** آیتم‌ها، باید **کلید کاربر آیتمی** که اطلاعات آن را فراخوانی می‌کنید، را در انتهای دستور اضافه کنید.
-> @(this.Item.Select(ExtendedField@**ItemKey**));
+>> @(this.Item.Select(ExtendedField@**ItemKey**));
 
 ## نحوه نوشتن Expression: 
 
