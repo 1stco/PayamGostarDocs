@@ -8,7 +8,7 @@
    در باشگاه مشتریان قابلیت جدیدی به نام **پیش‌نمایش عمومی** اضافه شده که می‌توانید یک قالب چاپ ویژه در تنظیمات شخصی‌سازی آیتم‌ها جهت دریافت مشتری از باشگاه مشتریان، تنظیم کنید.
 - [**فرآیند؛ اضافه شدن امکان ارجاع فرآیند به مشتری در باشگاه مشتریان در تنظیمات کارتابل**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Cardboard/Cartable_2.7.5.3.md#CustomerCartableSettingInClub)<br>
    در تنظیمات کارتابل فرآیند امکان تخصیص کارتابلی از فرآیند به مشتری اضافه شده است. مشتریان از طریق **باشگاه مشتریان** > **پیشخوان** می‌توانند در فرآیندها با شما تعامل داشته باشند.
--	[**فرم عمومی؛ نمایش لوگوی پروفایل هویت هنگام ذخیره فرم عمومی در پرونده هویت مشخص**](https://github.com/1stco/PayamGostarDocs/blob/24c257f210e34f4e05f1f2df01b12ff3ba71fad9/Help/Settings/Personalization-crm/Form-management/GeneralForm_2.7.5.3.md)<BR>
+-	[**فرم عمومی؛ نمایش لوگوی پروفایل هویت هنگام ذخیره فرم عمومی در پرونده هویت مشخص**](https://github.com/1stco/PayamGostarDocs/blob/24c257f210e34f4e05f1f2df01b12ff3ba71fad9/Help/Settings/Personalization-crm/Form-management/GeneralForm_2.7.5.3.md#LogoInGeneralForm)<BR>
    زمانی که تنظیمات فرم عمومی روی **ذخیره در سوابق هویت مشخص** باشد، تصویر لوگوی هویت در فرم عمومی قابل نمایش است.
 - [**راهبری؛ تغییر مجوز نمایش سوابق، در صفحه سوابق آیتم‌ها**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/permissions/AllCRMObject'sPermission_2.7.5.3.md#Item'sHistoryPermission)<br>
    برای نمایش لیست آیتم‌های ثبت شده در صفحه سوابق هر CRM Object، مجوز جدیدی با عنوان **مشاهده در لیست سوابق موجودیت‌ها** اضافه شده است.
