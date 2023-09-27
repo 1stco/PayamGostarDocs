@@ -10,7 +10,7 @@
 
 **3)** از طریق[ فعالیت ایجاد کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Create-a-user/Create-a-user.md) طی فرآیند، می توان کاربر باشگاه مشتریان ایجاد نمود.
 
-**4)** از مسیر مدیریت گروه ها  و کاربران، [ایجاد کاربر ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/NewUserCreation.md)می توان با تعیین نوع کاربری بعنوان مشتری، کاربر باشگاه مشتریان تعریف کرد.
+**4)** از مسیر مدیریت گروه ها  و کاربران، [ایجاد کاربر ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/NewUserCreation.md)می توان با تعیین نوع کاربری بعنوان مشتری، کاربر باشگاه مشتریان تعریف کرد.
 
 **5)** همچنین می توان در تنظیمات کلی، قسمت امنیتی، امکان ثبت نام در باشگاه مشتریان را فعال نمود. در این صورت هر شخصی که آدرس URL نرم افزار شما را داشته باشد میتواند در باشگاه مشتریان ثبت نام کرده و از امکانات آن بهره مند گردد.
 
