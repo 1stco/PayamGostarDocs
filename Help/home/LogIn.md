@@ -12,4 +12,4 @@
 
 ![صفحه تغییر رمز عبور کاربران](./Images/change-password.png)
 > **نکته**<br>
-> در صورت تمایل می‌توانید [رمز عبور](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/UserPasswordChange.md) خود را به صورت دوره‌ای تغییر دهید. لکن امکان تغییر **نام کاربری** وجود ندارد.
+> در صورت تمایل می‌توانید [رمز عبور](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/UserPasswordChange.md) خود را به صورت دوره‌ای تغییر دهید. لکن امکان تغییر **نام کاربری** وجود ندارد.<br>
