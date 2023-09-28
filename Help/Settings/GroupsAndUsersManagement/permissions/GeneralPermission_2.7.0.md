@@ -40,7 +40,7 @@
 
 **مشاهده تماس‌های تمامی‌داخلی‌ها:** به کاربر اجازه می‌دهد در ویجت تماس خود تمامی‌تماس‌های ورودی را مشاهده کند. (با توجه به داخلی‌های تنظیم شده در [مدیریت سیستم‌های تلفنی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Telephone-systems/telephone-systems-Management/telephone-systems-Management.md)و تنظیمات قسمت [امنیتی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/security/security.md)می‌توانید مشاهده تماس‌های ورودی را برای کاربران محدود کنید.)
 
-**مشاهده تماس‌های دریافتی:** به کاربر اجازه می‌دهد که از منوی[ تلفن ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/Storytelling/Phone/Phone.md) استفاده کند. (تماس‌های ورودی را ببیند و بتواند شماره مخاطب یا سوابق او را ثبت کند.)
+**مشاهده تماس‌های دریافتی:** به کاربر اجازه می‌دهد که از منوی[ تلفن ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/Storytelling/Phone/PhoneInAccessbar.md) استفاده کند. (تماس‌های ورودی را ببیند و بتواند شماره مخاطب یا سوابق او را ثبت کند.)
 
 **مشاهده لیست تماس‌ها:** اجازه مشاهده سوابق تماسی در منوی[ تماس](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/calls/calls.md)‌ها  در قسمت مدیریت ارتباط با مشتریان را به کاربر می‌دهد.
 
