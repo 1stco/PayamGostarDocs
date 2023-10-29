@@ -159,6 +159,7 @@
 ·**مشاهده لیست تاریخ‌های مرتبط:** به منوی[ تاریخ‌های مرتبط ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Related-dates/Related-dates.md)در مدیریت ارتباط با مشتریان دسترسی پیدا  می‌کند.
 
 ## عمومی 
+{GeneralItemsPermissions}
 
 ![مجوزهای عمومی مدیریت سیستم](./Images/General-system-management-permision.png)
 
