@@ -12,7 +12,7 @@
    زمانی که تنظیمات فرم عمومی روی **ذخیره در سوابق هویت مشخص** باشد، تصویر لوگوی هویت در فرم عمومی قابل نمایش است.
 - [**راهبری؛ تغییر مجوز نمایش سوابق، در صفحه سوابق آیتم‌ها**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/permissions/AllCRMObject'sPermission_2.7.5.3.md#CommonPermissions)<br>
    برای نمایش لیست آیتم‌های ثبت شده در صفحه سوابق هر CRM Object، مجوز جدیدی با عنوان **مشاهده در لیست سوابق موجودیت‌ها** اضافه شده است.
-- [**فرآیند؛ بهبود ساختار Expression در فعالیت‌های «تخصیص‌ مقدار» و «اجرای دستورات پایگاه داده»**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/CustomExpression_2.7.5.3.md#ItemKey)<br>
+- [**فرآیند؛ بهبود ساختار Expression در فعالیت‌های «چند شرطی»، «تخصیص‌ مقدار» و «اجرای دستورات پایگاه داده»**](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SQL/CustomExpression_2.7.5.3.md#ItemKey)<br>
    برای بهبود انتقال اطلاعات از طریق فعالیت‌های **تخصیص مقدار** و **اجرای دستورات پایگاه داده**، در حالت استفاده از **فیلد اضافه**، درج **کلید کاربر آیتم** در **Expression** اضافه شده است.
 
 ###### خطاهای برطرف شده
