@@ -121,7 +121,7 @@
 
 **13. تخصیص:** میتوانید به هویت‌های انتخاب شده، مسئول ( کارشناس فروش، پشتیبانی و یا متفرقه ) تخصیص دهید.
 
-**14. فرصت جدید:** برای هویت یا هویت‌های انتخاب شده می‌توانید یک [فرصت فروش جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md)ایجاد نمایید.
+**14. فرصت جدید:** برای هویت یا هویت‌های انتخاب شده می‌توانید یک [فرصت فروش جدید ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Opportunity/NewOpportunity.md)ایجاد نمایید.
 
 **15. تبدیل به:** در این بخش دو قابلیت تبدیل نوع هویت و تبدیل سرنخ به مخاطب وجود دارد:
 

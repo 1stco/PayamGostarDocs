@@ -10,7 +10,7 @@
 
 [جزئیات درآمدها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Performance-details/Revenue-details/Revenue-details.md)
 
-[جزئیات دریافت ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Performance-details/Details-of-receipts/Details-of-receipts.md)
+[جزئیات دریافت ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Performance-details/Details-of-Receipts/Details-of-Receipts.md)
 
 [جزئیات پرداخت ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Performance-details/Payment%20details/Payment-details.md)
 
