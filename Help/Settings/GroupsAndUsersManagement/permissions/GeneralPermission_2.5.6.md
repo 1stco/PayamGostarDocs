@@ -140,7 +140,7 @@
 > مسیر دسترسی در نسخه استاندارد: **تنظیمات** > **تنظیمات کلی**
 >مسیر دسترسی در نسخه سازمانی: **تنظیمات** > **تنظیمات سیست**م > **راهبری** > **تنظیمات کلی**
 
-**مدیریت حکم‌ها:** دسترسی منوی [مدیریت حکم‌های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md)در اختیار کاربر قرار می‌دهد. (میتوانید حکم‌های مختلف -مانند کارمند فروش، مدیر مالی و ... - ایجاد و واگذار کنید.)
+**مدیریت حکم‌ها:** دسترسی منوی [مدیریت حکم‌های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/UserOrganizationLevel/UserOrganizationLevel_2.6.0.md)در اختیار کاربر قرار می‌دهد. (میتوانید حکم‌های مختلف -مانند کارمند فروش، مدیر مالی و ... - ایجاد و واگذار کنید.)
 
 **مدیریت رنگ‌ها:** به منوی [مدیریت رنگ‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Color-management/Color-management.md) دسترسی می‌دهد. (میتوانید ترتیب نمایش رنگ‌های استفاده شده در نرم افزار را تغییر دهید و یا رنگ جدید اضافه کنید.)
 

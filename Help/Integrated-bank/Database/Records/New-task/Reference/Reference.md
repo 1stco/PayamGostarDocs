@@ -30,7 +30,7 @@
 
 **و) حکم:** می توانید یک حکم پرسنلی (برای مثال کاربرانی که حکم مدیر فروشی دارند.) را برای ارجاع انتخاب کنید. در این حالت تمامی کاربرانی که شامل آن حکم می شوند، برای ارجاع وظیفه انتخاب خواهند شد.
 
-> نکته: برای تغییر این حکم ها به قسمت [  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md)   مراجعه کنید
+> نکته: برای تغییر این حکم ها به قسمت [  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/UserOrganizationLevel/UserOrganizationLevel_2.6.0.md)   مراجعه کنید
 
 **3. مهلت:** زمانی که وظیفه باید به انتها برسد را مشخص کنید. (این زمان در لیست پیگیری های فرد دریافت کننده وظیفه نمایش داده می شود.)
 

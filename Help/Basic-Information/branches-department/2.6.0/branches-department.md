@@ -4,7 +4,7 @@
 
 بر اساس این چارت می‌توان مجوزهای کاربران و سطح دسترسی آن‌ها به بخش‌های مختلف نرم‌افزار را تعیین کرد. همچنین در قسمت ارجاع وظیفه، فرآیند‌ها، گزارشات عملکردی و ... از این چارت استفاده می‌شود.
 
-توجه داشته باشید که سمت‌های تعریف شده در این قسمت از طریق[ مدیریت حکم‌های پرسنل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md)ی به کاربران متصل می‌گردد.
+توجه داشته باشید که سمت‌های تعریف شده در این قسمت از طریق[ مدیریت حکم‌های پرسنل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/UserOrganizationLevel/UserOrganizationLevel_2.6.0.md)ی به کاربران متصل می‌گردد.
 
 ![](BranchManagement1.png)
 

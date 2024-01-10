@@ -4,7 +4,7 @@
 
 [مدیریت گروه ها و کاربران](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Manage-groups-and-users/Manage-groups-and-users.md)
 
-[مدیریت حکم های پرسنلی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personnel-command-management/Personnel-command-management.md)
+[مدیریت حکم های پرسنلی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/UserOrganizationLevel/UserOrganizationLevel_2.6.0.md)
 
 [مدیریت اعضای باشگاه مشتریان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Management-of-customer-club-members/Management-of-customer-club-members.md)
 
