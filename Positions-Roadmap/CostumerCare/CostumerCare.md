@@ -13,7 +13,7 @@
 
 •[لیست هویت‌های تخصیص یافته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Customer-relationship-management/Allocation-of-findings/Allocation-of-findings.md): در صورتی که هویتی به کارشناسی در سیستم تخصیص داده شده باشد، نام هویت در این لیست برای کارشناس مربوطه قرار می‌گیرد. واضح است که در این لیست کارشناسان تنها هویت‌هایی که به کاربری خودشان تخصیص یافته است را مشاهده خواهند کرد.
 
-•	 [ویجت جست و جو پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Advanced-search/Advanced-search.md): در نرم‌افزار پیام‌گستر از طریق ویجت‌ها می‌توان دسترسی سریع‌ تر و راحت تر به قسمت‌های مختلف نرم‌افزار داشت. به همین منظور برای پیدا کردن هویت می‌توان نام هویت را در این ویجت جست و جو کرد و مستقیم وارد پرونده وی شد.
+•	 [ویجت جست و جو پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/AdvancedSearch/AdvancedSearchWidget.md): در نرم‌افزار پیام‌گستر از طریق ویجت‌ها می‌توان دسترسی سریع‌ تر و راحت تر به قسمت‌های مختلف نرم‌افزار داشت. به همین منظور برای پیدا کردن هویت می‌توان نام هویت را در این ویجت جست و جو کرد و مستقیم وارد پرونده وی شد.
 
 •	 [ [صفحه جست و جو پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Advanced-search/Advanced-search.md): با استفاده از فیلترهای متنوعی که در این صفحه وجود دارد می‌توان فیلتر مد نظر را اعمال و به راحتی هویت مورد نظر را جست و جو کرد.
 
@@ -35,7 +35,7 @@
 
 ## 5.	ایجاد سابقه برای مشتری
 
-بمنظور ایجاد سابقه جدید برای مشتریان می‌توان از طریق  [ویجت دسترسی سریع](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/quick-access/quick-access.md)، صفحه هویت و بانک اطلاعاتی اقدام کرد. با استفاده از آیتم‌های crm موجود در پیام‌گستر می‌توان برای هر مشتری سابقه جدید ایجاد کرد که در ادامه به تفصیل توضیح داده خواهند شد.
+بمنظور ایجاد سابقه جدید برای مشتریان می‌توان از طریق  [ویجت دسترسی سریع](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/QuickAccess/QuickAccessWidget.md)، صفحه هویت و بانک اطلاعاتی اقدام کرد. با استفاده از آیتم‌های crm موجود در پیام‌گستر می‌توان برای هر مشتری سابقه جدید ایجاد کرد که در ادامه به تفصیل توضیح داده خواهند شد.
 
 •	 [قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/new-appointment/new-appointment.md): به منظور ایجاد جلسه با مشتری و افراد سازمان می‌توان از این آیتم استفاده کرد. کارشناس بمنظور مشاهده قرارملاقات‌هایی که در هر روز دارد می‌تواند از طریق  [کارتابل قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Cardboard/Meeting-card/Meeting-card.md)، قرارهای روز جاری خود را مشاهده کند.
 
@@ -47,7 +47,7 @@
 
 ## 6.	ایجاد پیگیری و یادآوری
 
-بر روی تمامی آیتم‌های crm می‌توان  [پیگیری و یادآوری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) تنظیم کرد. به عنوان مثال قرار است کارشناس یک موضوعی را پیگیری کند، می‌تواند کاری که قرار است پیگیری کند را در قالب یک وظیفه برای خود ایجاد کرده و بر روی وظیفه پیگیری و یادآوری برای خود ایجاد کند. برای مشاهده تمامی پیگیری‌ها می‌توان از طریق  [ویجت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Follow-up-today/Follow-up-today.md)‌ تمامی پیگیری‌های ایجاد شده بر اساس تاریخ را مشاهده کرد و یادآوری ها در زمان تنظیم شده به حالت پاپ آپ بر روی صفحه نمایش داده خواهند شد. واضح است پیگیری و یادآوری تنظیم شده بر روی آیتم‌ها برای یادآوری به خود کارشناس است نه کارشناسان دیگر.
+بر روی تمامی آیتم‌های crm می‌توان  [پیگیری و یادآوری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) تنظیم کرد. به عنوان مثال قرار است کارشناس یک موضوعی را پیگیری کند، می‌تواند کاری که قرار است پیگیری کند را در قالب یک وظیفه برای خود ایجاد کرده و بر روی وظیفه پیگیری و یادآوری برای خود ایجاد کند. برای مشاهده تمامی پیگیری‌ها می‌توان از طریق  [ویجت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/FollowUpWidget/FollowUpWidget.md)‌ تمامی پیگیری‌های ایجاد شده بر اساس تاریخ را مشاهده کرد و یادآوری ها در زمان تنظیم شده به حالت پاپ آپ بر روی صفحه نمایش داده خواهند شد. واضح است پیگیری و یادآوری تنظیم شده بر روی آیتم‌ها برای یادآوری به خود کارشناس است نه کارشناسان دیگر.
 
 
 ## 7.	ارتباط درون سازمانی

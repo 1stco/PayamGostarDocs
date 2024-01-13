@@ -31,7 +31,7 @@
 
 ## 5.	ایجاد پیگیری و یادآوری
 
-بر روی تمامی آیتم‌های crm می‌توان [پیگیری و یادآوری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) تنظیم کرد. به عنوان مثال قرار است کارشناس تسویه حساب مشتری یا تامین کننده‌ای را پیگیری کند، می‌تواند بر روی فاکتور مربوطه تنظیمات پیگیری و یادآوری را ایجاد کند. همچنین برای مشاهده تمامی پیگیری‌ها می‌توان از طریق [ویجت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Follow-up-today/Follow-up-today.md) تمامی پیگیری‌های ایجاد شده بر اساس تاریخ را مشاهده کرد و یادآوری‌ها در زمان تنظیم شده به حالت پاپ آپ بر روی صفحه نمایش داده خواهند شد. واضح است پیگیری و یادآوری تنظیم شده بر روی آیتم‌ها برای یادآوری به خود کارشناس است نه کارشناسان دیگر.
+بر روی تمامی آیتم‌های crm می‌توان [پیگیری و یادآوری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) تنظیم کرد. به عنوان مثال قرار است کارشناس تسویه حساب مشتری یا تامین کننده‌ای را پیگیری کند، می‌تواند بر روی فاکتور مربوطه تنظیمات پیگیری و یادآوری را ایجاد کند. همچنین برای مشاهده تمامی پیگیری‌ها می‌توان از طریق [ویجت پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/FollowUpWidget/FollowUpWidget.md) تمامی پیگیری‌های ایجاد شده بر اساس تاریخ را مشاهده کرد و یادآوری‌ها در زمان تنظیم شده به حالت پاپ آپ بر روی صفحه نمایش داده خواهند شد. واضح است پیگیری و یادآوری تنظیم شده بر روی آیتم‌ها برای یادآوری به خود کارشناس است نه کارشناسان دیگر.
 
 ## 6.	گزارشات مالی
 

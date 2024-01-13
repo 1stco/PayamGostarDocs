@@ -47,7 +47,7 @@
 ![](8.png)
 
 
- **3**.  [تنظیم قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Set-the-print-template/Set-the-print-template.md) می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند
+ **3**.  [تنظیم قالب چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/PrintTemplateSetting/PrintTemplateSetting.md) می توانید قالب مورد نظر برای ارسال را ایجاد کنید .  (نحوه ویرایش یک پیام برای فکس و پرینت را همانند
  
  
 

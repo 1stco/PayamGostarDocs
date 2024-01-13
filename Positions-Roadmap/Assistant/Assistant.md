@@ -14,7 +14,7 @@
 
 برای این کار، به هنگام ایجاد آیتم قرار ملاقات، در قسمت بالای صفحه، امکان [ثبت یادآوری و پیگیری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/General-specifications/Reminder-and-follow-up/Reminder-and-follow-up.md) وجود دارد.
 
-برای مشاهده قرار ملاقات‌های ایجاد شده و وضعیت آنها، می‌تواند به  [قسمت کارتابل قرار ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Cardboard/Meeting-card/Meeting-card.md) و [ویجت قرار ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Meeting-widget/Meeting-widget.md) مراجعه کند.
+برای مشاهده قرار ملاقات‌های ایجاد شده و وضعیت آنها، می‌تواند به  [قسمت کارتابل قرار ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Cardboard/Meeting-card/Meeting-card.md) و [ویجت قرار ملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Appointment/AppointmentWidget.md) مراجعه کند.
 
 
 
