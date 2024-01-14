@@ -20,6 +20,3 @@
   
   ![](TransferReciept5.png)
   
-  
-  
-  

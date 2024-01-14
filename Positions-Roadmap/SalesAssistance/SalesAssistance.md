@@ -43,7 +43,7 @@ c. از طریق صفحه جست و جوی پیشرفته هویت مورد نظ
  
 **2.** کارشناس فروش پس از طی کردن مراحل فرصت فروش و موفق شدن در مذاکره با مشتری، حال باید طبق سیاست‌های سازمان اقدامات لازم درخصوص صدور آیتم‌های مالی صورت گیرد. در حالت کلی قابلیت‌های پیامگستر برای شروع معاملات به شرح زیر می‌باشد (لازم به ذکر است هر شرکت باتوجه به استراتژی خود از این قابلیت‌ها استفاده می‌کند، به عنوان مثال در برخی از شرکت‌ها بجای صدور فاکتور فروش، قرارداد مالی تنظیم می‌شود).
 
-**1. صدور پیش‌فاکتور فروش:** در پیامگستر از چند طریق می‌توان پیش‌فاکتور فروش را برای مشتری صادر کرد. ساده‌ترین و سریع‌‎ترین راه در صورت استفاده از [فرصت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/mafhom-opportunity.md)، صدور پیش‌فاکتور از روی فرصت فروش می‌باشد. یه معنای دیگر ایجاد [ایجاد سابقه برای فرصت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/New-opportunity.md) (پیش‌فاکتور فروش)  است.
+**1. صدور پیش‌فاکتور فروش:** در پیامگستر از چند طریق می‌توان پیش‌فاکتور فروش را برای مشتری صادر کرد. ساده‌ترین و سریع‌‎ترین راه در صورت استفاده از [فرصت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/New-opportunity/mafhom-opportunity.md)، صدور پیش‌فاکتور از روی فرصت فروش می‌باشد. یه معنای دیگر ایجاد [ایجاد سابقه برای فرصت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Opportunity/NewOpportunity.md) (پیش‌فاکتور فروش)  است.
 
 روش‌های دیگر ایجاد صدور [پیش‌فاکتور فروش](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Integrated-bank/Database/Records/Pre-invoice-new-invoice/Pre-invoice-new-invoice.md):
 

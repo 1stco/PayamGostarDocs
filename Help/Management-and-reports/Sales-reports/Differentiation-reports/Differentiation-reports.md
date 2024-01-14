@@ -6,10 +6,10 @@
 
 [فاکتور برگشت از خرید و فاکتور خرید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Return-invoice-purchase-purchase-invoice/Return-invoice-purchase-purchase-invoice.md)
 
-[رسید انبار و فاکتور خرید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Warehouse-receipt-purchase-invoice/Warehouse-receipt-purchase-invoice.md)
+[رسید انبار و فاکتور خرید](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Warehouse-Receipt-purchase-invoice/Warehouse-Receipt-purchase-invoice.md)
 
 [حواله انبار و فاکتور فروش](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Warehouse-remittance-sale-invoice/Warehouse-remittance-sale-invoice.md)
 
-[فاکتور خرید و رسید انبار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Invoice-for-purchase-and-receipt/Invoice-for-purchase-and-receipt.md)
+[فاکتور خرید و رسید انبار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Invoice-for-purchase-and-Receipt/Invoice-for-purchase-and-Receipt.md)
 
 [فاکتور فروش و حواله انبار](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/Sales-reports/Differentiation-reports/Sales%20-nvoice-warehouse-remittance/Sales%20-nvoice-warehouse-remittance.md)
