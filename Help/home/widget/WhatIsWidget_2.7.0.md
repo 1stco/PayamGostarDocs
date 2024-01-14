@@ -10,23 +10,23 @@
 ## انواع ویجت‌ها{#Widgets}
 شما می‌توانید از ۱۸ نوع ویجت موجود در نرم‌افزار پیام‌گستر جهت سهولت کار خود استفاده نمایید. ویجت‌های موجود شامل عنوان زیر می‌باشد:<br>
 1. [ویجت گزارش](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/ReportWidget.md)
-2. [ویجت جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Advanced-search/Advanced-search.md)
+2. [ویجت جستجوی پیشرفته](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/AdvancedSearch/AdvancedSearchWidget.md)
 3. [ویجت کارتابل](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Cardboard/Cardboard.md)
-4. [ویجت وضعیت کارتابل](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Cartel-tatus/Cartel-tatus.md)
+4. [ویجت وضعیت کارتابل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/CartableStatus/CartableStatusWidget.md)
 5. [ویجت دسترسی سریع](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/QuickAccess/QuickAccessWidget.md)
-6. [ویجت قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Appointment/AppointmentWidget.md)
-7. [ویجت تماس‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/ReceivedCalls/ReceivedCalls-2.7.5)
-8. [ویجت آخرین تماس‌ها](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Last-calls/Last-calls.md)
-9. [ویجت اعلان عمومی](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Public-announcement/Public-announcement.md)
-10. [ویجت قاب وب](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Web-frame/Web-frame.md)
+6. [ویجت قرارملاقات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/AppointmentWidget/AppointmentWidget.md)
+7. [ویجت تماس‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/ReceivedCalls/ReceivedCalls-2.7.5.md)
+8. [ویجت آخرین تماس‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/RecentCalls/RecentCallsWidget.md)
+9. [ویجت اعلان عمومی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/PublicAnnouncement/PublicAnnouncementWidget.md)
+10. [ویجت قاب وب](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/WebFrame/WebFrameWidget.md)
 11. [ویجت نظرات](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Comments/Comments.md)
-12. [ویجت فعالیت‌های من](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/My-activities/My-activities.md)
-13. [ویجت آخرین فعالیت‌ها](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/The-latest-activity/The-latest-activity.md)
-14. [ویجت ساعت](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/watch/watch.md)
-15. [ویجت تقویم](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Calendar/Calendar.md)
-16. [ویجت پیگیری‌ها](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Follow-up-today/Follow-up-today.md)
-17. [ویجت یادآوری‌های سیستم](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/System-reminders/System-reminders.md)
-18. [ویجت محتوای HTML](https://github.com/1stco/PayamGostarDocs/tree/master/Help/home/widget/Html-content/Html-content.md)
+12. [ویجت فعالیت‌های من](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/MyActivities/MyActivitiesWidget.md)
+13. [ویجت آخرین فعالیت‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/LastActivitiy/LastActivityWidget.md)
+14. [ویجت ساعت](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Clock/ClockWidget.md)
+15. [ویجت تقویم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/Calendar/CalendarWidget.md)
+16. [ویجت پیگیری‌ها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/FollowUpWidget/FollowUpWidget.md)
+17. [ویجت یادآوری‌های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/NotificationManagementWidget/NotificationManagementWidget.md)
+18. [ویجت محتوای HTML](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/HtmlContent/HtmlContentWidget.md)
 
 در مورد هر یک از این ویجت‌ها، توضیحات کامل در بخش معرفی ویجت‌ها ارائه شده است. برای مشاهده راهنمای مربوطه بر روی نام ویجت در لیست بالا کلیک کنید.<br>
 ## افزودن ویجت به داشبورد
@@ -42,7 +42,7 @@
 {#WidgetSetting}
 ویجت‌ها با داشتن قابلیت شخصی‌سازی، این امکان را به شما می‌دهند که اندازه و جایگاهشان در هر داشبورد را بر حسب نیاز خود تغییر دهید.<br>
 
-![تنظیمات ویجت‌ها](./Images/Widget-setting-2.7.5.png)
+![تنظیمات ویجت‌ها](./Images/Widget-setting-2.7.0.png)
 
 علاوه بر آن با استفاده از سه نقطه بالای هر ویجت (قابل مشاده در قسمت سمت چپ نوار بالای هر ویجت) و انتخاب **گزینه چرخ‌دنده** (آیکون A در تصویر) می توانید تنظیمات  آن را تغییر دهید. شما می‌توانید رنگ و عنوان هر ویجت را به دلخواه خود تعیین نمایید. در برخی از ویجت‌ها سایر تنظیمات نیز قابل تغییر می‌باشد که در توضیحات هر ویجت به آن‌ها اشاره شده است.<br>
 
