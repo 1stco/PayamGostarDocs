@@ -4,7 +4,7 @@
 
 [اطلاعات مشترک ثبت رسید/حواله](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Buy-warehouse-sales/Store/sabthavale-resid/moshtarak-resid-havale.md) 
 
-[مدیریت اقلام کالا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Buy-warehouse-sales/Store/sabthavale-resid/aghlam-kala.md)
+[مدیریت اقلام کالا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/InventoryManagement/GeneratingWarehouseRecieptSerialNumbers.md)
 
 ![](InventoryTransaction1.jpg)
 
