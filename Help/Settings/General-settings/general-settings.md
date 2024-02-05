@@ -4,7 +4,7 @@
 
 > نکته:  برای دسترسی به این بخش کاربر نیازمند مجوز مدیریت تنظیمات می باشد.
 
-### سر فصلهای این تنظیمات به ترتیب زیر است.
+### سر فصل‌های این تنظیمات به ترتیب زیر است.
 
 [سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/system/system.md)
 
@@ -29,7 +29,7 @@
 
 [کارت مشتری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/Customer-card/Customer-card.md)
 
-[امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/security/security.md)
+[امنیتی](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/security/securitySetting-2.8.1.md)
 
 [فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/Process/Process.md)
 
