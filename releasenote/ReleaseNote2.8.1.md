@@ -8,13 +8,13 @@
 با استفاده از تنظیمات اضافه شده در بخش تنظیمات امنیتی در تنظیمات کلی می‌توانید انقضای نشست کاربران با بسته شدن مرورگر را فعال کنید. بر این اساس با بسته شدن مرورگر، کاربران باید مجدد وارد حساب کاربری خود شوند.<br>
 - **[تنظیمات امنیتی؛ امکان تعیین حداکثر تعداد نشست همزمان کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/General-settings/security/securitySetting-2.8.1.md)**<br>
 با استفاده از تنظیمات اضافه شده در بخش تنظیمات امنیتی در تنظیمات کلی می‌توانید از ورود همزمان یک کاربر با چند مرورگر/اپلیکیشن جلوگیری کنید. از این طریق می‌توانید حداکثر تعداد نشست‌های مجاز را برای کاربران سیستم تعیین کنید.<br>
-- **[مدیریت کاربر؛ امکان تعیین محدودیت‌های نشست (موارد بالا) برای یک کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md)**<br>
+- **[مدیریت کاربر؛ امکان تعیین محدودیت‌های نشست (موارد بالا) برای یک کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md#َUserManagementConsole)**<br>
 با استفاده از تنظیمات اضافه شده به صفحه‌ی مدیریت کاربران، می‌توانید تنظیمات نشستی که از طریق بخش تنظیمات کلی اعمال می‌شوند را صرافاً‌ برای یک کاربر فعال/غیرفعال/ویرایش نمایید.<br>
-- **[مدیریت کاربر؛ امکان تعیین ip مجاز کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md)**<br>
+- **[مدیریت کاربر؛ امکان تعیین ip مجاز کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md#َUserManagementConsole)**<br>
 با درج IP مجاز برای ورود هر کاربر می‌توانید از ورود افراد با سایر IPها جلوگیری نمایید.<br>
--  **[مدیریت کاربر؛ امکان تعیین روزها و ساعت‌های مجاز برای ورود کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md)**<br>
+-  **[مدیریت کاربر؛ امکان تعیین روزها و ساعت‌های مجاز برای ورود کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md#َUserManagementConsole)**<br>
 در صفحه مدیریت کاربر می‌توانید روزهای و ساعات مشخصی را برای کار با نرم‌افزار تعیین کنید. در صورت تعیین روز/زمان در این بخش، کاربر به جز زمان‌های تعیین شده، اجازه‌ی ورود به حساب کاربری‌اش را نخواهد داشت.<br>
-- **[مدیریت کاربر؛ ثبت سوابق ورود و خروج کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md)**<br>
+- **[مدیریت کاربر؛ ثبت سوابق ورود و خروج کاربر](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UsersAndGroupsManagement.2.8.1.md#َUserManagementConsole)**<br>
 بخش سوابق که به صفحه‌ی مدیریت کاربر اضافه شده است، لاگ‌های ورود و خروج کاربر را ثبت کرده و نمایش می‌دهد.
 - **فرآیند؛ امکان استفاده از تخصیص مقدار پیشرفته در فرآیند آیتم قرارداد**<br>
 آیتم قرارداد به لیست آیتم‌هایی که می‌توان از فعالیت تخصیص مقدار پیشرفته در فرآیند آن استفاده کرد، اضافه شد. بر این اساس می‌توانید از تخصیص مقدار پیشرفته برای پر کردن خودکار فیلدهای قرارداد (طی فرآیند) استفاده کنید.<br>
