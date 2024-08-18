@@ -75,4 +75,3 @@
 ![فعالیت‌های کاربر](./Images/user-activities-2.8.4.png)
 
 در این بخش با مدیریت کاربران آشنا شدید. برای تکمیل اطلاعات خود در زمینه مدیریت گروه‌های کاربران، بخش [راهنمای گروه‌های کاربری](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/GroupsAndUsersManagement/UserGroupManagement.md) را نیز مطالعه نمایید. 
-
