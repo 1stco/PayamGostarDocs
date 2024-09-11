@@ -158,7 +158,7 @@ SettlementTerms از طریق شخصی‌سازی اضافه کرده‌اید. 
 چنانچه در مثال ۱۰، قصد داشته باشیم مرتب‌سازی را بر اساس فیلد «تاریخ اتمام» که خودمان در شخصی‌سازی به آیتم درخواست پشتیبانی اضافه‌ کرده‌ایم انجام دهیم، لازم است که به مشابه بخش اول دستور، کد زیرنوع آیتم را در انتهای کد وارد نماییم.<br>
 ```
 @(this.Select(Children.Ticket.Result@
-CustomerTicket).OrderDes(Children.Ticket.EndDate@CustomerTicket).Take(1));//////
+CustomerTicket).OrderDes(Children.Ticket.EndDate@CustomerTicket).Take(1));
 ```
 در مثال فوق EndDate کلید کاربری فیلد تاریخ اتمام و CustomerTicket کد زیرنوع درخواست پشتیبانی (آیتم مبدا) می‌باشد.<br>
 
@@ -198,7 +198,7 @@ CustomerTicket).OrderDes(Children.Ticket.EndDate@CustomerTicket).Take(1));//////
 
 **۱۶ مثال:**<br>
 
-فرض کنید از بین قراردادهایی که برای یک فرصت ثبت شده است قصد دارید قراردادهایی که در لیست کشویی تعریف شده که از نوع پشتیبانی «VIP» است را در فیلد گروه‌بندی مشتری که در فرصت ایجاد کرده‌اید نمایش دهد.
+فرض کنید از بین قراردادهایی که برای یک فرصت ثبت شده است قصد دارید قراردادهایی که در آن چک‌باکس «VIP» فعال بود را در فیلد گروه‌بندی مشتری که در فرصت ایجاد کرده‌اید نمایش دهد.
 
 ```
 @(this.Where(Children.Contract.Typecontract == VIP).Select(Children.Contract.CustomerQroups));
