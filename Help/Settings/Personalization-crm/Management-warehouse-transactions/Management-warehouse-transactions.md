@@ -10,7 +10,7 @@
 
 ### تنظیمات مشترک تراکنش های انبار به صورت زیر می باشد:
 
-> نکته: لطفا ابتدا [ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)  را در این خصوص مطالعه فرمایید.
+> نکته: لطفا ابتدا [ تنظیمات مشترک آیتم های سیستم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/CustomizationCommonSettings/ItemsCommonCustomizationSettings_2.7.5.3.md)  را در این خصوص مطالعه فرمایید.
 
 
 ![](Warehousedraftmanagement2.png)

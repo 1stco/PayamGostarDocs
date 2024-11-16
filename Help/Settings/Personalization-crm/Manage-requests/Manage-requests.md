@@ -11,7 +11,7 @@
 
 با کلیک بر روی آیکون + می توانید یک نوع درخواست پشتیبانی جدید را ایجاد نمایید.
 
-برای تنظیمات عمومی درخواست پشتیبانی به[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/General-information/Shared-information-of-system%20items/Shared-information-of-system%20items.md)مراجعه کنید.
+برای تنظیمات عمومی درخواست پشتیبانی به[ تنظیمات مشترک آیتم های سیستم ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/CustomizationCommonSettings/ItemsCommonCustomizationSettings_2.7.5.3.md)مراجعه کنید.
 
 
 ![](67.png)
