@@ -8,7 +8,7 @@
 
 ![](sari3.jpg.png)
 
-**1. پارامتر هوشمند:** برای تنظیم متن پیام میتوان از پارامترهای هوشمند استفاده کرد. برای استفاده از پارامتر هوشمند باید دو بار بر روی آن کلیک کرد. (برای مطالعه بیشتر به بخش [متن هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/matn-hoshmand/matn-hoshmand.md) مراجعه کنید.)
+**1. پارامتر هوشمند:** برای تنظیم متن پیام میتوان از پارامترهای هوشمند استفاده کرد. برای استفاده از پارامتر هوشمند باید دو بار بر روی آن کلیک کرد. (برای مطالعه بیشتر به بخش [متن هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/Parameters/MessageParameters.md) مراجعه کنید.)
 
 **2. درج امضا:** با کلیک بر روی آیکون قلم می توانید امضای جدیدی را ایجاد کنید و یا از امضاهایی که قبلا برای خود ایجاد نموده اید استفاده کنید. (برای مطالعه بیشتر به بخش [اضافه کردن امضا](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/moshtarak-abzar/gam%20do/add-a-signature/add-a-sign.md) مراجعه کنید.)
 

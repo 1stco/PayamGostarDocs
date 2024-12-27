@@ -16,7 +16,7 @@
 
 **1. محتوای پیامک:** متن پیام برای ارسال به مخاطب از نوع متن ساده می باشد .
 
-در این نوع ارسال می توانید از  [متن هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/matn-hoshmand/matn-hoshmand.md) استفاده کنید.
+در این نوع ارسال می توانید از  [متن هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/Parameters/MessageParameters.md) استفاده کنید.
 
 
 ![](advertise-tools8.png)
