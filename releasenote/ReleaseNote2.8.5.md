@@ -2,7 +2,7 @@
 ###### ۳ دی ۱۴۰۳
 
 ##### قابلیت‌های جدید
-- **[تماس؛ اضافه شدن قابلیت تنظیم عملیات بر اساس زمان تغییرات تماس](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Telephone-systems/Call-reminder-settings/CallReminderSetting_2.8.5.md)**<br>
+- **[تماس؛ اضافه شدن قابلیت تنظیم عملیات بر اساس زمان تغییرات تماس](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Telephone-systems/Call-reminder-settings/CallReminderSetting_2.8.5.md#CallReminderTime)**<br>
 از این پس می‌توانید علاوه بر «شروع تماس» و «خاتمه تماس»، «تغییرات تماس» را نیز به عنوان زمان مورد نظر برای اجرای عملیات تنظیم شده در یادآوری تماس انتخاب نمایید. بر این اساس، هر تغییر در وضعیت تماس (مثل انتقال تماس به داخلی دیگر)، به منزله‌ی اجرای عملیات می‌باشد.
 - **[تماس؛ اضافه شدن امکان درج نام کاربری مرتبط با داخلی تماس به عنوان ایجادکننده‌ی فرم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Telephone-systems/Call-reminder-settings/CallReminderSetting_2.8.5.md#CallReminderAction)**<br>
 یکی از عملیات‌های قابل تنظیم برای یادآوری تماس، ایجاد فرم می‌باشد. به صورت پیش‌فرض، به سبب ثبت خودکار فرم توسط نرم‌افزار، سیستم به عنوان ایجادکننده‌ی فرم در نظر گرفته می‌شود. در نسخه‌ی جدید این امکان فراهم شده‌است که با فعال‌سازی گزینه‌ی «ایجاد فرم برای هر داخلی پاسخگو»، نام کاربری مرتبط با داخلی مورد نظر (داخلی‌ای که تماس به آن وارد یا از آن برقرار شده‌است) به عنوان ایجادکننده‌ی فرم درج شود.
