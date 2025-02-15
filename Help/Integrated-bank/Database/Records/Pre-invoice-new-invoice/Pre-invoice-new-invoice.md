@@ -76,6 +76,6 @@
 - اگر محصولی **مشابه یکی از محصولات موجود** در فاکتور را با **تغییر نام** به فاکتور اضافه کنید، در صورتی که تنظیمات فاکتور در حالتی باشد که «قابلیت افزودن محصولات تکراری» برای آن فعال باشد، محصول با نام جدید در ردیف پایین فاکتور درج می‌شود. در مثال بالا، اگر محصول «روان‌نویس» جزء محصولات  قابل ویرایش در فاکتور باشد، شما می‌توانید به هنگام افزودن، نام آن را به «روان‌نویس مشکی» تغییر دهید. در این حالت، محصول در ردیف سوم فاکتور اضافه می‌شود. اما در حالتی که «قابلیت افزودن محصول تکراری»  غیرفعال باشد، تعداد روان‌نویس مشکی به سطر روان‌نویس افزوده می‌شود. 
 
 > **نکته**<br>
-> تنظیمات  قابل ویرایش بودن محصول از بخش [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Add-product/Add-product.md#ProductNameEditing) و تنظیمات مرتبط با قابلیت افزودن محصول تکراری از بخش [شخصی‌سازی فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Factor-management/Factor-management.md#AddingDuplicateProduct) انجام می‌پذیرد.<br>
+> تنظیمات  قابل ویرایش بودن محصول از بخش [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/AddingProduct_2.8.6.md#ProductNameEditing) و تنظیمات مرتبط با قابلیت افزودن محصول تکراری از بخش [شخصی‌سازی فاکتور](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Factor-management/Factor-management.md#AddingDuplicateProduct) انجام می‌پذیرد.<br>
 
 ‌

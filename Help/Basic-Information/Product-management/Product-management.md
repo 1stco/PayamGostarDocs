@@ -34,7 +34,7 @@
 
 **8. ارسال به فروشگاه آنلاین:** همگام سازی محصولات با فروشگاه آنلاین از این قسمت باید اعمال گردد. (برای اطلاع از نحوه همگام سازی به [ارسال به فروشگاه آنلاین ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Online-shop/Online-shop.md)مراجعه کنید .
 
-**9. اضافه کردن:** با کلیک بر روی این دکمه می‌توانید یک محصول جدید تعریف کنید. قسمت [اضافه کردن محصول ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Add-product/Add-product.md)را مطالعه کنید.
+**9. اضافه کردن:** با کلیک بر روی این دکمه می‌توانید یک محصول جدید تعریف کنید. قسمت [اضافه کردن محصول ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/AddingProduct_2.8.6.md)را مطالعه کنید.
 
      
 ## اکسل تنظیمات امتیاز 

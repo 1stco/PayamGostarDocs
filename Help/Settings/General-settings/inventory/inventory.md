@@ -18,7 +18,7 @@
 - **نام کاربری:** نام کاربری ادمین نرم‌افزار انبارداری خود را وارد نمایید.
 - **رمز عبور:** رمز عبور ادمین نرم‌افزار انبارداری خود را وارد نمایید.
 
-برای دریافت و ارسال موجودی از کدهای جیسون زیر و روش **Post** استفاده کنید. در این کد، منظور از نام‌ کاربری و رمز عبور، نام کاربری و رمز عبور ادمین نرم‌افزار انبارداری است. شناسه و کد هر محصول در بخش [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Product-management.md) در صفحه اطلاعات هر [محصول](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Add-product/Add-product.md) در دسترس است. برای دسترسی به کد هر انبار به صفحه [مدیریت انبارها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Warehouse-management/warehouse-new.md) مراجعه نمایید.<br>
+برای دریافت و ارسال موجودی از کدهای جیسون زیر و روش **Post** استفاده کنید. در این کد، منظور از نام‌ کاربری و رمز عبور، نام کاربری و رمز عبور ادمین نرم‌افزار انبارداری است. شناسه و کد هر محصول در بخش [مدیریت محصولات](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/Product-management.md) در صفحه اطلاعات هر [محصول](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Product-management/AddingProduct_2.8.6.md) در دسترس است. برای دسترسی به کد هر انبار به صفحه [مدیریت انبارها](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Warehouse-management/warehouse-new.md) مراجعه نمایید.<br>
 
 **کد جیسون ارسالی برای دریافت موجودی**
 
