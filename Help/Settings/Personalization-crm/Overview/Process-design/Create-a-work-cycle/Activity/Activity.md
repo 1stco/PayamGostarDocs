@@ -12,13 +12,13 @@
 
 [1.  تصمیم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Decision/Decision.md)
 
-[2.  ارسال پیام کوتاه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-sms/send-sms.md)
+[2.  ارسال پیام کوتاه](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SendMessageActivities/SendSMSActivity_2.7.5.md)
 
-[3.  ارسال ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-email/send-email.md)
+[3.  ارسال ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SendMessageActivities/SendEmailActivity_2.5.6.md)
 
-[4.  ارسال فکس](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/send-email/send-email.md)
+[4.  ارسال فکس](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SendMessageActivities/SendFaxActiviy_2.7.5.md)
 
-[5.  چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Send%20SMS%2C%20email/print-send/print-send.md)
+[5.  چاپ](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/SendMessageActivities/PrintActivity_2.7.5.md)
 
 [6. مالی - تایید آیتم](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/taid-rad-item/taid-rad-item.md)
 
