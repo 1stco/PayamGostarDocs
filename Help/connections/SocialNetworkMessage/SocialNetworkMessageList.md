@@ -4,6 +4,6 @@
 ![لیست پیام‌های شبکه‌های پیام‌رسان](./Image/social-network-message-list.png)
 
 > **نکته**<br>
-> به منظور آشنایی با هر یک از اطلاعات قابل مشاهده در لیست پیام‌ها، پیشنهاد می‌شود که راهنمای [راهنمای لیست پیام‌های دریافتی از شبکه‌های پیام‌رسان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/SocialNetworkMessage/List/ReceivedList.md) و [لیست پیام‌های ارسالی از شبکه‌های پیام‌رسان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/SocialNetworkMessage/List/SentList.md) را مطالعه نمایید.<br>
+> به منظور آشنایی با هر یک از اطلاعات قابل مشاهده در لیست پیام‌ها، پیشنهاد می‌شود که راهنمای [لیست پیام‌های دریافتی از شبکه‌های پیام‌رسان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/SocialNetworkMessage/List/ReceivedList.md) و [لیست پیام‌های ارسالی از شبکه‌های پیام‌رسان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/SocialNetworkMessage/List/SentList.md) را مطالعه نمایید.<br>
 
 در این لیست می‌توانید پیام‌های ارسالی/دریافتی از خط انتخابی در شبکه‌ی پیام‌رسان را مشاهده نمایید. در صورت نیاز به مشاهده‌ی لیست‌ پیام‌های ارسالی و دریافتی تمامی خطوط به صورت یکجا، از تب تبلیغات اقدام به دریافت لیست نمایید.<br>
