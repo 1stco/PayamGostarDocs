@@ -47,6 +47,7 @@
 - در صورت استفاده از رسانه‌ی ایمیل، عنوان آن را نیز می‌‌توانید درج کنید تا در بخش Subject ایمیل نمایش داده‌شود.
 - در صورت استفاده از رسانه‌ی ایمیل در ارسال سریع به خاطر داشته‌باشید که امکان پیوست فایل فراهم نمی‌باشد. در صورت نیاز به پیوست فایل، از «ارسال ایمیل» به جای ارسال سریع استفاده کنید.
 - در صورت استفاده از رسانه‌ی فکس، پیام را باید با استفاده از ابزار Web client tool، مشابه قالب پیش‌نمایش، تنظیم نمایید. بدین منظور می‌توانید از [راهنمای تنظیم قالب پیش‌نمایش](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/CustomizationCommonSettings/PrintTemplateSetting.md) استفاده کنید.
-- در صورت استفاده از پیام شبکه‌های اجتماعی، در صورت تمایل تصویر مرتبط با پیام خود را نیز در آن بارگذاری نمایید تا همراه با پیام برای مخاططب ارسال شود.
+- در صورت استفاده از پیام شبکه‌های اجتماعی، می‌توانید محتوایی از نوع تصویر، فایل Excel، فایل Word یا فایل PDF به پیام خود اضافه نمایید و یا از قالب‌های از پیش تعریف شده در بخش [مدیریت پیام‌های الگو](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Basic-Information/Model-message-management/Model-message-management.md) استفاده کنید. در صورت انتخاب فایل Word از همین بخش هم می‌توانید با استفاده از ابزار web client tool اقدام به تنظیم قالب نمایید (روش انجام این کار مشابه [تنظیم قالب پیش‌نمایش](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Settings/Personalization-crm/CustomizationCommonSettings/PrintTemplateSetting.md) می‌باشد). لازم به ذکر است که در صورت انتخاب گزینه‌ی Plain Text صرفاً متن پیام مندرج برای مخاطب/مخاطبان ارسال می‌شود لکن با انتخاب هر یک از قالب‌های دیگر می‌توانید متن را در کنار فایل ارسال نمایید. <br>
 
-
+> **نکته**<br>
+> با توجه به اینکه نحوه تنظیم پیام‌های شبکه‌های اجتماعی کمی با سایر رسانه‌ها متفاوت می‌باشد، پیشنهاد می‌شود برای آشنایی با نحوه‌ی تنظیم پیام از این نوع به راهنمای [محتوای پیام شبکه‌های پیام‌رسان](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Marketing/SocialNetworkMessage/GroupMessage/MessageContent.md) مراجعه نمایید.
