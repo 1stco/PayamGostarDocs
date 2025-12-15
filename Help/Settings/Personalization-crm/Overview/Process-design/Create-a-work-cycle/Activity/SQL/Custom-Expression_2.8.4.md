@@ -170,3 +170,9 @@ Select @(this.Select(Children.Form.Subject).Order(Children.Form.CreateDate).Take
 با این دستور فیلد مبلغ نهایی فاکتور برگشت از خرید که در سابقه آیتم جاری وجود دارد، برگردانده می‌شود.
 
  @(this.Where(Children.Invoice.BillableObjectTypeindex == 7).Select(Children.Invoice.FinalValue));
+
+
+
+
+
+در واقع Custom Expression شامل دستوراتی است که ساختار کلی آن با زبان #C در کتابخانه Linq نوشته شده است. از این دستورات می‌توانید در طی فرآیند اطلاعاتی را از دیتابیس دریافت کرده و خروجی آن را در فیلدهای مقصد مورد نظر خود مشاهده کنید. از آنجایی که دستورات به کار رفته در expression پیام‌گستر، دستوراتی ابتکاری الهام گرفته از این دو زبان است، از Syntax مختص به خود برای انتقال اطلاعات استفاده می‌کند.<br>
